@@ -25,7 +25,7 @@ organizerName: "MSS"
 organizerAlternateName: "Monash Science Symposium"
 #organizerDescription: "Insert description"
 #organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/mss-logo-colour-small.png"
+organizerLogo: "/img/seo/organizer-logo.png"
 #organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
@@ -55,7 +55,7 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "monash-panorama.jpg"
+heroImage: "hero.jpg"
 heroTitle: "Monash Science Symposium <typeout>"
 eventDate: "January 2021"
 typeoutTextValues: '"", "2021"'
