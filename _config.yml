@@ -23,10 +23,10 @@ permalink: "/blog/:title"
 # Organizer Info
 organizerName: "MSS"
 organizerAlternateName: "Monash Science Symposium"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+#organizerDescription: "Insert description"
+#organizerEmail: "lviv@gdg.org.ua"
+organizerLogo: "/img/seo/mss-logo-colour-small.png"
+#organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -55,17 +55,17 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
-heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+heroImage: "/img/sections-background/monash-panorama.jpg"
+heroTitle: "Monash Science Symposium <typeout>"
+eventDate: "January 2021"
+typeoutTextValues: '"", "2021"'
+typeoutFallback: "2021"
+#heroButtons:
+ #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About MSS"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
