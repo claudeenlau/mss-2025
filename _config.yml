@@ -55,7 +55,7 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "/img/sections-background/monash-panorama.jpg"
+heroImage: "monash-panorama.jpg"
 heroTitle: "Monash Science Symposium <typeout>"
 eventDate: "January 2021"
 typeoutTextValues: '"", "2021"'
