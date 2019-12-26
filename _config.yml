@@ -67,9 +67,14 @@ typeoutFallback: "2021"
 # About Block
 aboutTitle: "About MSS"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Cellular Biology", image: category_logo_cellular_biology.png"}
+ - {title: "Chemistry", image: "category_logo_chemistry.png"}
+ - {title: "Science Communication", image: "category_logo_sci_comm.png"}
+ - {title: "Environmental Science", image: "category_logo_environmental.png"}
+ - {title: "Genomics and Bioinformatics", image: "category_logo_genomics_and_bioinformatics.png"}
+ - {title: "Science Safety", image: "category_logo_safety.png"}
+ - {title: "Microbiology", image: "category_logo_microbiology.png"}
+ - {title: "Food Science", image: "category_logo_foodscience.png"}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
