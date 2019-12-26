@@ -67,14 +67,14 @@ typeoutFallback: "2021"
 # About Block
 aboutTitle: "About MSS"
 aboutBlock:
- - {title: "Cellular Biology", image: category_logo_cellular_biology.png"}
- - {title: "Chemistry", image: "category_logo_chemistry.png"}
- - {title: "Science Communication", image: "category_logo_sci_comm.png"}
- - {title: "Environmental Science", image: "category_logo_environmental.png"}
- - {title: "Genomics and Bioinformatics", image: "category_logo_genomics_and_bioinformatics.png"}
- - {title: "Science Safety", image: "category_logo_safety.png"}
- - {title: "Microbiology", image: "category_logo_microbiology.png"}
- - {title: "Food Science", image: "category_logo_foodscience.png"}
+ - {text: "Cellular Biology", image: category_logo_cellular_biology.png"}
+ - {text: "Chemistry", image: "category_logo_chemistry.png"}
+ - {text: "Science Communication", image: "category_logo_sci_comm.png"}
+ - {text: "Environmental Science", image: "category_logo_environmental.png"}
+ - {text: "Genomics and Bioinformatics", image: "category_logo_genomics_and_bioinformatics.png"}
+ - {text: "Science Safety", image: "category_logo_safety.png"}
+ - {text: "Microbiology", image: "category_logo_microbiology.png"}
+ - {text: "Food Science", image: "category_logo_foodscience.png"}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
