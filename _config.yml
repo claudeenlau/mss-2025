@@ -56,10 +56,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Monash Science Symposium <typeout>"
+heroTitle: "MSS <typeout> 2021"
 eventDate: "January 2021"
-typeoutTextValues: '"", "2021"'
-typeoutFallback: "2021"
+typeoutTextValues: '"", "Cellular Biology", "Chemistry", "Science Communication", "Environmental Science", "Genomics and Bioinformatics", "Science Safety", "Microbiology", "Food Science"'
+typeoutFallback: ""
 #heroButtons:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  #- {permalink: "/#tickets", text: "Buy tickets"}
@@ -67,22 +67,21 @@ typeoutFallback: "2021"
 # About Block
 aboutTitle: "About MSS"
 aboutBlock:
- - {text: "Cellular Biology", image: category_logo_cellular_biology.png"}
- - {text: "Chemistry", image: "category_logo_chemistry.png"}
- - {text: "Science Communication", image: "category_logo_sci_comm.png"}
- - {text: "Environmental Science", image: "category_logo_environmental.png"}
- - {text: "Genomics and Bioinformatics", image: "category_logo_genomics_and_bioinformatics.png"}
- - {text: "Science Safety", image: "category_logo_safety.png"}
- - {text: "Microbiology", image: "category_logo_microbiology.png"}
- - {text: "Food Science", image: "category_logo_foodscience.png"}
+ - {title: "Cellular Biology", image: category_logo_cellular_biology.png"}
+ - {title: "Chemistry", image: "category_logo_chemistry.png"}
+ - {title: "Science Communication", image: "category_logo_sci_comm.png"}
+ - {title: "Environmental Science", image: "category_logo_environmental.png"}
+ - {title: "Genomics and Bioinformatics", image: "category_logo_genomics_and_bioinformatics.png"}
+ - {title: "Science Safety", image: "category_logo_safety.png"}
+ - {title: "Microbiology", image: "category_logo_microbiology.png"}
+ - {title: "Food Science", image: "category_logo_foodscience.png"}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "15", specialCharacter: " Jan", info: "2020", detail: "Early Bird Deadline"}
+ - {count: "30", specialCharacter: " Jan", info: "2020", detail: "Abstract Deadline"}
+ - {count: "1", specialCharacter: " Feb", info: "2020", detail: "Registration Closes"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -95,19 +94,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+eventLocationName: "Monash University Malaysia"
+#eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventStreetAddress: "Jalan Lagoon Selatan, Bandar Sunway, 47500 Subang Jaya"
+eventAddressLocality: "Selangor Malaysia"
+#eventAddressLocalityRegion: "Lv{% include about.html %}ivska"
+eventPostalCode: "47500"
+eventAddressCountry: "Malaysia"
+eventStartTime: "2021-01-10T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2021-01-15T20:00"
+eventPlaceCoordinates: "3.064917, 101.600973"
+mapCenterCoordinates: "3.064917, 101.600973"
+mapMobileCenterCoordinates: "3.064917, 101.600973"
 
 # Venue Block
 venueBlockTitle: "Venue"
