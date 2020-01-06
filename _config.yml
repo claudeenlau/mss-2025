@@ -31,24 +31,25 @@ organizerLogo: "/img/seo/organizer-logo.png"
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
 twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/organizer-logo.png"
+socialImageSrcTwitter: "/img/seo/organizer-logo.png"
+socialImageSrcFacebook: "/img/seo/organizer-logo.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+#c4pUrl: "https://bit.ly/dfua-c4p"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/about_us/", text: "About Us"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/registration/", text: "Registration"}
+ - {permalink: "/abstract/", text: "Abstract"}
+ - {permalink: "/sponsors/", text: "Sponsors"}
+# {permalink: "/getting_around/", text: "Getting Around"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -56,25 +57,25 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "MSS <typeout> 2021"
+heroTitle: "MSS<typeout> 2021"
 eventDate: "January 2021"
-typeoutTextValues: '"", "Cellular Biology", "Chemistry", "Science Communication", "Environmental Science", "Genomics and Bioinformatics", "Science Safety", "Microbiology", "Food Science"'
+typeoutTextValues: '"", " Cellular Biology", " Chemistry", " Science Communication", " Environmental Science", " Genomics and Bioinformatics", " Science Safety", " Microbiology", " Food Science"'
 typeoutFallback: ""
 #heroButtons:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About MSS"
+aboutTitle: "Categories"
 aboutBlock:
- - {title: "Cellular Biology", image: category_logo_cellular_biology.png"}
- - {title: "Chemistry", image: "category_logo_chemistry.png"}
- - {title: "Science Communication", image: "category_logo_sci_comm.png"}
- - {title: "Environmental Science", image: "category_logo_environmental.png"}
- - {title: "Genomics and Bioinformatics", image: "category_logo_genomics_and_bioinformatics.png"}
- - {title: "Science Safety", image: "category_logo_safety.png"}
- - {title: "Microbiology", image: "category_logo_microbiology.png"}
- - {title: "Food Science", image: "category_logo_foodscience.png"}
+ - {text: "Cellular Biology", image: category_logo_cellular_biology.png"}
+ - {text: "Chemistry", image: "category_logo_chemistry.png"}
+ - {text: "Microbiology", image: "category_logo_microbiology.png"}
+ - {text: "Science Safety", image: "category_logo_safety.png"}
+ - {text: "Genomics and Bioinformatics", image: "category_logo_genomics_and_bioinformatics.png"}
+ - {text: "Science Communication", image: "category_logo_sci_comm.png"}
+ - {text: "Food Science", image: "category_logo_foodscience.png"}
+ - {text: "Environmental Science", image: "category_logo_environmental.png"}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -96,14 +97,14 @@ rockstarSpeakersButtonText: "See all speakers"
 locationBlockTitle: "Location"
 eventLocationName: "Monash University Malaysia"
 #eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "Jalan Lagoon Selatan, Bandar Sunway, 47500 Subang Jaya"
-eventAddressLocality: "Selangor Malaysia"
+eventStreetAddress: "Jalan Lagoon Selatan, Bandar Sunway"
+eventAddressLocality: "47500 Subang Jaya, Selangor, Malaysia"
 #eventAddressLocalityRegion: "Lv{% include about.html %}ivska"
 eventPostalCode: "47500"
 eventAddressCountry: "Malaysia"
-eventStartTime: "2021-01-10T09:00"
-eventDoorTime: "09:00"
-eventEndTime: "2021-01-15T20:00"
+eventStartTime: "8 Jan (09:00)"
+#eventDoorTime: "09:00"
+eventEndTime: "10 Jan (20:00)"
 eventPlaceCoordinates: "3.064917, 101.600973"
 mapCenterCoordinates: "3.064917, 101.600973"
 mapMobileCenterCoordinates: "3.064917, 101.600973"
