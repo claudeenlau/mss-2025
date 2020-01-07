@@ -43,13 +43,13 @@ socialImageSrcFacebook: "/img/seo/organizer-logo.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/about_us/", text: "About Us"}
+ - {permalink: "/about-us/", text: "About Us"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/registration/", text: "Registration"}
  - {permalink: "/abstract/", text: "Abstract"}
  - {permalink: "/sponsors/", text: "Sponsors"}
-# {permalink: "/getting_around/", text: "Getting Around"}
+ - {permalink: "/getting-around/", text: "Getting Around"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -74,7 +74,7 @@ aboutBlock:
  - {text: "Science Safety", image: "category_logo_safety.png"}
  - {text: "Genomics and Bioinformatics", image: "category_logo_genomics_and_bioinformatics.png"}
  - {text: "Science Communication", image: "category_logo_sci_comm.png"}
- - {text: "Food Science", image: "category_logo_foodscience.png"}
+ - {text: "Food Science and Technology", image: "category_logo_foodscience.png"}
  - {text: "Environmental Science", image: "category_logo_environmental.png"}
 
 # Statistic Block
@@ -207,8 +207,9 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "About MSS"
+aboutMSS: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "We are a team of ..."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

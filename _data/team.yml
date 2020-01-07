@@ -4,7 +4,7 @@
   surname: "Zasadnyy"
   title: "Sponsors and Speakers Manager"
   thumbnailUrl: VitaliyZasadnyy.jpg
-  team: true
+  head: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
@@ -18,7 +18,7 @@
   surname: "Zasadnyy"
   title: "Designer and Web Developer"
   thumbnailUrl: OlehZasadnyy.jpg
-  team: true
+  head: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
@@ -30,7 +30,7 @@
   surname: "Andrusiv"
   title: "Sponsors and Speakers Manager"
   thumbnailUrl: OstapAndrusiv.jpg
-  team: true
+  head: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
@@ -55,6 +55,15 @@
   title: "Web and Cloud Program Committee"
   thumbnailUrl: ValentynShybanov.jpg
   subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+
+  id: 8
+  name: "Valentyn"
+  surname: "Shybanov"
+  title: "Web and Cloud Program Committee"
+  thumbnailUrl: ValentynShybanov.jpg
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
