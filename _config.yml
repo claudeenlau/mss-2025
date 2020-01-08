@@ -51,9 +51,9 @@ navigationLinks:
  - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/getting-around/", text: "Getting Around"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Register here"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Register here"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,20 +61,19 @@ heroTitle: "MSS<typeout> 2021"
 eventDate: "January 2021"
 typeoutTextValues: '"", " Cellular Biology", " Chemistry", " Science Communication", " Environmental Science", " Genomics and Bioinformatics", " Science Safety", " Microbiology", " Food Science"'
 typeoutFallback: ""
-#heroButtons:
- #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- #- {permalink: "/#tickets", text: "Buy tickets"}
+heroButtons:
+- {link: "https://bit.ly/dfua-c4p", text: "Register here"}
+- {permalink: "/#tickets", text: "Become a sponsor"}
 
 # About Block
 aboutTitle: "Categories"
 aboutBlock:
- - {text: "Cellular Biology", image: category_logo_cellular_biology.png"}
- - {text: "Chemistry", image: "category_logo_chemistry.png"}
- - {text: "Microbiology", image: "category_logo_microbiology.png"}
- - {text: "Science Safety", image: "category_logo_safety.png"}
- - {text: "Genomics and Bioinformatics", image: "category_logo_genomics_and_bioinformatics.png"}
- - {text: "Science Communication", image: "category_logo_sci_comm.png"}
- - {text: "Food Science and Technology", image: "category_logo_foodscience.png"}
+ - {text: "Cellular Biology & Biochemistry", image: category_logo_cellular_biology.png"}
+ - {text: "Chemistry & Drug Discovery", image: "category_logo_chemistry.png"}
+ - {text: "Applied Microbiology", image: "category_logo_microbiology.png"}
+ - {text: "Science Safety & Communication", image: "category_logo_combo.png"}
+ - {text: "Genomics & Bioinformatics", image: "category_logo_genomics_and_bioinformatics.png"}
+ - {text: "Food Science & Technology", image: "category_logo_foodscience.png"}
  - {text: "Environmental Science", image: "category_logo_environmental.png"}
 
 # Statistic Block
@@ -126,7 +125,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
