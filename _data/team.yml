@@ -1,69 +1,185 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Heerman"
+  surname: "Kumar"
+  title: "Co-Chairperson"
+  thumbnailUrl: HeermanKumar.JPG
   head: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Isra"
+  surname: "Ahmad Farouk"
+  title: "Co-Chairperson"
+  thumbnailUrl: IsraAhmadFarouk.JPG
   head: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Nur Zawanah"
+  surname: "Zabidi"
+  title: "Secretary"
+  thumbnailUrl: NurZawanahZabidi.JPG
   head: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {abbr: "SEC", title: "Secretariat"}
+-
+  id: 3
+  name: "Nishat"
+  surname: "Anan"
+  title: "Assistant Secretary"
+  thumbnailUrl: NishatAnan.JPG
+  subTeam: true
+  ribbon: 
+    - {abbr: "SEC", title: "Secretariat"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+  name: "Nurhamimah"
+  surname: "Misuan"
+  title: "Head of Treasury"
+  thumbnailUrl: NurhamimahMisuan.JPG
+  head: true
+  ribbon: 
+    - {abbr: "TRE", title: "Treasury"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  id: 5
+  name: "Yanning"
+  surname: "Yong"
+  title: "Internal Sponsorship Officer"
+  thumbnailUrl: YanningYong.JPG
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
-
+  ribbon: 
+    - {abbr: "TRE", title: "Treasury"}
+-
+  id: 6
+  name: "Caleb"
+  surname: "Cheah"
+  title: "External Sponsorship Officer"
+  thumbnailUrl: CalebCheah.JPG
+  subTeam: true
+  ribbon: 
+    - {abbr: "TRE", title: "Treasury"}
+-
+  id: 7
+  name: "Guggilla "
+  surname: "Mrudula"
+  title: "Head of Activities"
+  thumbnailUrl: GuggillaMrudula.JPG
+  head: true
+  ribbon: 
+    - {abbr: "ACT", title: "Activities"}
+-
   id: 8
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  name: "Poi Yi"
+  surname: "Aw Yong"
+  title: "Head of Layout and Planning"
+  thumbnailUrl: PoiYiAwYong.JPG
+  subTeam: true
+  ribbon: 
+    - {abbr: "ACT", title: "Activities"}
+-
+  id: 9
+  name: "Towhid"
+  surname: "Hasan"
+  title: "Head of Appreciation"
+  thumbnailUrl: TowhidHasan.JPG
+  subTeam: true
+  ribbon: 
+    - {abbr: "ACT", title: "Activities"}
+-
+  id: 10
+  name: "Kirsty"
+  surname: "Anne Illingworth"
+  title: "Head of Editorial 1"
+  thumbnailUrl: KirstyAnneIllingworth.JPG
+  head: true
+  ribbon: 
+    - {abbr: "ED", title: "Editorial"}
+-
+  id: 11
+  name: "Madhuri"
+  surname: "Pulijala"
+  title: "Head of Editorial 2"
+  thumbnailUrl: MadhuriPulijala.JPG
+  head: true
+  ribbon: 
+    - {abbr: "ED", title: "Editorial"}
+-
+  id: 12
+  name: "Ashwini"
+  surname: "Puniyamurti"
+  title: "Subcommittee member"
+  thumbnailUrl: AshwiniPuniyamurti.JPG
+  subTeam: true
+  ribbon: 
+    - {abbr: "ED", title: "Editorial"}
+-
+  id: 13
+  name: "Mansura"
+  surname: "Mokbul"
+  title: "Subcommittee member"
+  thumbnailUrl: MansuraMokbul.JPG
+  subTeam: true
+  ribbon: 
+    - {abbr: "ED", title: "Editorial"}
+-
+  id: 14
+  name: "Ru Wei"
+  surname: "Teoh"
+  title: "Head Of Logistics"
+  thumbnailUrl: RuWeiTeoh.JPG
+  head: true
+  ribbon: 
+    - {abbr: "LOG", title: "Logistics"}
+-
+  id: 15
+  name: "Marjia"
+  surname: "Sultana"
+  title: "Head of Public Address"
+  thumbnailUrl: MarjiaSultana.JPG
+  subTeam: true
+  ribbon: 
+    - {abbr: "LOG", title: "Logistics"}
+-
+  id: 16
+  name: "Priyanka"
+  surname: "Parhi"
+  title: "Head of Publicity and Creative Design"
+  thumbnailUrl: PriyankaParhi.JPG
+  head: true
+  ribbon: 
+    - {abbr: "PCD", title: "Publicity and Creative Design"}
+-
+  id: 17
+  name: "Md Hamed"
+  surname: "Hussain"
+  title: "Head of Marketing and Merchandise 1"
+  thumbnailUrl: MdHamedHussain.JPG
+  subTeam: true
+  ribbon: 
+    - {abbr: "PCD", title: "Publicity and Creative Design"}
+-
+  id: 18
+  name: "Nazmul Hasan"
+  surname: "Muzahid"
+  title: "Head of Marketing and Merchandise 2"
+  thumbnailUrl: NazmulHasanMuzahid.JPG
+  subTeam: true
+  ribbon: 
+    - {abbr: "PCD", title: "Publicity and Creative Design"}
+-
+  id: 19
+  name: "Fadilla"
+  surname: "Wahyudi"
+  title: "Website Manager"
+  thumbnailUrl: FadillaWahyudi.JPG
+  subTeam: true
+  ribbon: 
+    - {abbr: "PCD", title: "Publicity and Creative Design"}
+-
+  id: 20
+  name: "Harpreet"
+  surname: "Kaur"
+  title: "Social Media Manager"
+  thumbnailUrl: HarpreetKaur.JPG
+  subTeam: true
+  ribbon: 
+    - {abbr: "PCD", title: "Publicity and Creative Design"}

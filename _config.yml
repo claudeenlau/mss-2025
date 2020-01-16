@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -59,14 +59,14 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "MSS<typeout> 2021"
 eventDate: "January 2021"
-typeoutTextValues: '"", " Cellular Biology", " Chemistry", " Science Communication", " Environmental Science", " Genomics and Bioinformatics", " Science Safety", " Microbiology", " Food Science"'
+typeoutTextValues: '"", " Cellular Biology & Biochemistry", " Chemistry & Drug Discovery", " Science Safety & Communication", " Environmental Science", " Genomics & Bioinformatics", " Applied Microbiology", " Food Science & Technology"'
 typeoutFallback: ""
 heroButtons:
 - {link: "https://bit.ly/dfua-c4p", text: "Register here"}
 - {permalink: "/#tickets", text: "Become a sponsor"}
 
 # About Block
-aboutTitle: "Categories"
+aboutTitle: "7 Categories"
 aboutBlock:
  - {text: "Cellular Biology & Biochemistry", image: category_logo_cellular_biology.png"}
  - {text: "Chemistry & Drug Discovery", image: "category_logo_chemistry.png"}
