@@ -59,7 +59,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "MSS<typeout> 2021"
 eventDate: "January 2021"
-typeoutTextValues: '"", " Cellular Biology & Biochemistry", " Chemistry & Drug Discovery", " Science Safety & Communication", " Environmental Science", " Genomics & Bioinformatics", " Applied Microbiology", " Food Science & Technology"'
+typeoutTextValues: '"", " Cellular Biology and Biochemistry", " Chemistry and Drug Discovery", " Science Safety and Communication", " Environmental Science", " Genomics and Bioinformatics", " Applied Microbiology", " Food Science and Technology"'
 typeoutFallback: ""
 heroButtons:
 - {link: "https://bit.ly/dfua-c4p", text: "Register here"}
@@ -205,10 +205,12 @@ discusShortName: "devfestua"
 # Speakers List Block
 showSessions: true
 
-# Team Block
+# Team Block (and About Us/MSS)
 teamBlockTitle: "About MSS"
-aboutMSS: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
-aboutUs: "We are a team of ..."
+aboutUs: "The Monash Science Symposium (MSS) is a student-led event by the School of Science postgraduate students of Monash University Malaysia (MUM). We hope to initiate the conference as an annual event that acts as a platform for students to gain experience and valuable insight towards their research. It also serves as a promotional event to highlight the capabilities of postgraduates in research outputs and the dissemination of their scientific findings to a broader, and ideally, international audience. Gala networking dinner is expected to be an event which prioritizes networking and collaboration. It is also can be the future direction of this event will aim to showcase research here in Monash to engage with other universities and industries to increase the networking opportunities."
+historyMSS1: "MSS was first held in 2013 as a gathering of local science graduate research students to share and discuss their research findings. Since then, it has grown in size and scope to include the student community of other local and international universities and research institutes. True to the Monash motto <i> “Ancora imparo”, </i> the Symposium aims to enhance the science learning experience by encouraging knowledge exchange between researchers, promoting local research work, exploring potential collaborations, and fostering closer ties with other research universities."
+historyMSS2: "In 2014, the Symposium has registered more than 150 student participants, half of which represent participants from 9 other different local universities/research institutes. In 2016, the symposium was held with more registered participants, including external participants who were from 13 universities and a government agency. A new scope was introduced in MSS 2016, covering a total of 6 major life sciences branches and were presented over 3-day periods. The Symposium had received overwhelming positive feedback from the participants. In 2018, an intervarsity symposium which served as a promotional event to highlight the capabilities of HDR students of Monash University Malaysia in producing quality research outputs and the dissemination of their scientific findings to a broader audience."
+historyMSS3: "For MSS 2021, we intend to continue the legacy by making the event bigger as well as introduce a new science category, “Science Communication and Safety”. We also intend to encourage supervisors/lecturers to partake in MSS 2021 as the scientific committee which would assist in the abstract screening process.  We therefore propose for an intervarsity symposium to be held for the graduate research students, staff and company agencies." 
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

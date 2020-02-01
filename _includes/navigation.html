@@ -15,7 +15,7 @@
             </li>
             {% endfor %}
         </ul>
-        <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
+        <ul id="bottom-navlinks" class="bottom-navlinks visible-xs visible-sm">
             {% for bottomNavigationLink in site.bottomNavigationLinks %}
             <li>
                 <a href="{% if bottomNavigationLink.permalink != null %} {{ bottomNavigationLink.permalink | prepend: site.baseurl }} {% else %} {{ bottomNavigationLink.link }} {% endif %}" {% if bottomNavigationLink.link != null %}target="_blank"{% endif %}>{{ bottomNavigationLink.text }}</a>
