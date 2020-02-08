@@ -2,18 +2,7 @@
 <section id="team" class="team">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <h3>{{ site.teamBlockTitle }}</h3>
-            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutUs }}</p>
-            <br>
-            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">Objectives:</p>
-            <ul class="text-left animated hiding" data-animation="fadeInUp" data-delay="0"> {% for objective in site.data.objectives %}
-                <li> {{ objective.objective }} </li>
-                {% endfor %}
-            </ul>
-        </div>
-        <br>
-        <div class="col-lg-10 col-lg-offset-1 text-center">
-            <h3>Meet the Team</h3>
+            <h3 class="animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">{{ site.teamBlockTitle }}</h3>
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Heads of Deparment</h4>
             {% for teamMember in site.data.team %} {% if teamMember.head != null %}
             <div class="effect-wrapper col-lg-3 col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
@@ -39,7 +28,7 @@
             </div>
             {% endif %} {% endfor %}
         </div>
-        <div class="col-lg-10 col-lg-offset-1 text-center">
+        <div class="col-lg-10 col-lg-offset-1">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Committee members</h4>
             {% for teamMember in site.data.team %} {% if teamMember.subTeam != null %}
             <div class="effect-wrapper col-lg-3 col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
@@ -64,15 +53,6 @@
                 </div>
             </div>
             {% endif %} {% endfor %}
-        </div>
-        <br>
-        <div class="col-lg-10 col-lg-offset-1">
-            <h3 class="text-middle animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">History of MSS</h3>
-            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.historyMSS1 }}</p>
-            <br>
-            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.historyMSS2 }}</p>
-            <br>
-            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.historyMSS3 }}</p>
         </div>
     </div>
 </section>
