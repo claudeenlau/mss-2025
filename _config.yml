@@ -130,9 +130,9 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
 partnersTitle: "Sponsors"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersDescription: "We would like to thank our sponsors for..."
+partnersSponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -231,10 +231,36 @@ footerBlocks:
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
+# Sponsorship Tiers Block
+sponsorshipTiersTitle: "Sponsorship Tiers"
+sponorshipTiersNote1: "*If you are only interested in selling merchandise (minimum 20 pieces), which comes with an acknoledgement in the program booklet, please contact _________"
+sponorshipTiersNote2: "*Note that the program booklets will be hardcopies for distinguished guests and softcopies for participants"
+sponsorshipTiers:
+ -
+  name: "Bronze"
+  benefitList: ["Acknowledgement in program booklet", "Advertisement on TV screens throughout the Monash campus (every 20 minutes)", "Logos on photo booths"]
+  headerBackgroundColor: "rgb(142,112,104,0.4)"
+  headerTextColor: "#333333"
+ -
+  name: "Silver"
+  benefitList: ["Quarter-page advertisement in program booklet", "Advertisement on TV screens throughout the Monash campus (every 20 minutes)", "Logos on photo booths and banners", "Shoutouts on social media platforms once every fortnight (Facebook, Instagram, Twitter)", "Acknowledgement of company on website"]
+  headerBackgroundColor: "rgb(141,198,197,0.4)"
+  headerTextColor: "#333333"
+ -
+  name: "Gold"
+  benefitList: ["Half-page advertisement in program booklet", "Advertisement on TV screens throughout the Monash campus (every 20 minutes)", "Logos on photo booths and banners", "Shoutouts on social media platforms once a week (Facebook, Instagram, Twitter)", "Acknowledgement of company on website", "Shared booth for 3 days"]
+  headerBackgroundColor: "rgb(255,206,0,1.0)"
+  headerTextColor: "#333333"
+ -
+  name: "Platinum"
+  benefitList: ["Full-page advertisement in program booklet", "Advertisement on TV screens throughout the Monash campus (every 20 minutes)", "Logos on photo booths and banners", "Shoutouts on social media platforms twice a week (Facebook, Instagram, Twitter)", "Acknowledgement of company on website", "Largest exhibition booth for 3 days", "Logo printed on pendrives which will be given to all participants", "Industrial speaker of company’s choice"]
+  headerBackgroundColor: "rgb(211,21,91,1.0)"
+  headerTextColor: "#ffffff"
+
 # Blog
-blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
+#blogTitle: "Latest news"
+#blogCommentsEnabled: true
+#discusShortName: "devfestua"
 
 # Speakers List Block
 showSessions: true
