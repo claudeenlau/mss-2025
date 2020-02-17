@@ -12,9 +12,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Monash Science Symposium 2021"
 email: "monash.sciencesymposium@gmail.com"
-description: "MSS Lorem ipsum dolor sit amet"
+description: "Symbiosis: Exploring Extraordinary Possibilities"
 baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+url: "https://www.monash-sciencesymposium.com"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -23,13 +23,13 @@ permalink: "/blog/:title"
 # Organizer Info
 organizerName: "MSS"
 organizerAlternateName: "Monash Science Symposium"
-#organizerDescription: "Insert description"
-#organizerEmail: "lviv@gdg.org.ua"
+organizerDescription: "Symbiosis: Exploring Extraordinary Possibilities"
+organizerEmail: "https://www.monash-sciencesymposium.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 #organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "mss, monash, science, symposium, malaysia, 2021"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/organizer-logo.png"
 socialImageSrcTwitter: "/img/seo/organizer-logo.png"
@@ -161,7 +161,7 @@ history3: "For MSS 2021, we intend to continue the legacy by making the event bi
 guidelinesTitle: "Guidelines"
 guidelines1: "MSS 2021 is a forum that will bring together innovative academics, researchers, students and other interested parties to discuss key topics and research findings from various fields in the world of science. With the slogan “Symbiosis: Exploring Extraordinary Possibilities“, the MSS organizing committee is calling for papers on any of these seven major categories:"
 guidelines2: "MSS 2021 aims to provide a platform for researchers with cross-disciplinary interests related to the above categories, to network, exchange ideas and interact with each other. All accepted abstracts will be featured in the conference programme e-booklet. The e-booklet will be distributed to all participants on the day of the event."
-guidelinesDescription: "Click below to find out more about the guidelines"
+guidelinesDescription: "Click below to find out more about the guidelines."
 guidelinesButtons:
 - {permalink: "/assets/Abstract_Guidelines.pdf", text: "Abstract"}
 - {permalink: "/assets/Oral_Presentation_Guidelines.pdf", text: "Oral Presentation"}

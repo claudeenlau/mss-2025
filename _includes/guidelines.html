@@ -13,7 +13,7 @@
             <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.guidelinesDescription }}</p>
             <br>
             {% for button in site.guidelinesButtons %}
-            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %} style="margin: 8px">{{ button.text }}</a>
             {% endfor %}
         </div>
     </div>

@@ -19,17 +19,13 @@
   title: "Secretary"
   thumbnailUrl: NurZawanahZabidi.JPG
   head: true
-  ribbon: 
-    - {abbr: "SEC", title: "Secretariat"}
--
+- 
   id: 3
   name: "Nishat"
   surname: "Anan"
   title: "Assistant Secretary"
   thumbnailUrl: NishatAnan.JPG
   subTeam: true
-  ribbon: 
-    - {abbr: "SEC", title: "Secretariat"}
 - 
   id: 4
   name: "Nurhamimah"
@@ -37,8 +33,6 @@
   title: "Head of Treasury"
   thumbnailUrl: NurhamimahMisuan.JPG
   head: true
-  ribbon: 
-    - {abbr: "TRE", title: "Treasury"}
 - 
   id: 5
   name: "Yanning"
@@ -46,8 +40,6 @@
   title: "Internal Sponsorship Officer"
   thumbnailUrl: YanningYong.JPG
   subTeam: true
-  ribbon: 
-    - {abbr: "TRE", title: "Treasury"}
 -
   id: 6
   name: "Caleb"
@@ -55,44 +47,34 @@
   title: "External Sponsorship Officer"
   thumbnailUrl: CalebCheah.JPG
   subTeam: true
-  ribbon: 
-    - {abbr: "TRE", title: "Treasury"}
--
+- 
   id: 7
   name: "Guggilla "
   surname: "Mrudula"
   title: "Head of Activities"
   thumbnailUrl: GuggillaMrudula.JPG
   head: true
-  ribbon: 
-    - {abbr: "ACT", title: "Activities"}
--
+- 
   id: 8
   name: "Poi Yi"
   surname: "Aw Yong"
   title: "Head of Layout and Planning"
   thumbnailUrl: PoiYiAwYong.JPG
   subTeam: true
-  ribbon: 
-    - {abbr: "ACT", title: "Activities"}
--
+- 
   id: 9
   name: "Towhid"
   surname: "Hasan"
   title: "Head of Appreciation"
   thumbnailUrl: TowhidHasan.JPG
   subTeam: true
-  ribbon: 
-    - {abbr: "ACT", title: "Activities"}
--
+-   
   id: 10
   name: "Kirsty"
-  surname: "Anne Illingworth"
+  surname: "Illingworth"
   title: "Head of Editorial 1"
   thumbnailUrl: KirstyAnneIllingworth.JPG
   head: true
-  ribbon: 
-    - {abbr: "ED", title: "Editorial"}
 -
   id: 11
   name: "Madhuri"
@@ -100,8 +82,6 @@
   title: "Head of Editorial 2"
   thumbnailUrl: MadhuriPulijala.JPG
   head: true
-  ribbon: 
-    - {abbr: "ED", title: "Editorial"}
 -
   id: 12
   name: "Ashwini"
@@ -109,8 +89,6 @@
   title: "Subcommittee member"
   thumbnailUrl: AshwiniPuniyamurti.JPG
   subTeam: true
-  ribbon: 
-    - {abbr: "ED", title: "Editorial"}
 -
   id: 13
   name: "Mansura"
@@ -118,8 +96,6 @@
   title: "Subcommittee member"
   thumbnailUrl: MansuraMokbul.JPG
   subTeam: true
-  ribbon: 
-    - {abbr: "ED", title: "Editorial"}
 -
   id: 14
   name: "Ru Wei"
@@ -127,8 +103,6 @@
   title: "Head Of Logistics"
   thumbnailUrl: RuWeiTeoh.JPG
   head: true
-  ribbon: 
-    - {abbr: "LOG", title: "Logistics"}
 -
   id: 15
   name: "Marjia"
@@ -136,8 +110,6 @@
   title: "Head of Public Address"
   thumbnailUrl: MarjiaSultana.JPG
   subTeam: true
-  ribbon: 
-    - {abbr: "LOG", title: "Logistics"}
 -
   id: 16
   name: "Priyanka"
@@ -145,8 +117,6 @@
   title: "Head of Publicity and Creative Design"
   thumbnailUrl: PriyankaParhi.JPG
   head: true
-  ribbon: 
-    - {abbr: "PCD", title: "Publicity and Creative Design"}
 -
   id: 17
   name: "Md Hamed"
@@ -154,17 +124,13 @@
   title: "Head of Marketing and Merchandise 1"
   thumbnailUrl: MdHamedHussain.JPG
   subTeam: true
-  ribbon: 
-    - {abbr: "PCD", title: "Publicity and Creative Design"}
 -
   id: 18
   name: "Nazmul"
-  surname: "Hasan Muzahid"
+  surname: "Muzahid"
   title: "Head of Marketing and Merchandise 2"
   thumbnailUrl: NazmulHasanMuzahid.JPG
   subTeam: true
-  ribbon: 
-    - {abbr: "PCD", title: "Publicity and Creative Design"}
 -
   id: 19
   name: "Fadilla"
@@ -172,8 +138,6 @@
   title: "Website Manager"
   thumbnailUrl: FadillaWahyudi.JPG
   subTeam: true
-  ribbon: 
-    - {abbr: "PCD", title: "Publicity and Creative Design"}
 -
   id: 20
   name: "Harpreet"
@@ -181,5 +145,10 @@
   title: "Social Media Manager"
   thumbnailUrl: HarpreetKaur.JPG
   subTeam: true
-  ribbon: 
-    - {abbr: "PCD", title: "Publicity and Creative Design"}
+-
+  id: 21
+  name: "Gayan"
+  surname: "Chandrajith"
+  title: "Head of Venue and Facilities"
+  thumbnailUrl: GayanChandrajith.JPG
+  subTeam: true
