@@ -23,10 +23,10 @@ permalink: "/blog/:title"
 # Organizer Info
 organizerName: "MSS"
 organizerAlternateName: "Monash Science Symposium"
-organizerDescription: "Symbiosis: Exploring Extraordinary Possibilities"
-organizerEmail: "https://www.monash-sciencesymposium.com"
+organizerDescription: "<em>Symbiosis: Exploring Extraordinary Possibilities</em>"
+organizerEmail: "monash.sciencesymposium@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-#organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "https://www.monash-sciencesymposium.com"
 
 # Head
 metaKeywords: "mss, monash, science, symposium, malaysia, 2021"
@@ -57,7 +57,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "MSS<typeout> 2021"
-eventDate: "January 2021"
+eventDate: "3<sup>rd</sup> - 5<sup>th</sup> February 2021"
+heroMotto: "<em>Symbiosis: Exploring Extraordinary Possibilities</em>"
 typeoutTextValues: '"", " Cellular Biology and Biochemistry", " Chemistry and Drug Discovery", " Science Safety and Communication", " Environmental Science", " Genomics and Bioinformatics", " Applied Microbiology", " Food Science and Technology"'
 typeoutFallback: ""
 heroButtons:
@@ -153,62 +154,71 @@ objectives:
 teamBlockTitle: "Meet the Team"
 
 # History Block
-history1: "MSS was first held in 2013 as a gathering of local science graduate research students to share and discuss their research findings. Since then, it has grown in size and scope to include the student community of other local and international universities and research institutes. True to the Monash motto “Ancora imparo”, the Symposium aims to enhance the science learning experience by encouraging knowledge exchange between researchers, promoting local research work, exploring potential collaborations, and fostering closer ties with other research universities."
+history1: "MSS was first held in 2013 as a gathering of local science graduate research students to share and discuss their research findings. Since then, it has grown in size and scope to include the student community of other local and international universities and research institutes. True to the Monash motto “<em>Ancora Imparo</em>”, the Symposium aims to enhance the science learning experience by encouraging knowledge exchange between researchers, promoting local research work, exploring potential collaborations, and fostering closer ties with other research universities."
 history2: "In 2014, the Symposium has registered more than 150 student participants, half of which represent participants from 9 other different local universities/research institutes. In 2016, the symposium was held with more registered participants, including external participants who were from 13 universities and a government agency. A new scope was introduced in MSS 2016, covering a total of 6 major life sciences branches and were presented over 3-day periods. The Symposium had received overwhelming positive feedback from the participants. In 2018, an intervarsity symposium which served as a promotional event to highlight the capabilities of HDR students of Monash University Malaysia in producing quality research outputs and the dissemination of their scientific findings to a broader audience."
 history3: "For MSS 2021, we intend to continue the legacy by making the event bigger as well as introduce a new science category, “Science Communication and Safety”. We also intend to encourage supervisors/lecturers to partake in MSS 2021 as the scientific committee which would assist in the abstract screening process.  We therefore propose for an intervarsity symposium to be held for the graduate research students, staff and company agencies." 
 
 # Guidelines Block
 guidelinesTitle: "Guidelines"
-guidelines1: "MSS 2021 is a forum that will bring together innovative academics, researchers, students and other interested parties to discuss key topics and research findings from various fields in the world of science. With the slogan “Symbiosis: Exploring Extraordinary Possibilities“, the MSS organizing committee is calling for papers on any of these seven major categories:"
+guidelines1: "MSS 2021 is a forum that will bring together innovative academics, researchers, students and other interested parties to discuss key topics and research findings from various fields in the world of science. With the slogan “<em>Symbiosis: Exploring Extraordinary Possibilities</em>“, the MSS organizing committee is calling for papers on any of these seven major categories:"
 guidelines2: "MSS 2021 aims to provide a platform for researchers with cross-disciplinary interests related to the above categories, to network, exchange ideas and interact with each other. All accepted abstracts will be featured in the conference programme e-booklet. The e-booklet will be distributed to all participants on the day of the event."
-guidelinesDescription: "Click below to find out more about the guidelines."
-guidelinesButtons:
-- {permalink: "/assets/Abstract_Guidelines.pdf", text: "Abstract"}
-- {permalink: "/assets/Oral_Presentation_Guidelines.pdf", text: "Oral Presentation"}
-- {permalink: "/assets/Poster_Guidelines.pdf", text: "Poster"}
-- {permalink: "/assets/Pecha_Kucha_Guidelines.pdf", text: "Pecha Kucha"}
+
+# Abstract Block
+abstractTitle: "Abstract Submission and Acceptance"
+abstract1: "Please prepare your abstract according to the guidlines."
+abstractButtons1:
+  - {permalink: "/assets/Abstract_Guidelines.pdf", text: "Abstract Guidelines"}
+abstract2: "Once abstract is prepared according to the guidelines:"
+abstractSubmissionSteps:
+  - {step: "Submit your abstract through the online form <a href=\"https://forms.gle/8Nqd75EHrqUMTLQp9\">here</a>"}
+  - {step: "Please fill in all fields in the online form accurately"}
+  - {step: "Abstract authors will be acknowledged of the receipt of abstract via email within 5 working days."}
+abstract3: "If your abstract is accepted for oral/poster/PechaKucha presentation, the next steps are as follows:"
+abstractNextSteps:
+  - {step: "Abstract authors will be notified via email that their abstract has been reviewed and accepted for presentation."}
+  - {step: "Authors will be supplied with more information regarding presentation format, content, etc. via email."}
+  - {step: "Accepted presenters must adhere to corresponding deadlines and guidelines, and should respond to communication."}
+  - {step: "Contact the MSS 2021 Editorial Board at <a href=\"mailto:mum-sciencesymposium@monash.edu\">mum-sciencesymposium@monash.edu</a> should you not receive an acknowledgement email within 5 working days after abstract submission or for any other inquiries."}
+abstract4: "Please click below for the guidelines:"
+abstractButtons2:
+ - {permalink: "/assets/Oral_Presentation_Guidelines.pdf", text: "Oral Presentation"}
+ - {permalink: "/assets/Poster_Guidelines.pdf", text: "Poster"}
+ - {permalink: "/assets/Pecha_Kucha_Guidelines.pdf", text: "Pecha Kucha"}
 
 # Tickets Block
 ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
- -
+-
   name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
+  price: "400"
+  priceCurrency: "RM"
+  buyButtonLink: "https://forms.gle/8Nqd75EHrqUMTLQp9"
+  buyButtonText: "Register Now"
+  validFrom: "2020-04-31T10:00 AM"
+  validThrough: "2020-08-31T10:00 PM"
+  additionalInfo: "Only for students and academics"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  soldOut: false
+  SoldOutText: "SoldOut"
+-
+  name: "Normal"
+  price: "450"
+  priceCurrency: "RM"
+  buyButtonLink: "https://forms.gle/8Nqd75EHrqUMTLQp9"
+  buyButtonText: "Register Now"
+  validFrom: "2020-08-31T10:00 PM"
+  validThrough: "2021-01-31T10:00 PM"
+  additionalInfo: "Only for students and academics"
   disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+-
+  name: "Industry"
+  price: "600"
+  priceCurrency: "RM"
+  buyButtonLink: "https://forms.gle/8Nqd75EHrqUMTLQp9"
+  buyButtonText: "Register Now"
+  validFrom: "2020-04-31T10:00 AM"
+  validThrough: "2021-01-31T10:00 PM"
 
 # Footer
 socialLinks:
@@ -233,7 +243,7 @@ footerBlocks:
 
 # Sponsorship Tiers Block
 sponsorshipTiersTitle: "Sponsorship Tiers"
-sponorshipTiersNote1: "*If you are only interested in selling merchandise (minimum 20 pieces), which comes with an acknoledgement in the program booklet, please contact _________"
+sponorshipTiersNote1: "*If you are only interested in selling merchandise (minimum 200 pieces), which comes with an acknowledgement in the program booklet, please contact _________"
 sponorshipTiersNote2: "*Note that the program booklets will be hardcopies for distinguished guests and softcopies for participants"
 sponsorshipTiers:
  -
@@ -266,49 +276,33 @@ sponsorshipTiers:
 showSessions: true
 
 # Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
-logisticsMapAutoDirections: false
+# findWayTitle: "Find your way here"
+# findWayDistance: "Distance"
+# findWayDriving: "DRIVING"
+# findWayWalking: "WALKING"
+# findWayBicycling: "BICYCLING"
+# findWayTransit: "TRANSIT"
+# findWayFindFlight: "Find Flight"
+# logisticsMapCenterCoordinates: "49.056728, 3.117289"
+# logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+# logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
-directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+directionDetailsTitle: "Sunway City"
+directionDetailsDescription: "Monash University Malaysia is located in Bandar Sunway (Sunway City), a township equipped with leisure, entertainment, educaiton and residential facilities. You can commute around Sunway City through a few options below:"
+directionDetailsCards: 
+  -
+    title: "Canopy Walk"
+    information: "The canopy walk is an elevated and secure (monitored by close-circuit television cameras) walkway in Bandar Sunway that connects our campus to the Sunway Pyramid mall. The walk takes about 15-20 minutes. For more information, check out our <a href=\"https://drive.google.com/open?id=1DWHKEqD5RvDFFdRzlTYaCNNvKuY7ylkK&usp=sharing\">custom Google Map.</a>"
+  - 
+    title: "BRT"
+    information: "The game-changing Bus Rapid Transit (BRT) is Malaysia's first elevated Bus Rapid Transit system. This BRT Sunway line connects Sunway City with other public rail transportion (Setia Jaya KTM Komuter station and the USJ7 LRT station). Check out this <a href=\"https://www.malaysia-traveller.com/BRT-Sunway.html\">travel blog</a> for more information."
+  - 
+    title: "Shuttle Bus"
+    information: "The free Sunway Shuttble Bus service runs every 60 minutes (subject to traffic conditions). From Monday to Saturday, it operates from 7:00 AM - 10:15 PM. On Sundays, it's 9:00 AM - 10:15 PM. Please click <a href=\"https://drive.google.com/a/monash.edu/file/d/1qTRcUGG0i-Bhrq0HcJlEiFLqCrWQDa0Q/view?usp=sharing\">here for the list of bus stops.</a>"
+  - 
+    title: "Grab"
+    information: "Grab is one of Malaysia's most well-known ride-hailing services. Fares may vary depending on traffic and weather conditions. The Grab app is available on <a href=\"https://www.grab.com/my/download/\">App Store and Google Play.</a>"
 
 # Hackathon
 hackathonTitle: "Hackathon"
