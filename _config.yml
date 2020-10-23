@@ -14,9 +14,9 @@ title: "Monash Science Symposium 2021"
 email: "monash.sciencesymposium@gmail.com"
 description: "Symbiosis: Exploring Extraordinary Possibilities"
 baseurl:
-url: monash-sciencesymposium.com"
+url: "monash-sciencesymposium.com"
 #googleAnalyticsTrackingId: "UA-43643469-5"
-#googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsSiteUrl: "monash-sciencesymposium.com"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
