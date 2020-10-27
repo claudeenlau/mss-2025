@@ -12,11 +12,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Monash Science Symposium 2021"
 email: "monash.sciencesymposium@gmail.com"
-description: "Monash Science Symposium (MSS) 2021. Symbiosis: Exploring Extraordinary Possibilities"
+description: "Symbiosis: Exploring Extraordinary Possibilities"
 baseurl:
 url: "monash-sciencesymposium.com"
 #googleAnalyticsTrackingId: "UA-43643469-5"
-#googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsSiteUrl: "monash-sciencesymposium.com"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -25,7 +25,7 @@ organizerAlternateName: "Monash Science Symposium"
 organizerDescription: "<em>Symbiosis: Exploring Extraordinary Possibilities</em>"
 organizerEmail: "monash.sciencesymposium@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://www.monash-sciencesymposium.com"
+organizerLink: "monash-sciencesymposium.com"
 
 # Head
 metaKeywords: "mss, monash, science, symposium, malaysia, 2021"
@@ -43,25 +43,26 @@ socialImageSrcFacebook: "/img/seo/organizer-logo.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about-us/", text: "About Us"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
-# - {permalink: "/schedule", text: "Schedule"}
-# - {permalink: "/registration", text: "Registration"}
-# - {permalink: "/getting-around", text "Getting around"}
+ - {permalink: "/registration/", text: "Registration"}
+ - {permalink: "/sponsors/", text: "Sponsors"}
+ - {permalink: "/getting-around/", text: "Getting Around"}
 bottomNavigationLinks:
- - {link: "https://forms.gle/KWKBg5sxATGHNALY9", text: "Register here"}
+ - {link: "https://forms.gle/8Nqd75EHrqUMTLQp9", text: "Register here"}
 rightNavigationButtons:
- - {link: "https://forms.gle/KWKBg5sxATGHNALY9", text: "Register here"}
+ - {link: "https://forms.gle/8Nqd75EHrqUMTLQp9", text: "Register here"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Monash Science Symposium (MSS)"
-#eventDate: "3<sup>rd</sup> - 5<sup>th</sup> February 2021"
+heroTitle: "MSS<typeout> 2021"
+eventDate: "3<sup>rd</sup> - 5<sup>th</sup> February 2021"
 heroMotto: "<em>Symbiosis: Exploring Extraordinary Possibilities</em>"
-typeoutTextValues: '"", " 2021" '
+typeoutTextValues: '"", " Cellular Biology and Biochemistry", " Chemistry and Drug Discovery", " Science Safety and Communication", " Environmental Science", " Genomics and Bioinformatics", " Applied Microbiology", " Food Science and Technology"'
 typeoutFallback: ""
 heroButtons:
-- {link: "https://forms.gle/KWKBg5sxATGHNALY9", text: "Register here"}
-#- {permalink: "/#tickets", text: "Become a sponsor"}
+- {link: "https://forms.gle/8Nqd75EHrqUMTLQp9", text: "Register here"}
+- {permalink: "/#tickets", text: "Become a sponsor"}
 
 # Categories Block
 categoriesTitle: "7 Categories"
@@ -220,16 +221,24 @@ ticketsOffers:
 
 # Footer
 socialLinks:
-# - {link: "https://twitter.com/intent/user?screen_name=mss_mum", icon: "twitter"}
-# - {link: "https://www.facebook.com/monashsciencesymposium/", icon: "facebook"}
+ - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Social media"
+  title: "Links"
   links:
-   - {link: "https://twitter.com/intent/user?screen_name=mss_mum", text: "Twitter"}
-   - {link: "https://www.facebook.com/monashsciencesymposium/", text: "Facebook"}
-   - {link: "https://www.instagram.com/monash.sciencesymposium/", text: "Instagram"}
-
+   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://developers.google.com", text: "Google Developers"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Sponsorship Tiers Block
 sponsorshipTiersTitle: "Sponsorship Tiers"
