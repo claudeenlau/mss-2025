@@ -1,22 +1,32 @@
-- 
-  id: 30
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Position Title"
-  bio: "Test"
-  thumbnailUrl: HeermanKumar.JPG
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 31
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Institution"
-  title: "Android Developer"
-  bio: '<p>Hello</p>'
-  thumbnailUrl: IsraAhmadFarouk.JPG
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+ id: 30 
+ name: "Sunil K." 
+ surname: "Lal" 
+ company: "School of Science" 
+ title: "Professor of Microbiology" 
+ bio: '<p>Professor Suni Kumar Lal joined the School of Science in 2014. By training, he has a PhD in Microbial Genetics from Georgia Institute of Technology, Atlanta (USA) in 1989, following which he took up a Faculty appointment at the California Institute of Technology, Pasadena (USA). In 1994 he joined the International Centre for Genetic Engineering & Biotechnology (ICGEB), New Delhi as a Senior Research Scientist where he worked for 22 years. Professor Sunil is well known internationally for his research contributions in Tropical and Infectious Viral Diseases and have been a visitingscientist to Universiti Malaysia Sarawak, National University of Singapore, Karolinska Institute, Sweden and the Centers for Disease Control (CDC) Atlanta. His main research focus has been on host-virus interactions in Hepatitis E virus, SARS-Coronavirus and Influenza virus</p><p>Professor Sunil has been lucky enough to win many prestigious international awards and has been the ambassador to the American Society for Microbiology (ASM) for 9 years. He has also served as aBoard Member of the International Outreach Program of the ASM at Washington DC. He is an Elected Fellow of the National Academy of Sciences (India) and an elected member of the Central Council of the Indian Microbiologists Association. He has sat on the panel of many international science/university advisory committees and review panels for international scientific funding agencies. His research has produced over 100 publications in international scientific journals and he has published three international books on emerging viral diseases. He currently lead an active research group on Molecular Virology at Monash University, Malaysia.</p>' 
+ thumbnailUrl: "SunilKLal.JPG"
+-
+ id: 31
+ name: "Wai Leng"
+ surname: "Lee"
+ company: "School of Science"
+ title: "Senior Lecturer"
+ bio: '<p>From botany to agricultural science, further in ethnopharmacology and now cancer cell biology, Dr Lee Wai Leng explored a great spectrum of biological studies in her professional development. Her current research focus on the study of cancer-derived exosomes. Among a variety of cell-derived vesicles, exosomes are the nanovesicles released from various cell types into the extracellular space for intercellular communication. These vesicles were reported to serve as vehicles for intercellular transfer of genetic material (mRNA, miRNA) or proteins. Lately, these vesicles were found to play significant role in cancer development. My research interests include:<ol><li>To study the role of exosome in cancer progression</li><li>To investigate the link between oncogenic mutation and exosome-mediated carcinogenesis</li><li>To explore exosome as a novel source of non-invasive cancer biomarkers given that the cancer-specific molecules were identified in the exosomes isolated from biological fluids such as urine, saliva, blood and breast milk.</li></ol>On the other hand, concerns about drug resistance and side effects of currently used therapeutic agents have raised interest in phytochemicals derived from dietary foods and traditional medicines which allow safe and continuing ingestion. Therefore her research also aims to discover the therapeutic use of local medicinal plant-derived phytochemicals in cancer treatment.</p>'
+ thumbnailUrl: "WaiLengLee.jpg"
+-
+ id: 32
+ name: "Arkendu"
+ surname: "Sen"
+ company: "Jeffrey Cheah School of Medicine and Health Sciences (JCSMHS)"
+ title: "Associate Professor (JCSMHS), Academic Director (Educaiton Excellence)"
+ bio: '<p>Dr Arkendu Sen is Associate Professor in Clinical Anatomy at Jeffrey Cheah School of Medicine and Health Sciences, Monash University Malaysia, an anatomist/ophthalmologist by training. Dr Sen is also a keen educationist and champion of education innovation and excellence. Presently as Academic Director, he is leading the Campus Education Excellence portfolio of Monash University Malaysia and as Fellow of the Monash Education Academy, he is keen to promote the Focus Education agenda.</p><p>His deep involvement in active learning, lifelong skills and integrating novel technology-enhanced methods has made him to apply “Blended Technology” in skills training especially in the context of the Malaysian Economic Transformation Programme and promoting Malaysian education sector’s recognition for excellence in technology-enhanced learning. He has also utilized such e-learning to skills learning and assessment along with his association with basic surgical examination through the College of Surgeons, Academy of Malaysia.</p><p>He has now successfully expanded his innovations to educational technology research with the ITEX 2018 Silver Medal and Ministry of Higher Education ERGS Grant (2011), external industry partnership and industry funding (2012) for pilot projects in the cutting edge smart practical learning labs and filing of patent (utility innovation) in 2013.</p><p>His innovations has been recognized by numerous teaching excellence awards. Working together with the School team, their innovative design of state-of-the art learning environment and novel learning strategies have been recognised as a teaching exemplar for the whole of Monash University Malaysia and as a showcase for distinguished visitors including the Governor of Victoria, Health Minister, Deputy Minister for Higher Education and the Prime Minister of Malaysia.</p>'
+ thumbnailUrl: "ArkenduSen.jpg"
+-
+ id: 33
+ name: "Vinod"
+ surname: "Balasubramaniam"
+ company: "Jeffrey Cheah School of Medicine and Health Sciences (JCSMHS)"
+ title: "Senior Lecturer"
+ bio: '<p>Dr Vinod RMT Balasubramaniam graduated from Asian Institute of Medicine, Science and Technology (AIMST) majoring in Biotechnology in 2007. During this period, he managed to publish several papers on plant genetic engineering, especially on genetically engineered orchids which have resistance towards fungus. In 2008, he worked as a research assistant with Associate Professor Sharifah Syed Hassan in her newly formed infectious disease laboratory in Jeffrey Cheah School of Medicine and Health Sciences, Monash University Malaysia.</p><p>Dr Vinod embarked on his PhD course a year later under her supervision working on the various host cellular genes infected with Avian Influenza Virus H5N1 and their protein-protein interactions with viral genes. He graduated with merit in 2014 and continued to work as a post-doctoral fellow in the laboratory of Associate Professor Sharifah before joining the laboratory of Professor Adolfo Garcia-Sastre in Mount Sinai hospital New York, which is one of the leading Influenza research laboratory in the world.</p><p>Throughout his graduate studies, he has acquired the skills and training in various advanced molecular biology and proteomics techniques such as yeast two hybrid system, reverse genetics, 2D Gel electrophoresis and lentiviral based screenings to dissect cross-talks between host cellular factors and viruses. He has co-authored various publications (Cell Host Microbe, Nature Microbiology, Plos Pathogens) on various aspects of host response towards different types of viruses. After his post-doctoral experience in the "Big Apple", he has returned to where it all started, back in Jeffrey Cheah School of Medicine and Health Sciences, Monash University Malaysia.</p>'
+ thumbnailUrl: "VinodBalasubramaniam.jpg"
