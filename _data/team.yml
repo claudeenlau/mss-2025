@@ -152,3 +152,17 @@
   title: "Head of Venue and Facilities"
   thumbnailUrl: GayanChandrajith.JPG
   subTeam: true
+-
+  id: 22
+  name: "Li Wen (Vivian)"
+  surname: "Wong"
+  title: "Head of Logistics"
+  thumbnailUrl: "LiWenWong.png"
+  subTeam: true
+-
+  id: 23
+  name: "Wei Ping (Rex)"
+  surname: "Quek"
+  title: "Head of Food and Beverage"
+  thumbnailUrl: "WeiPingQuek.png"
+  subTeam: true

@@ -1,17 +1,42 @@
-<!-- About MSS Section -->
-<section id="about-MSS" class="about-MSS" style="padding-bottom: 20px">
-	<div class="content-wrapper">
-        <div class="col-lg-8 col-lg-offset-2 text-center">
-            <h3>{{ site.aboutMSSBlockTitle }}</h3>
-            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutMSS }}</p>
-            <br>
-            <h3 class="text-center animated hiding" data-animation="fadeInUp" data-delay="0">Objectives</h3>
-            <ul class="text-left animated hiding" data-animation="fadeInUp" data-delay="0"> {% for objective in site.objectives %}
-                <li> {{ objective.objective }} </li>
-                {% endfor %}
-            </ul>
+<!-- Mini Science Series Section -->
+<section id="mini-science-series" class="mini-science-series">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3 class="text-middle animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Mini Science Series</h3>
+            <p class="text-middle" data-animation="fadeInUp" data-delay="0">{{ site.miniSeries1 }}</p>
+            {% for button in site.miniSeriesButtons %}
+        	<a  style="margin: 0px 0px 25px 0px" href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+        	{% endfor %}
         </div>
+    <div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2">
+        <img src="{{ site.baseurl }}/img/other/{{ site.miniSeriesPoster }}" alt="Mini Science Series" style="width:100%">
+    </div>
     </div>
 </section>
+<!-- End Mini Science Series Section -->
 
-<!-- End About MSS Section -->
+
+<!--
+Mini-science series brought to you by MSS 2021.
+- Time
+- Date
+- Add poster here (by Monday)
+- Add Register here button 
+- MSS to be announced
+
+Create new page for Mini Science Series 
+- poster
+- speakers + biography
+
+
+----------------------------------------------
+DONE:
+- Remove "Register here" for hero and navigation menu
+- Add LinkedIn
+- Add contact email (MSS email)
+- Add Vivian to About Us
+- Add Rex to About Us
+
+
+
+-->
