@@ -11,10 +11,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Monash Science Symposium 2021"
 email: "monash.sciencesymposium@gmail.com"
-description: "Monash Science Symposium (MSS) 2021. Symbiosis: Exploring Extraordinary Possibilities"
+description: "Monash Science Symposium (MSS) 2021. It is a student-led event by the School of Science postgraduate students of Monash University Malaysia (MUM)."
 baseurl:
 url: "monash-sciencesymposium.com"
-#googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsTrackingId: "UA-181963946-1"
 googleAnalyticsSiteUrl: "monash-sciencesymposium.com"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
