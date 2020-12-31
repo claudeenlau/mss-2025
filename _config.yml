@@ -42,7 +42,7 @@ navigationLinks:
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/registration/", text: "Registration"}
 # - {permalink: "/sponsors/", text: "Sponsors"}
-# - {permalink: "/getting-around/", text: "Getting Around"}
+ - {permalink: "/getting-around/", text: "Getting Around"}
 bottomNavigationLinks:
 # - {link: "https://forms.gle/9WUU9UqhCZdLfA2B9", text: "Register here"}
 rightNavigationButtons:
