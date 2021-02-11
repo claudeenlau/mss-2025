@@ -44,28 +44,28 @@ navigationLinks:
 # - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/getting-around/", text: "Getting Around"}
 bottomNavigationLinks:
-# - {link: "https://forms.gle/9WUU9UqhCZdLfA2B9", text: "Register here"}
+ - {link: "https://forms.gle/VXkd4uHN3hi81jvi7", text: "Register here"}
 rightNavigationButtons:
-# - {link: "https://forms.gle/9WUU9UqhCZdLfA2B9", text: "Register here"}
+ - {link: "https://forms.gle/VXkd4uHN3hi81jvi7", text: "Register here"}
 
 # Miscellaneous links
-speakerButtonRegister: "https://forms.gle/9WUU9UqhCZdLfA2B9"
+speakerButtonRegister: "https://forms.gle/VXkd4uHN3hi81jvi7"
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Monash Science Symposium (MSS) <typeout>"
 #eventDate: "3<sup>rd</sup> - 5<sup>th</sup> February 2021"
 heroMotto: "<em>Symbiosis: Exploring Extraordinary Possibilities</em>"
-typeoutTextValues: '"", "2021" ' 
+typeoutTextValues: '"", "2021" '
 typeoutFallback: ""
-#heroButtons:
-#- {link: "https://forms.gle/9WUU9UqhCZdLfA2B9", text: "Register here"}
+heroButtons:
+- {link: "https://forms.gle/VXkd4uHN3hi81jvi7", text: "Register here"}
 
 #Mini Science Series Block
-miniSeries1: "This Mini Science Series is brought to you by MSS 2021. It will be held via Zoom on November 6, 2020 from 4:00 PM to 5:30 PM (MYT)."
-miniSeriesPoster: "mini-series-poster.jpg"
+miniSeries1: "This Mini Science Series is brought to you by MSS 2021. It will be held via Zoom on February 19, 2021 from 4:00 PM to 5:30 PM (MYT)."
+miniSeriesPoster: "poster-3.jpg"
 miniSeriesButtons:
- - {link: "https://forms.gle/9WUU9UqhCZdLfA2B9", text: "Register here"}
+ - {link: "https://forms.gle/VXkd4uHN3hi81jvi7", text: "Register here"}
  - {permalink: "/mini-science-series", text: "Learn about speakers"}
 
 # Categories Block
@@ -159,7 +159,7 @@ teamBlockTitle: "Meet the Team"
 # History Block
 history1: "MSS was first held in 2013 as a gathering of local science graduate research students to share and discuss their research findings. Since then, it has grown in size and scope to include the student community of other local and international universities and research institutes. True to the Monash motto “<em>Ancora Imparo</em>”, the Symposium aims to enhance the science learning experience by encouraging knowledge exchange between researchers, promoting local research work, exploring potential collaborations, and fostering closer ties with other research universities."
 history2: "In 2014, the Symposium has registered more than 150 student participants, half of which represent participants from 9 other different local universities/research institutes. In 2016, the symposium was held with more registered participants, including external participants who were from 13 universities and a government agency. A new scope was introduced in MSS 2016, covering a total of 6 major life sciences branches and were presented over 3-day periods. The Symposium had received overwhelming positive feedback from the participants. In 2018, an intervarsity symposium which served as a promotional event to highlight the capabilities of HDR students of Monash University Malaysia in producing quality research outputs and the dissemination of their scientific findings to a broader audience."
-history3: "For MSS 2021, we intend to continue the legacy by making the event bigger as well as introduce a new science category, “Science Communication and Safety”. We also intend to encourage supervisors/lecturers to partake in MSS 2021 as the scientific committee which would assist in the abstract screening process.  We therefore propose for an intervarsity symposium to be held for the graduate research students, staff and company agencies." 
+history3: "For MSS 2021, we intend to continue the legacy by making the event bigger as well as introduce a new science category, “Science Communication and Safety”. We also intend to encourage supervisors/lecturers to partake in MSS 2021 as the scientific committee which would assist in the abstract screening process.  We therefore propose for an intervarsity symposium to be held for the graduate research students, staff and company agencies."
 
 # Guidelines Block
 guidelinesTitle: "Guidelines"
@@ -284,17 +284,17 @@ showSessions: false
 # Logistics Direction Details Block
 directionDetailsTitle: "Sunway City"
 directionDetailsDescription: "Monash University Malaysia is located in Bandar Sunway (Sunway City), a township equipped with leisure, entertainment, educaiton and residential facilities. You can commute around Sunway City through a few options below:"
-directionDetailsCards: 
+directionDetailsCards:
   -
     title: "Canopy Walk"
     information: "The canopy walk is an elevated and secure (monitored by close-circuit television cameras) walkway in Bandar Sunway that connects our campus to the Sunway Pyramid mall. The walk takes about 15-20 minutes. For more information, check out our <a href=\"https://drive.google.com/open?id=1DWHKEqD5RvDFFdRzlTYaCNNvKuY7ylkK&usp=sharing\">custom Google Map.</a>"
-  - 
+  -
     title: "BRT"
     information: "The game-changing Bus Rapid Transit (BRT) is Malaysia's first elevated Bus Rapid Transit system. This BRT Sunway line connects Sunway City with other public rail transportion (Setia Jaya KTM Komuter station and the USJ7 LRT station). Check out this <a href=\"https://www.malaysia-traveller.com/BRT-Sunway.html\">travel blog</a> for more information."
-  - 
+  -
     title: "Shuttle Bus"
     information: "The free Sunway Shuttble Bus service runs every 60 minutes (subject to traffic conditions). From Monday to Saturday, it operates from 7:00 AM - 10:15 PM. On Sundays, it's 9:00 AM - 10:15 PM. Please click <a href=\"https://drive.google.com/a/monash.edu/file/d/1qTRcUGG0i-Bhrq0HcJlEiFLqCrWQDa0Q/view?usp=sharing\">here for the list of bus stops.</a>"
-  - 
+  -
     title: "Grab"
     information: "Grab is one of Malaysia's most well-known ride-hailing services. Fares may vary depending on traffic and weather conditions. The Grab app is available on <a href=\"https://www.grab.com/my/download/\">App Store and Google Play.</a>"
 
