@@ -9,7 +9,9 @@
         	{% endfor %}
         </div>
     <div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2">
-        <img src="{{ site.baseurl }}/img/mini-science-series/{{ site.miniSeriesPoster }}" alt="Mini Science Series" style="width:100%">
+      {% for poster in site.miniSeriesPoster %}
+        <img src="{{ site.baseurl }}/img/posters/{{ poster.image }}" style="width:100%; margin: 0px 0px 25px 0px">
+      {% endfor %}
     </div>
     </div>
 </section>

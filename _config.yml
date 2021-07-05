@@ -37,16 +37,12 @@ socialImageSrcFacebook: "/img/seo/organizer-logo.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about-us/", text: "About Us"}
- - {permalink: "/mini-science-series", text: "Mini Science Series"}
-# - {permalink: "/schedule/", text: "Schedule"}
-# - {permalink: "/speakers/", text: "Speakers"}
-# - {permalink: "/registration/", text: "Registration"}
-# - {permalink: "/sponsors/", text: "Sponsors"}
- - {permalink: "/getting-around/", text: "Getting Around"}
+ - {permalink: "/speakers", text: "Speakers"}
+# - {permalink: "/getting-around/", text: "Getting Around"}
 bottomNavigationLinks:
- - {link: "https://forms.gle/VXkd4uHN3hi81jvi7", text: "Register here"}
+# - {link: "https://forms.gle/VXkd4uHN3hi81jvi7", text: "Register here"}
 rightNavigationButtons:
- - {link: "https://forms.gle/VXkd4uHN3hi81jvi7", text: "Register here"}
+# - {link: "https://forms.gle/VXkd4uHN3hi81jvi7", text: "Register here"}
 
 # Miscellaneous links
 speakerButtonRegister: "https://forms.gle/VXkd4uHN3hi81jvi7"
@@ -59,14 +55,16 @@ heroMotto: "<em>Symbiosis: Exploring Extraordinary Possibilities</em>"
 typeoutTextValues: '"", "2021" '
 typeoutFallback: ""
 heroButtons:
-- {link: "https://forms.gle/VXkd4uHN3hi81jvi7", text: "Register here"}
+#- {link: "https://forms.gle/VXkd4uHN3hi81jvi7", text: "Register here"}
 
 #Mini Science Series Block
-miniSeries1: "This Mini Science Series is brought to you by MSS 2021. It will be held via Zoom on February 19, 2021 from 4:00 PM to 5:30 PM (MYT)."
-miniSeriesPoster: "poster-3.jpg"
+miniSeries1: "Because of the COVID-19 pandemic, we unfortunately had to cancel the symposium we had planned for 2021. In lieu of the symposium, we decided to conduct a the Mini Science Series, a series of webinars that were held over Zoom. Below are the posters for the three webinars we conducted: <ol>Pandemic Preparedness: Challenges Faced and Lessons Learnt</ol><ol>Am I OK? Adapting to the New Norm During a Pandemic</ol><ol>Digital Health: A Step Towards Modernized Healthcare</ol>"
+miniSeriesPoster:
+ - {image: "poster-1.jpg"}
+ - {image: "poster-2.jpg"}
+ - {image: "poster-3.jpg"}
 miniSeriesButtons:
- - {link: "https://forms.gle/VXkd4uHN3hi81jvi7", text: "Register here"}
- - {permalink: "/mini-science-series", text: "Learn about speakers"}
+ - {permalink: "/mini-science-series", text: "Learn about the speakers"}
 
 # Categories Block
 categoriesTitle: "7 Categories"
