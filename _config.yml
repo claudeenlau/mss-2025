@@ -9,9 +9,9 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "Monash Science Symposium 2021"
+title: "Monash Science Symposium 2022"
 email: "monash.sciencesymposium@gmail.com"
-description: "Monash Science Symposium (MSS) 2021. It is a student-led event by the School of Science postgraduate students of Monash University Malaysia (MUM)."
+description: "Monash Science Symposium (MSS) 2022. It is a student-led event by the School of Science postgraduate students of Monash University Malaysia (MUM)."
 baseurl:
 url: "monash-sciencesymposium.com"
 googleAnalyticsTrackingId: "UA-181963946-1"
@@ -27,7 +27,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "monash-sciencesymposium.com"
 
 # Head
-metaKeywords: "mss, monash, science, symposium, malaysia, 2021"
+metaKeywords: "mss, monash, science, symposium, malaysia, 2022"
 twitterAccount: "@mss_mum"
 socialImageSrcGooglePlus: "/img/seo/organizer-logo.png"
 socialImageSrcTwitter: "/img/seo/organizer-logo.png"
@@ -37,34 +37,28 @@ socialImageSrcFacebook: "/img/seo/organizer-logo.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about-us/", text: "About Us"}
- - {permalink: "/speakers", text: "Speakers"}
-# - {permalink: "/getting-around/", text: "Getting Around"}
+# - {permalink: "/speakers", text: "Speakers"}
+ - {permalink: "/getting-around/", text: "Getting Around"}
 bottomNavigationLinks:
 # - {link: "https://forms.gle/VXkd4uHN3hi81jvi7", text: "Register here"}
 rightNavigationButtons:
 # - {link: "https://forms.gle/VXkd4uHN3hi81jvi7", text: "Register here"}
 
 # Miscellaneous links
-speakerButtonRegister: "https://forms.gle/VXkd4uHN3hi81jvi7"
+#speakerButtonRegister: "https://forms.gle/VXkd4uHN3hi81jvi7"
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Monash Science Symposium (MSS) <typeout>"
-#eventDate: "3<sup>rd</sup> - 5<sup>th</sup> February 2021"
-heroMotto: "<em>Symbiosis: Exploring Extraordinary Possibilities</em>"
-typeoutTextValues: '"", "2021" '
+eventDate: "Coming soon!"
+#heroMotto: "<em>Symbiosis: Exploring Extraordinary Possibilities</em>"
+typeoutTextValues: '"", "2022" '
 typeoutFallback: ""
 heroButtons:
-#- {link: "https://forms.gle/VXkd4uHN3hi81jvi7", text: "Register here"}
-
-#Mini Science Series Block
-miniSeries1: "Because of the COVID-19 pandemic, we unfortunately had to cancel the symposium we had planned for 2021. In lieu of the symposium, we decided to conduct a the Mini Science Series, a series of webinars that were held over Zoom. Below are the posters for the three webinars we conducted: <ol>Pandemic Preparedness: Challenges Faced and Lessons Learnt</ol><ol>Am I OK? Adapting to the New Norm During a Pandemic</ol><ol>Digital Health: A Step Towards Modernized Healthcare</ol>"
-miniSeriesPoster:
- - {image: "poster-1.jpg"}
- - {image: "poster-2.jpg"}
- - {image: "poster-3.jpg"}
-miniSeriesButtons:
- - {permalink: "/mini-science-series", text: "Learn about the speakers"}
+- {link: "https://www.instagram.com/monash.sciencesymposium/", text: "Instagram"}
+- {link: "https://www.facebook.com/monashsciencesymposium/", text: "Facebook"}
+- {link: "https://www.linkedin.com/in/monash-science-symposium-790b301a1/?originalSubdomain=my", text: "LinkedIn"}
+- {link: "https://2021.monash-sciencesymposium.com", text: "2021 Archive"}
 
 # Categories Block
 categoriesTitle: "7 Categories"
@@ -157,7 +151,7 @@ teamBlockTitle: "Meet the Team"
 # History Block
 history1: "MSS was first held in 2013 as a gathering of local science graduate research students to share and discuss their research findings. Since then, it has grown in size and scope to include the student community of other local and international universities and research institutes. True to the Monash motto “<em>Ancora Imparo</em>”, the Symposium aims to enhance the science learning experience by encouraging knowledge exchange between researchers, promoting local research work, exploring potential collaborations, and fostering closer ties with other research universities."
 history2: "In 2014, the Symposium has registered more than 150 student participants, half of which represent participants from 9 other different local universities/research institutes. In 2016, the symposium was held with more registered participants, including external participants who were from 13 universities and a government agency. A new scope was introduced in MSS 2016, covering a total of 6 major life sciences branches and were presented over 3-day periods. The Symposium had received overwhelming positive feedback from the participants. In 2018, an intervarsity symposium which served as a promotional event to highlight the capabilities of HDR students of Monash University Malaysia in producing quality research outputs and the dissemination of their scientific findings to a broader audience."
-history3: "For MSS 2021, we intend to continue the legacy by making the event bigger as well as introduce a new science category, “Science Communication and Safety”. We also intend to encourage supervisors/lecturers to partake in MSS 2021 as the scientific committee which would assist in the abstract screening process.  We therefore propose for an intervarsity symposium to be held for the graduate research students, staff and company agencies."
+history3: "For MSS 2022, we intend to continue the legacy by making the event bigger as well as introduce a new science category, “Science Communication and Safety”. We also intend to encourage supervisors/lecturers to partake in MSS 2022 as the scientific committee which would assist in the abstract screening process.  We therefore propose for an intervarsity symposium to be held for the graduate research students, staff and company agencies."
 
 # Guidelines Block
 guidelinesTitle: "Guidelines"
@@ -232,6 +226,11 @@ footerBlocks:
   title: "Contact"
   links:
    - {link: "mailto:mum-sciencesymposium@monash.edu", text: "mum-sciencesymposium@monash.edu"}
+ -
+  title: "Past events"
+  links:
+    - {link: "https://2021.monash-sciencesymposium.com", text: "MSS 2021"}
+
 
 # Sponsorship Tiers Block
 sponsorshipTiersTitle: "Sponsorship Tiers"
