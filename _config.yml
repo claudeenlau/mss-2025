@@ -51,14 +51,11 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Monash Science Symposium (MSS) <typeout>"
 eventDate: "Coming soon!"
-#heroMotto: "<em>Symbiosis: Exploring Extraordinary Possibilities</em>"
+heroMotto: "<em>Checkout the footer for our social media links, email and past events.</em>"
 typeoutTextValues: '"", "2022" '
 typeoutFallback: ""
 heroButtons:
-- {link: "https://www.instagram.com/monash.sciencesymposium/", text: "Instagram"}
-- {link: "https://www.facebook.com/monashsciencesymposium/", text: "Facebook"}
-- {link: "https://www.linkedin.com/in/monash-science-symposium-790b301a1/?originalSubdomain=my", text: "LinkedIn"}
-
+- {permalink: "/#footer", text: "Footer"}
 # Categories Block
 categoriesTitle: "7 Categories"
 categoriesBlock:
