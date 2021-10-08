@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Monash Science Symposium 2022"
 email: "monash.sciencesymposium@gmail.com"
 description: "Monash Science Symposium (MSS) 2022. It is a student-led event by the School of Science postgraduate students of Monash University Malaysia (MUM)."
-baseurl:
+baseurl: "https://monash-sciencesymposium.com/"
 url: "monash-sciencesymposium.com"
 googleAnalyticsTrackingId: "UA-181963946-1"
 googleAnalyticsSiteUrl: "monash-sciencesymposium.com"
