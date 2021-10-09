@@ -30,8 +30,15 @@
   id: 4
   name: "Harpreet"
   surname: "Kaur"
-  title: "Head of Publicity & Creative Design"
+  title: "Head of Publicity & Creative Design 1"
   thumbnailUrl: HarpreetKaur.JPG
+  head: true
+-
+  id: 11
+  name: "Aurelie"
+  surname: "Mok Tsze Chung"
+  title: "Head of Publicity & Creative Design 2"
+  thumbnailUrl: AurelieMokTszeChung.JPEG
   head: true
 -
   id: 5
@@ -71,15 +78,8 @@
   id: 10
   name: "Lim"
   surname: "Pei Tee"
-  title: "Head of Marketing and Merchandise 1"
+  title: "Head of Marketing and Merchandise"
   thumbnailUrl: LimPeiTee.jpg
-  subTeam: true
--
-  id: 11
-  name: "Aurelie"
-  surname: "Mok Tsze Chung"
-  title: "Head of Marketing and Merchandise 2"
-  thumbnailUrl: AurelieMokTszeChung.JPEG
   subTeam: true
 -
   id: 12
