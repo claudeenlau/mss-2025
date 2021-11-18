@@ -38,14 +38,15 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about-us/", text: "About Us"}
  - {permalink: "/speakers", text: "Speakers"}
+ - {permalink: "/miniscienceseries/", text: "Mini Science Series"}
  - {permalink: "/getting-around/", text: "Getting Around"}
 bottomNavigationLinks:
- - {link: "https://forms.gle/t2ztnxtMbNzzXC2o8", text: "Register here"}
+# - {link: "https://forms.gle/t2ztnxtMbNzzXC2o8", text: "Register here"}
 rightNavigationButtons:
- - {link: "https://forms.gle/t2ztnxtMbNzzXC2o8", text: "Register here"}
+# - {link: "https://forms.gle/t2ztnxtMbNzzXC2o8", text: "Register here"}
 
 # Miscellaneous links
-speakerButtonRegister: "https://forms.gle/t2ztnxtMbNzzXC2o8"
+#speakerButtonRegister: "https://forms.gle/t2ztnxtMbNzzXC2o8"
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -55,15 +56,16 @@ heroMotto: "<em>Check out the footer for our social media links, email and past 
 typeoutTextValues: '"", "2022" '
 typeoutFallback: ""
 heroButtons:
-- {link: "https://forms.gle/t2ztnxtMbNzzXC2o8", text: "Register for the webinar"}
+- {permalink: "/miniscienceseries", text: "Check out our webinar"}
+- {permalink: "/#footer", text: "Footer"}
 
 #Mini Science Series Block
-miniSeries1: "We’re back with another webinar in our Mini Science Series. Do join us on the 17th November 2021 (Wednesday), 4:00-5:30 PM. Hear what our experts have to say on vaccines. Click the link in the bio to register now!!"
+miniSeries1: "We had our latest webinar on the 17th November 2021 which was titled <em>COVID-19 vaccines: Which is better? Does it really matter?</em> Hear what our experts have to say on vaccines. Click the links below to find out more."
 miniSeriesPoster:
  - {image: "MiniScienceSeries1.jpg"}
 miniSeriesButtons:
- - {link: "https://forms.gle/t2ztnxtMbNzzXC2o8", text: "Register here"}
  - {permalink: "/speakers", text: "Learn about the speakers"}
+ - {permalink: "/miniscienceseries/#webinar-video", text: "Watch the webinar"}
 
 #Key Dates Block
 #keyDatesBlockImage: "key-dates.jpg"
