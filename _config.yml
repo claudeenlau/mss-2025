@@ -60,12 +60,29 @@ heroButtons:
 - {permalink: "/#footer", text: "Footer"}
 
 #Mini Science Series Block
-miniSeries1: "We had our latest webinar on the 17th November 2021 which was titled <em>COVID-19 vaccines: Which is better? Does it really matter?</em> Hear what our experts have to say on vaccines. Click the links below to find out more."
-miniSeriesPoster:
- - {image: "MiniScienceSeries1.jpg"}
+miniSeriesTitle: "Mini Science Series"
+miniSeries1: "We held online webinars about several medical science-related topics such as digital health, mental health and vaccines. Click on the buttons below to check out the video recordings."
 miniSeriesButtons:
- - {permalink: "/speakers", text: "Learn about the speakers"}
- - {permalink: "/miniscienceseries/#webinar-video", text: "Watch the webinar"}
+ - {permalink: "/miniscienceseries/#webinar1", text: "#1"}
+ - {permalink: "/miniscienceseries/#webinar2", text: "#2"}
+ - {permalink: "/miniscienceseries/#webinar3", text: "#3"}
+ - {permalink: "/miniscienceseries/#webinar4", text: "#4"}
+
+webinar1Title: "#1 Pandemic Preparedness: Challenges Faced and Lessons Learnt"
+webinar1Description: "The first webinar from the Mini Science Series was about how we can better prepare for the pandemic and the lessons we have learnt from it thus far."
+webinar1Video: "https://www.youtube.com/embed/oiZH1XhyYuY"
+
+webinar2Title: "#2 Am I OK? Adapting to the New Norm During a Pandemic"
+webinar2Description: "In these tough times, while everyone is adapting to a new norm, we sometimes forget to stop for a minute, breathe and ask ourselves 'Am I OK?'. In the second webinar, we were joined by a panel of experts specializing in Nutrition, Psychiatry & Psychology."
+webinar2Video: "https://www.youtube.com/embed/hgfhAucc1JM"
+
+webinar3Title: "#3 Digital Health: A Step Towards Modernized Healthcare"
+webinar3Description: "This was the third webinar in the Mini Science Series! In this webinar, we discussed digital health. The main goal of this webinar was to create awareness and educate the public on digital health and innovative healthcare technologies in Malaysia."
+webinar3Video: "https://www.youtube.com/embed/I1G5Ifb7fj0"
+
+webinar4Title: "#4 COVID-19 Vaccines: Which is better? Does it really matter?"
+webinar4Description: "We had our latest webinar on the 17th November 2021 which was titled <em>COVID-19 vaccines: Which is better? Does it really matter?</em> Hear what our experts have to say on vaccines."
+webinar4Video: "https://www.youtube.com/embed/HgdM7keFOoo"
 
 #Key Dates Block
 #keyDatesBlockImage: "key-dates.jpg"
