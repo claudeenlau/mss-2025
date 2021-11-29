@@ -82,6 +82,24 @@ webinar3Video: "https://www.youtube.com/embed/I1G5Ifb7fj0"
 
 webinar4Title: "#4 COVID-19 Vaccines: Which is better? Does it really matter?"
 webinar4Description: "We had our latest webinar on the 17th November 2021 which was titled <em>COVID-19 vaccines: Which is better? Does it really matter?</em> Hear what our experts have to say on vaccines."
+webinar4Points:
+ - {point: "Vaccines stimulate antibodies to fight against bacteria or viruses so that when there is an actual infection, the person will be immune to it. The types of vaccines available against SARs-CoV-2 include attenuated virus vaccines, inactivated virus vaccines, adenovirus vector vaccines, and mRNA vaccines."}
+ - {point: "Common side effects of the COVID-19 vaccines include pain at the injection site, fever, fatigue, headache and muscle aches."}
+ - {point: "Studies confirm booster shots reduce the rate of severe diseases for those above the 40-year-old age group. Studies also show the decline in COVID-19 cases after booster shots in other countries."}
+ - {point: "The number of COVID-19 cases in children below 18 have increased from 2020 to 2021."}
+ - {point: "The data shows that vaccines are effective for adolescents. There were no significant signs of severe side effects in vaccinated adolescents."}
+ - {point: "In terms of the acceptance rate of COVID-19 vaccines in Malaysia, up to 17% are unsure and 16% will not take it. Hesitancy is higher in certain areas of Malaysia. Hesitancy is mainly due to being unsure or suspicious of the contents of the vaccines."}
+webinar4Questions:
+ - {point: "Can excessive use of vaccines lead to the emergence of variants as the virus tries to overcome the vaccine?"}
+ - {point: "Which vaccines (e.g. Pfizer, Moderna) going to be included in the booster shots?"}
+ - {point: "How do you think the government should go about educating the people?"}
+ - {point: "How long will the booster shots last?"}
+ - {point: "If the majority are vaccinated or if herd immunity is achieved, will there still be any public health intervention?"}
+ - {point: "Will vaccine passports be used to filter people who received two or three shots when they enter or exit another country?"}
+ - {point: "Could parents get infected from kids who have been exposed to COVID-19 in their schools?"}
+ - {point: "How do you deal with someone that you know that does not want to be vaccinated?"}
+ - {point: "What are heterologous vaccines?"}
+ - {point: "Is a fourth booster shot advisable in Malaysia?"}
 webinar4Video: "https://www.youtube.com/embed/HgdM7keFOoo"
 
 #Key Dates Block

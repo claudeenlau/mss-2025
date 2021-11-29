@@ -20,6 +20,18 @@
         <iframe src="{{ site.webinar4Video }}" style="padding:15px;border:1px white" allow="accelerometer; gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
       </div>
     </div>
+    <div class="col-lg-10 col-lg-offset-1">
+      <h5 class="text-middle animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Key points to take home</h5>
+      <ul class="text-left animated hiding" data-animation="fadeInUp" data-delay="0"> {% for point in site.webinar4Points %}
+          <li> {{ point.point }} </li>
+          {% endfor %}
+      </ul>
+      <h5 class="text-middle animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Questions asked during the Q&A session</h5>
+      <ul class="text-left animated hiding" data-animation="fadeInUp" data-delay="0"> {% for point in site.webinar4Questions %}
+          <li> {{ point.point }} </li>
+          {% endfor %}
+      </ul>
+    </div>
 </section>
 <section id="webinar3" class="mini-science-series">
     <div class="col-lg-10 col-lg-offset-1">
