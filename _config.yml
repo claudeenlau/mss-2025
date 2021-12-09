@@ -59,7 +59,43 @@ heroButtons:
 - {permalink: "/miniscienceseries", text: "Check out our webinar"}
 - {permalink: "/#footer", text: "Footer"}
 
-#Mini Science Series Block
+# Categories Block
+categoriesTitle: "7 Categories"
+categoriesBlock:
+ - {text: "Cellular Biology and Biochemistry", image: "category_logo_cellular_biology.png"}
+ - {text: "Chemistry and Drug Discovery", image: "category_logo_chemistry.png"}
+ - {text: "Applied Microbiology", image: "category_logo_microbiology.png"}
+ - {text: "Science Safety and Communication", image: "category_logo_combo.png"}
+ - {text: "Genomics and Bioinformatics", image: "category_logo_genomics_and_bioinformatics.png"}
+ - {text: "Food Science and Technology", image: "category_logo_foodscience.png"}
+ - {text: "Environmental Science", image: "category_logo_environmental.png"}
+
+# About MSS Block
+aboutMSSBlockTitle: "About MSS"
+aboutMSS: "The Monash Science Symposium (MSS) is a student-led event by the School of Science postgraduate students of Monash University Malaysia (MUM). We hope to initiate the conference as an annual event that acts as a platform for students to gain experience and valuable insight towards their research. It also serves as a promotional event to highlight the capabilities of postgraduates in research outputs and the dissemination of their scientific findings to a broader, and ideally, international audience. It is also can be the future direction of this event will aim to showcase research here in Monash to engage with other universities and industries to increase the networking opportunities."
+objectives:
+  - {objective: "Provide a platform for researchers from around the world to exchange ideas, establish collaborations and have meaningful discussions on current scientific issues​."}
+  - {objective: "Allow the establishment of professional relations with other sectors (industries, research institutes and non-academia)."}
+  - {objective: "Increase the number of local and international participants​."}
+  - {objective: "Establish a more significant relation with government institutes and industries."}
+
+# Team Block
+teamBlockTitle: "Meet the Team"
+
+# History Block
+history1: "MSS was first held in 2013 as a gathering of local science graduate research students to share and discuss their research findings. Since then, it has grown in size and scope to include the student community of other local and international universities and research institutes. True to the Monash motto “<em>Ancora Imparo</em>”, the Symposium aims to enhance the science learning experience by encouraging knowledge exchange between researchers, promoting local research work, exploring potential collaborations, and fostering closer ties with other research universities."
+history2: "In 2014, the Symposium has registered more than 150 student participants, half of which represent participants from 9 other different local universities/research institutes. In 2016, the symposium was held with more registered participants, including external participants who were from 13 universities and a government agency. A new scope was introduced in MSS 2016, covering a total of 6 major life sciences branches and were presented over 3-day periods. The Symposium had received overwhelming positive feedback from the participants. In 2018, an intervarsity symposium which served as a promotional event to highlight the capabilities of HDR students of Monash University Malaysia in producing quality research outputs and the dissemination of their scientific findings to a broader audience."
+history3: "For MSS 2022, we intend to continue the legacy by making the event bigger as well as introduce a new science category, “Science Communication and Safety”. We also intend to encourage supervisors/lecturers to partake in MSS 2022 as the scientific committee which would assist in the abstract screening process.  We therefore propose for an intervarsity symposium to be held for the graduate research students, staff and company agencies."
+
+# Schedule Introduction Block
+scheduleIntroTitle: "Schedule TEST"
+scheduleIntro1: "MSS 2022 will be held over two virtual platforms, Zoom and Remo. The symposium will last for three days and be split into the morning and afternoon sessions."
+scheduleIntroButtons:
+  - {permalink: "/schedule/#day-1-morning", text: "Day 1 (Morning)"}
+  - {permalink: "/schedule/#day-1-afternoon", text: "Day 1 (Afternoon)"}
+scheduleIntro2: "Oral presentations are categorised into 7 categories:<br>1. Genomics & Bioinformatics (G&B)<br>2. Cell & Molecular Biology (C&MB)<br>3. Chemistry & Drug Discovery (C&DD)"
+
+# Mini Science Series Block
 miniSeriesTitle: "Mini Science Series"
 miniSeries1: "We held online webinars about several medical science-related topics such as digital health, mental health and vaccines. Click on the buttons below to check out the video recordings."
 miniSeriesButtons:
@@ -166,23 +202,6 @@ subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
-
-# About MSS Block
-aboutMSSBlockTitle: "About MSS"
-aboutMSS: "The Monash Science Symposium (MSS) is a student-led event by the School of Science postgraduate students of Monash University Malaysia (MUM). We hope to initiate the conference as an annual event that acts as a platform for students to gain experience and valuable insight towards their research. It also serves as a promotional event to highlight the capabilities of postgraduates in research outputs and the dissemination of their scientific findings to a broader, and ideally, international audience. It is also can be the future direction of this event will aim to showcase research here in Monash to engage with other universities and industries to increase the networking opportunities."
-objectives:
-  - {objective: "Provide a platform for researchers from around the world to exchange ideas, establish collaborations and have meaningful discussions on current scientific issues​."}
-  - {objective: "Allow the establishment of professional relations with other sectors (industries, research institutes and non-academia)."}
-  - {objective: "Increase the number of local and international participants​."}
-  - {objective: "Establish a more significant relation with government institutes and industries."}
-
-# Team Block
-teamBlockTitle: "Meet the Team"
-
-# History Block
-history1: "MSS was first held in 2013 as a gathering of local science graduate research students to share and discuss their research findings. Since then, it has grown in size and scope to include the student community of other local and international universities and research institutes. True to the Monash motto “<em>Ancora Imparo</em>”, the Symposium aims to enhance the science learning experience by encouraging knowledge exchange between researchers, promoting local research work, exploring potential collaborations, and fostering closer ties with other research universities."
-history2: "In 2014, the Symposium has registered more than 150 student participants, half of which represent participants from 9 other different local universities/research institutes. In 2016, the symposium was held with more registered participants, including external participants who were from 13 universities and a government agency. A new scope was introduced in MSS 2016, covering a total of 6 major life sciences branches and were presented over 3-day periods. The Symposium had received overwhelming positive feedback from the participants. In 2018, an intervarsity symposium which served as a promotional event to highlight the capabilities of HDR students of Monash University Malaysia in producing quality research outputs and the dissemination of their scientific findings to a broader audience."
-history3: "For MSS 2022, we intend to continue the legacy by making the event bigger as well as introduce a new science category, “Science Communication and Safety”. We also intend to encourage supervisors/lecturers to partake in MSS 2022 as the scientific committee which would assist in the abstract screening process.  We therefore propose for an intervarsity symposium to be held for the graduate research students, staff and company agencies."
 
 # Tickets Block
 ticketsTitle: "Pricetable"

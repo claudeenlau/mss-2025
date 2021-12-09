@@ -1,0 +1,13 @@
+<!-- Schedule Introduction Section -->
+<section id="-schedule-intro" class="schedule-intro">
+    <div class="content-wrapper">
+        <div class="col-lg-8 col-lg-offset-2 text-center">
+            <h3 class="text-middle animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">{{ site.scheduleIntroTitle }}</h3>
+            <p class="text-middle animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">{{ site.scheduleIntro1 }}</p>
+            {% for button in site.scheduleIntroButtons %}
+        	<a  style="margin: 0px 0px 25px 0px" href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+        	{% endfor %}
+            <p class="text-middle animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">{{ site.scheduleIntro2 }}</p>
+        </div>
+  </div>
+</section>
