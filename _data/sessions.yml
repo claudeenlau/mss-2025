@@ -41,38 +41,47 @@
   place: "Zoom"
 -
   id: 151
-  title: "Oral presentation #1 Insert title here (G&B)"
+  title: "Oral presentation #1 Insert title here and it is extremely long but deal with it"
+  category: "Genomics & Bioinformatics"
   place: "Zoom breakout room #1"
-  speaker: [40]
+  speakers: [40]
 -
   id: 152
-  title: "Oral presenation #2 Insert title here (C&MB)"
+  title: "Oral presenation #2 Insert title here"
+  category: "Cellular & Molecular Biology"
   place: "Zoom breakout room #2"
 -
   id: 153
-  title: "Oral presentation #3 Insert title here (C&DD)"
+  title: "Oral presentation #3 Insert title here"
+  category: "Chemistry & Drug Discovery"
   place: "Zoom breakout room #3"
 -
   id: 154
-  title: "Oral presentation #4 Insert title here (G&B)"
+  title: "Oral presentation #4 Insert title here"
+  category: "Genomics & Bioinformatics"
   place: "Zoom breakout room #1"
 -
   id: 155
-  title: "Oral presentation #5 Insert title here (C&MB)"
+  title: "Oral presentation #5 Insert title here"
+  category: "Cellular & Molecular Biology"
   place: "Zoom breakout room #2"
 -
   id: 156
-  title: "Oral presenation #6 Insert title here (C&DD)"
+  title: "Oral presenation #6 Insert title here"
+  category: "Chemistry & Drug Discovery"
   place: "Zoom breakout room #3"
 -
   id: 157
-  title: "Oral presentation #7 Insert title here (G&B)"
+  title: "Oral presentation #7 Insert title here"
+  category: "Genomics & Bioinformatics"
   place: "Zoom breakout room #1"
 -
   id: 158
-  title: "Oral presentation #8 Insert title here (C&MB)"
+  title: "Oral presentation #8 Insert title here"
+  category: "Cellular & Molecular Biology"
   place: "Zoom breakout room #2"
 -
   id: 159
-  title: "Oral presentation #9 Insert title here (C&DD)"
+  title: "Oral presentation #9 Insert title here"
+  category: "Chemistry & Drug Discovery"
   place: "Zoom breakout room #3"

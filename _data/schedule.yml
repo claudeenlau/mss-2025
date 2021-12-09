@@ -1,7 +1,8 @@
 -
   date: "2022-01-01"
   dateReadable: "January 1 (Morning session)"
-  anchor: "day-1-morning" #create an anchor so users can jump between different parts of the webpage
+  whichDay: 1 # means means Day 1
+  anchor: "day-1-morning" # create an anchor so users can jump between different parts of the webpage
   tracks:
     - {title: "Morning Session", color: "#00599D"}
   timeslots:
@@ -33,6 +34,7 @@
 -
   date: "2022-01-01"
   dateReadable: "January 1 (Afternoon session)"
+  whichDay: 1
   anchor: "day-1-afternoon"
   tracks:
     - {title: "Genomics & Bioinformatics", color: "#D856A9"}

@@ -93,7 +93,7 @@ scheduleIntro1: "MSS 2022 will be held over two virtual platforms, Zoom and Remo
 scheduleIntroButtons:
   - {permalink: "/schedule/#day-1-morning", text: "Day 1 (Morning)"}
   - {permalink: "/schedule/#day-1-afternoon", text: "Day 1 (Afternoon)"}
-scheduleIntro2: "Oral presentations are categorised into 7 categories:<br>1. Genomics & Bioinformatics (G&B)<br>2. Cell & Molecular Biology (C&MB)<br>3. Chemistry & Drug Discovery (C&DD)"
+scheduleIntro2: "Oral presentations are categorised into 7 categories:<br>1. Genomics & Bioinformatics<br>2. Cell & Molecular Biology<br>3. Chemistry & Drug Discovery"
 
 # Mini Science Series Block
 miniSeriesTitle: "Mini Science Series"
