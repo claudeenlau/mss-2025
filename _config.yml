@@ -111,10 +111,42 @@ webinar1Video: "https://www.youtube.com/embed/oiZH1XhyYuY"
 webinar2Title: "#2 Am I OK? Adapting to the New Norm During a Pandemic"
 webinar2Description: "In these tough times, while everyone is adapting to a new norm, we sometimes forget to stop for a minute, breathe and ask ourselves 'Am I OK?'. In the second webinar, we were joined by a panel of experts specializing in Nutrition, Psychiatry & Psychology."
 webinar2Video: "https://www.youtube.com/embed/hgfhAucc1JM"
+webinar2Points:
+ - {point: "Covid-19 has increased depression, anxiety, stress, trauma, eating disorders and self-harm among people globally. These effects are seen more in younger people, women, those with lower formal education, those single, those living with children, and those living in affected countries."}
+ - {point: "These effects are normal responses to a prolonged traumatic event such as the Covid-19 pandemic. However, there are ways to cope while going through this pandemic. These include taking back control in your daily activities despite being stuck at home, practicing healthy eating and a healthy lifestyle, and using social media positively."}
+ - {point: "Stigma around Covid-19 also affects our physical and psychological well-being. It also stops people from getting tested and treated and prevents contact tracing of Covid-19."}
+ - {point: "Traumatic events can trigger the onset of mental illness like anxiety and depression, especially for people who have an anxious personality."}
+ - {point: "Food and diet affect our brain by the production of certain neurotransmitters. So when we are stressed, we turn to food to try and make us feel better. But poor diet choices can actually make us feel worse."}
+ - {point: "Incorporating the Mediterranean diet can help improve mental and physical well-being. Taking in moderate amounts of every food group, and not eliminating any groups because each group plays an important role in our body."}
+ - {point: "Some good eating habits to remember during the pandemic is to track your eating habits, snack on healthy foods, practice mindful eating, keep your mind engaged, drink a lot of water, and cook at home more often."}
+webinar2Questions:
+ - {point: "How do I help friends who have been affected mentally by quarantine?"}
+ - {point: "How do we get out of a period of burnout while adjusting to the new normal?"}
+ - {point: "What if, when you are stressed, you don't feel like eating at all? Is this normal? How do you handle this?"}
+ - {point: "What are the steps we can take to push for a better food environment so that we can all sustain a healthy dietary regime?"}
+ - {point: "When do we know when to seek help? What are the clinical signs and symptoms we should look out for to tell us that we need to see a psychologist or psychiatrist?"}
+ - {point: "Is there any evidence for the cultivation of certain habits that can help create a positive mental state or environment?"}
+ - {point: "What if this MCO (Malaysia's Movement Control Order) had made me feel like not doing anything, I am losing my passion and I am becoming unproductive. Do I have anxiety issues?"}
+ - {point: "How do we curb the negative stigma on mental health?"}
 
 webinar3Title: "#3 Digital Health: A Step Towards Modernized Healthcare"
 webinar3Description: "This was the third webinar in the Mini Science Series! In this webinar, we discussed digital health. The main goal of this webinar was to create awareness and educate the public on digital health and innovative healthcare technologies in Malaysia."
 webinar3Video: "https://www.youtube.com/embed/I1G5Ifb7fj0"
+webinar3Points:
+ - {point: "Digital health combines digital technologies and artificial intelligence to enhance the efficiency of healthcare delivery and improve general wellbeing. Digital health is useful for monitoring health, reducing costs on healthcare, providing easy access to healthcare, and reducing inefficiencies and wastage in healthcare."}
+ - {point: "Mental health in Malaysia still face many challenges including the stigma about getting mental health support or even talking about it. There is also a lack of accessible and affordable mental health support."}
+ - {point: "Digital platforms and programs can provide accessible support by having health care experts available to many clients at a time. This reduces the cost and improves the time efficiency of these experts."}
+ - {point: "Investment and research in using artificial intelligence in healthcare are currently growing fast. Using AI to collect biodata in health care is helpful to predict underlying diseases and conditions. AI can also predict mental health traits and conditions."}
+ - {point: "Recently during the Covid-19 pandemic, AI has been used for the forecast of outbreaks, contact tracing, patient monitoring, and early Covid diagnosis."}
+ - {point: " New regulations and policies are needed to integrate digital platforms and services in healthcare, to cater to new generations of demand."}
+webinar3Questions:
+ - {point: "How can we integrate AI and machine learning algorithms for digital healthcare systems using blockchain?"}
+ - {point: "How do you quantify accuracy when using AI?"}
+ - {point: "How can AI be effective in treating and diagnosing diseases, especially diseases with many factors contributing to it?"}
+ - {point: "How different are the approaches used in digitally managing communicable/contagious diseases and non-communicable diseases?"}
+ - {point: "How will the government cover the gaps of the three As of healthcare (availability, accessibility, affordability)?"}
+ - {point: "What can be done to mitigate cyber threats in the healthcare industry?"}
+ - {point: "To what extent can we expect accurate AI involvement in prescribing treatments?"}
 
 webinar4Title: "#4 COVID-19 Vaccines: Which is better? Does it really matter?"
 webinar4Description: "We had our latest webinar on the 17th November 2021 which was titled <em>COVID-19 vaccines: Which is better? Does it really matter?</em> Hear what our experts have to say on vaccines."
