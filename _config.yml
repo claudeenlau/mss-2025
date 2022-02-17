@@ -107,6 +107,17 @@ miniSeriesButtons:
 webinar1Title: "#1 Pandemic Preparedness: Challenges Faced and Lessons Learnt"
 webinar1Description: "The first webinar from the Mini Science Series was about how we can better prepare for the pandemic and the lessons we have learnt from it thus far."
 webinar1Video: "https://www.youtube.com/embed/oiZH1XhyYuY"
+webinar1Points:
+ - {point: "Many methodologies and technology that were developed for cancer research can actually be applied for control of the Covid-19 pandemic. For example, the novel method to discover cancer-inducing DNA can be used for rapid and convenient screening of the Covid-19 virus."}
+ - {point: "Although right now the research of Covid-19 required a lot of attention, research focus should not be taken away from other fields that still need problem-solving, for example in the environmental and cancer field."}
+ - {point: "There is generally a lack of accurate interface between scientists and the public. So when the public receives misinformation, this is a challenge for the medical field when the public over-purchases medical supplies unnecessarily."}
+ - {point: "Mobile devices and technologies have become important now to replace face-to-face learning and become accessible to many people at one time. Collaborate technologies have recently been embraced for work connections across the globe."}
+ - {point: "Cyber security would be a rising issue for e-learning in the future. Academic integrity and assessments are coming up to be areas of concern when it comes to online learning."}
+webinar1Questions:
+ - {point: "How will e-learning cater to the underprivileged?"}
+ - {point: "What do you think Monash can do to bridge the gap between researchers and the public?"}
+ - {point: "What are the panellists' opinions on COVID-19 towards postgraduate research progress?"}
+ - {point: "At present, which country's healthcare system is a great example of a robust healthcare system?"}
 
 webinar2Title: "#2 Am I OK? Adapting to the New Norm During a Pandemic"
 webinar2Description: "In these tough times, while everyone is adapting to a new norm, we sometimes forget to stop for a minute, breathe and ask ourselves 'Am I OK?'. In the second webinar, we were joined by a panel of experts specializing in Nutrition, Psychiatry & Psychology."
