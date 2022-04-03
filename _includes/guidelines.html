@@ -9,17 +9,19 @@
                 {% endfor %}
             </ul>
           <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.guidelines2 }}</p>
-          <br>
+					{% for button in site.guidelinesButton %}
+						<a  style="margin: 0px 0px 25px 0px" href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+					{% endfor %}
+					<br>
           <!-- Abstract Submission Guidelines -->
           <h5 class="text-center animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.abstractSubmissionTitle }}</h5>
             <ul class="text-left animated hiding" data-animation="fadeInUp" data-delay="0"> {% for points in site.abstractSubmissionPoints %}
               <li> {{ points.point }} </li>
               {% endfor %}
             </ul>
-            {% for button in site.abstractSubmissionButton %}
-              <a  style="margin: 0px 0px 25px 0px" href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
-            {% endfor %}
         </div>
+				<br>
+				<!-- Other Submission Guidelines -->
         <div class="col-lg-10 col-lg-offset-1 col-md-12 col-sm-10 col-sm-offset-1">
           <div class="row categories-details">
             {% assign animationDelay = 0 %}
@@ -31,12 +33,9 @@
                   <li> {{ points.point }} </li>
                   {% endfor %}
                 </ul>
-                {% for button in guideline.button %}
-            	  <a  style="margin: 0px 0px 25px 0px" href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
-            	  {% endfor %}
               </div>
             </div>
-            {% endfor %}
+						{% endfor %}
           </div>
         </div>
     </div>

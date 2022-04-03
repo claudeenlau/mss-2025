@@ -7,8 +7,8 @@
     - {point: "All submissions must be made through the online form."}
     - {point: "The online submission process will provide further instructions regarding contact information, how to submit, etc."}
     - {point: "The presentation slides should be uploaded as a ppt., pptx., file of size not more than 20MB."}
-  button:
-    - {link: "https://docs.google.com/document/d/1bQ56QsLsQ4-L92yi6WmP5yNqC_vNsriy/edit?usp=sharing&ouid=103663031335875406255&rtpof=true&sd=true", text: "Full guidelines and suggestions" }
+  #button:
+  #  - {link: "https://docs.google.com/document/d/1bQ56QsLsQ4-L92yi6WmP5yNqC_vNsriy/edit?usp=sharing&ouid=103663031335875406255&rtpof=true&sd=true", text: "Full guidelines and suggestions" }
 -
   name: "Poster Presentation Guidelines"
   points:
@@ -18,8 +18,8 @@
     - {point: "Author’s university logo should be of appropriate size and displayed on the right top corner of the poster"}
     - {point: "All submissions must be made through the online form."}
     - {point: "The online submission process will provide further instructions regarding contact information, how to submit, etc."}
-  button:
-    - {link: "https://docs.google.com/document/d/1nBFUifnDQ3BI9FcjKId-2ad0PrsTbBr4/edit?usp=sharing&ouid=103663031335875406255&rtpof=true&sd=true", text: "Full guidelines"}
+  #button:
+  #  - {link: "https://docs.google.com/document/d/1nBFUifnDQ3BI9FcjKId-2ad0PrsTbBr4/edit?usp=sharing&ouid=103663031335875406255&rtpof=true&sd=true", text: "Full guidelines"}
 -
   name: "Pecha Kucha Guidelines"
   points:
@@ -28,5 +28,5 @@
     - {point: "The 20 slide limit excludes the title slide"}
     - {point: "All submissions must be made through the online form."}
     - {point: "The online submission process will provide further instructions regarding contact information, how to submit, etc."}
-  button:
-    - {link: "https://docs.google.com/document/d/1BfO_27Z_LFxKiLupbi0vFmvYtrCcrEE0/edit?usp=sharing&ouid=103663031335875406255&rtpof=true&sd=true", text: "Full guidelines and suggestions"}
+  #button:
+  #  - {link: "https://docs.google.com/document/d/1BfO_27Z_LFxKiLupbi0vFmvYtrCcrEE0/edit?usp=sharing&ouid=103663031335875406255&rtpof=true&sd=true", text: "Full guidelines and suggestions"}

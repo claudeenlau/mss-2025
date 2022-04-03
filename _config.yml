@@ -56,7 +56,7 @@ eventDate: "13-15 July 2022"
 typeoutTextValues: '"", "2022" '
 typeoutFallback: ""
 heroButtons:
-#- {permalink: "/miniscienceseries", text: "Check out our webinar"}
+- {permalink: "/registration", text: "Register now"}
 #- {permalink: "/#footer", text: "Footer"}
 
 # Categories Block
@@ -197,8 +197,9 @@ abstractSubmissionPoints:
  - {point: "All submissions must be made through the online form."}
  - {point: "The online submission process will provide further instructions regarding contact information, how to submit, etc."}
  - {point: "File format: PDF"}
-abstractSubmissionButton:
- - {link: "https://drive.google.com/file/d/1PNHtdyUTJc8vYyGB-rHQbbCoVVX63ozq/view?usp=sharing", text: "Full guidelines and abstract template" }
+guidelinesButton:
+ - {link: "https://drive.google.com/file/d/1PNHtdyUTJc8vYyGB-rHQbbCoVVX63ozq/view?usp=sharing", text: "All guidelines and abstract template"}
+ - {link: "https://docs.google.com/forms/d/1RGY7hAj0dqqInod1gwS8eHVzm6r32KVNumyQuWEY-0Y/viewform?edit_requested=true", text: "Online registration form"}
 
 
 #Key Dates Block
