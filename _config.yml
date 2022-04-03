@@ -38,8 +38,8 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about-us/", text: "About Us"}
  - {permalink: "/speakers", text: "Speakers"}
+ - {permalink: "/registration", text: "Registration"}
  - {permalink: "/miniscienceseries/", text: "Mini Science Series"}
- - {permalink: "/getting-around/", text: "Getting Around"}
 bottomNavigationLinks:
 # - {link: "https://forms.gle/t2ztnxtMbNzzXC2o8", text: "Register here"}
 rightNavigationButtons:
@@ -60,14 +60,13 @@ heroButtons:
 - {permalink: "/#footer", text: "Footer"}
 
 # Categories Block
-categoriesTitle: "7 Categories"
 categoriesBlock:
- - {text: "Cellular Biology and Biochemistry", image: "category_logo_cellular_biology.png"}
- - {text: "Chemistry and Drug Discovery", image: "category_logo_chemistry.png"}
+ - {text: "Cellular Biology & Biochemistry", image: "category_logo_cellular_biology.png"}
+ - {text: "Chemistry & Drug Discovery", image: "category_logo_chemistry.png"}
  - {text: "Applied Microbiology", image: "category_logo_microbiology.png"}
- - {text: "Science Safety and Communication", image: "category_logo_combo.png"}
- - {text: "Genomics and Bioinformatics", image: "category_logo_genomics_and_bioinformatics.png"}
- - {text: "Food Science and Technology", image: "category_logo_foodscience.png"}
+ - {text: "Science Communication & Safety", image: "category_logo_combo.png"}
+ - {text: "Genomics & Molecular Biology", image: "category_logo_genomics_and_bioinformatics.png"}
+ - {text: "Food Science & Technology", image: "category_logo_foodscience.png"}
  - {text: "Environmental Science", image: "category_logo_environmental.png"}
 
 # About MSS Block
@@ -180,6 +179,23 @@ webinar4Questions:
  - {point: "What are heterologous vaccines?"}
  - {point: "Is a fourth booster shot advisable in Malaysia?"}
 webinar4Video: "https://www.youtube.com/embed/HgdM7keFOoo"
+
+# Guidelines Block
+guidelinesTitle: "Submission Guidelines"
+guidelines1: "Welcome to Monash Science Symposium (MSS) 2022! Our theme this year is “Symbiosis: Exploring extraordinary possibilities”.
+We will be calling for abstract submission soon! MSS 2022 will feature the following categories:"
+guidelines2: "In the meantime, please check out the abstract submission guidelines and the presentation guidelines below."
+abstractSubmissionTitle: "Abstract Submission Guidelines"
+abstractSubmissionPoints:
+ - {point: "Title of the abstract should be 15 words or less and should clearly identify the focus of the abstract."}
+ - {point: "Authors’ names should be arranged as last name first, followed by given names."}
+ - {point: "Word count: 200 words or less"}
+ - {point: "All submissions must be made through the online form."}
+ - {point: "The online submission process will provide further instructions regarding contact information, how to submit, etc."}
+ - {point: "File format: PDF"}
+abstractSubmissionButton:
+ - {link: "https://docs.google.com/document/d/1ukhrm_8mZ98aP7zUSmNjzPqw6rYiVqkaykAV-gUa87U/edit", text: "Full guidelines and abstract template" }
+
 
 #Key Dates Block
 #keyDatesBlockImage: "key-dates.jpg"

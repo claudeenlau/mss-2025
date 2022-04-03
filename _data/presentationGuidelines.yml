@@ -1,0 +1,32 @@
+-
+  name: "Oral Presentation Guidelines"
+  points:
+    - {point: "All the presentations must be in Microsoft PowerPoint (ppt. or pptx.)"}
+    - {point: "Maximum of 20 slides"}
+    - {point: "Presenters are given 15 minutes to present and 5 minutes for Q&A."}
+    - {point: "All submissions must be made through the online form."}
+    - {point: "The online submission process will provide further instructions regarding contact information, how to submit, etc."}
+    - {point: "The presentation slides should be uploaded as a ppt., pptx., file of size not more than 20MB."}
+  button:
+    - {link: "https://docs.google.com/document/d/1ukhrm_8mZ98aP7zUSmNjzPqw6rYiVqkaykAV-gUa87U/edit", text: "Full guidelines and suggestions" }
+-
+  name: "Poster Presentation Guidelines"
+  points:
+    - {point: "Dimension of the poster should be the widescreen size in Microsoft Powerpoint (Width: 33.867 cm, Height: 19.05 cm)."}
+    - {point: "Portrait orientation"}
+    - {point: "Presenters are given 10 minutes to present and 5 minutes for Q&A."}
+    - {point: "Author’s university logo should be of appropriate size and displayed on the right top corner of the poster"}
+    - {point: "All submissions must be made through the online form."}
+    - {point: "The online submission process will provide further instructions regarding contact information, how to submit, etc."}
+  button:
+    - {link: "https://docs.google.com/document/d/1ukhrm_8mZ98aP7zUSmNjzPqw6rYiVqkaykAV-gUa87U/edit", text: "Full guidelines"}
+-
+  name: "Pecha Kucha Guidelines"
+  points:
+    - {point: "Presentations must be in Microsoft PowerPoint (ppt. or pptx.)"}
+    - {point: "As each slide is shown for 20 seconds, the presentation must strictly be 6 minutes and 40 seconds in total"}
+    - {point: "The 20 slide limit excludes the title slide"}
+    - {point: "All submissions must be made through the online form."}
+    - {point: "The online submission process will provide further instructions regarding contact information, how to submit, etc."}
+  button:
+    - {link: "https://docs.google.com/document/d/1ukhrm_8mZ98aP7zUSmNjzPqw6rYiVqkaykAV-gUa87U/edit", text: "Full guidelines and suggestions"}

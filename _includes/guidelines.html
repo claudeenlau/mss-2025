@@ -1,0 +1,44 @@
+<!-- Guidelines Section -->
+<section id="guidelines" class="guidelines">
+	<div class="content-wrapper">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
+        	<h3>{{ site.guidelinesTitle }}</h3>
+        	<p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.guidelines1 }}</p>
+        	<ul class="text-left animated hiding" data-animation="fadeInUp" data-delay="0"> {% for category in site.categoriesBlock %}
+                <li> {{ category.text }} </li>
+                {% endfor %}
+            </ul>
+          <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.guidelines2 }}</p>
+          <br>
+          <!-- Abstract Submission Guidelines -->
+          <h5 class="text-center animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.abstractSubmissionTitle }}</h5>
+            <ul class="text-left animated hiding" data-animation="fadeInUp" data-delay="0"> {% for points in site.abstractSubmissionPoints %}
+              <li> {{ points.point }} </li>
+              {% endfor %}
+            </ul>
+            {% for button in site.abstractSubmissionButton %}
+              <a  style="margin: 0px 0px 25px 0px" href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+            {% endfor %}
+        </div>
+        <div class="col-lg-10 col-lg-offset-1 col-md-12 col-sm-10 col-sm-offset-1">
+          <div class="row categories-details">
+            {% assign animationDelay = 0 %}
+            {% for guideline in site.data.presentationGuidelines %}
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+              <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                <h5> {{ guideline.name }} </h5>
+                <ul class="text-left animated hiding" data-animation="fadeInUp" data-delay="0"> {% for points in guideline.points %}
+                  <li> {{ points.point }} </li>
+                  {% endfor %}
+                </ul>
+                {% for button in guideline.button %}
+            	  <a  style="margin: 0px 0px 25px 0px" href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+            	  {% endfor %}
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+    </div>
+</section>
+<!-- End Guidelines Section -->
