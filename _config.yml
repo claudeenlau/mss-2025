@@ -37,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/organizer-logo.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about-us/", text: "About Us"}
- - {permalink: "/speakers", text: "Speakers"}
+ #- {permalink: "/speakers", text: "Speakers"}
  - {permalink: "/registration", text: "Registration"}
  - {permalink: "/miniscienceseries/", text: "Mini Science Series"}
 bottomNavigationLinks:
