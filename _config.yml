@@ -194,7 +194,7 @@ abstractSubmissionPoints:
  - {point: "The online submission process will provide further instructions regarding contact information, how to submit, etc."}
  - {point: "File format: PDF"}
 abstractSubmissionButton:
- - {link: "https://docs.google.com/document/d/1ukhrm_8mZ98aP7zUSmNjzPqw6rYiVqkaykAV-gUa87U/edit", text: "Full guidelines and abstract template" }
+ - {link: "https://drive.google.com/file/d/1PNHtdyUTJc8vYyGB-rHQbbCoVVX63ozq/view?usp=sharing", text: "Full guidelines and abstract template" }
 
 
 #Key Dates Block
