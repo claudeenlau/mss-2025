@@ -41,9 +41,9 @@ navigationLinks:
  - {permalink: "/registration", text: "Registration"}
  - {permalink: "/miniscienceseries/", text: "Mini Science Series"}
 bottomNavigationLinks:
-# - {link: "https://forms.gle/t2ztnxtMbNzzXC2o8", text: "Register here"}
+ - {permalink: "/registration", text: "Register now"}
 rightNavigationButtons:
-# - {link: "https://forms.gle/t2ztnxtMbNzzXC2o8", text: "Register here"}
+ - {permalink: "/registration", text: "Register now"}
 
 # Miscellaneous links
 #speakerButtonRegister: "https://forms.gle/t2ztnxtMbNzzXC2o8"
@@ -52,7 +52,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Monash Science Symposium (MSS) <typeout>"
 eventDate: "13-15 July 2022"
-#heroMotto: "<em>Check out the footer for our social media links, email and past events.</em>"
+heroMotto: "<em>Symbiosis: Exploring extraordinary possibilities</em>"
 typeoutTextValues: '"", "2022" '
 typeoutFallback: ""
 heroButtons:
