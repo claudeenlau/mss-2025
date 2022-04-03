@@ -51,15 +51,17 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Monash Science Symposium (MSS) <typeout>"
-eventDate: "Coming soon!"
-heroMotto: "<em>Check out the footer for our social media links, email and past events.</em>"
+eventDate: "13-15 July 2022"
+#heroMotto: "<em>Check out the footer for our social media links, email and past events.</em>"
 typeoutTextValues: '"", "2022" '
 typeoutFallback: ""
 heroButtons:
-- {permalink: "/miniscienceseries", text: "Check out our webinar"}
-- {permalink: "/#footer", text: "Footer"}
+#- {permalink: "/miniscienceseries", text: "Check out our webinar"}
+#- {permalink: "/#footer", text: "Footer"}
 
 # Categories Block
+categoriesTitle: "Submit abstracts now"
+categoriesDescription: "We will be calling for abstract submission for the following categories:"
 categoriesBlock:
  - {text: "Cellular Biology & Biochemistry", image: "category_logo_cellular_biology.png"}
  - {text: "Chemistry & Drug Discovery", image: "category_logo_chemistry.png"}
@@ -68,6 +70,8 @@ categoriesBlock:
  - {text: "Genomics & Molecular Biology", image: "category_logo_genomics_and_bioinformatics.png"}
  - {text: "Food Science & Technology", image: "category_logo_foodscience.png"}
  - {text: "Environmental Science", image: "category_logo_environmental.png"}
+categoriesButton:
+ - {permalink: "/registration", text: "Register now"}
 
 # About MSS Block
 aboutMSSBlockTitle: "About MSS"

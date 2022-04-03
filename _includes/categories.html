@@ -2,18 +2,26 @@
 <section id="categories" class="categories">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
+          <h3>{{ site.categoriesTitle }}</h3>
+          <p>{{ site.categoriesDescription }}</p>
             <div class="row categories-details">
                 {% assign animationDelay = 0 %}
                 {% for category in site.categoriesBlock %}
                 <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                         <img class="img-circle" src="{{ site.baseurl }}/img/categories/{{ category.image }}" height="128" width="128" alt="{{ category.title }}">
-                        <h5>{{ category.text }} </h5>
+                        <p>{{ category.text }}</p>
                     </div>
                 </div>
                 {% endfor %}
-            </div>
+          </div>
+          {% for button in site.categoriesButton %}
+          <a  style="margin: 0px 0px 25px 0px" href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+          {% endfor %}
         </div>
     </div>
 </section>
 <!-- End Categories Section -->
+<!-- {% for button in site.categoriesButton %}
+<a href="{{ button.link }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">{{ button.text }}</a>
+{% endfor %} -->
