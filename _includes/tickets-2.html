@@ -10,9 +10,15 @@
 	            	<div class="row">
 						<div class="col-sm-6 col-xs-12">
 							<p class="title">{{ ticketsOffer.name }}</p>
+							<!-- additionalInfo Begins -->
 							{% if ticketsOffer.additionalInfo != null %}
-								<span class="ticket-additional-info">{{ ticketsOffer.additionalInfo }}</span>
+							<span class="ticket-additional-info">
+								{% if ticketsOffer.earlyBirdRate != null %}
+									<span style="background-color:#BAEDFF">Early Bird Rate:</span>
+								{% endif %}
+									{{ ticketsOffer.additionalInfo }}</span>
 							{% endif %}
+							<!-- additionalInfo Ends -->
 							{% if ticketsOffer.disabled != true %}
 							{% assign ticketValidTo = ticketsOffer.validThrough | split: "T" %}
 								<span class="ticket-additional-info">Before {{ ticketValidTo[0] | date: "%-d %B %Y"}} {{ ticketValidTo[1] }}</span>
