@@ -205,12 +205,12 @@ guidelinesButton:
  - {link: "https://docs.google.com/forms/d/1RGY7hAj0dqqInod1gwS8eHVzm6r32KVNumyQuWEY-0Y/viewform?edit_requested=true", text: "Online registration form"}
 
 
-#Key Dates Block
-#keyDatesBlockImage: "key-dates.jpg"
-#keyDates:
-# - {date: "3 Jan 2019", text: "Deadline for something pretty important"}
-# - {date: "7 Jan 2019", text: "Registration does not close"}
-# - {date: "10 Jan 2019", text: "Early bird tickets"}
+# Key Dates Block
+keyDatesBlockImage: "key-dates.jpg"
+keyDates:
+ - {date: "20 May 2022", text: "Early bird deadline"}
+ - {date: "15 June 2022", text: "Standard deadline"}
+ - {date: "13-15 July 2022", text: "Symposium"}
 
 # Statistic Block
 #statisticBlockImage: "statistic.jpg"
@@ -265,45 +265,85 @@ partnersDescription: "We would like to thank our sponsors for..."
 partnersSponsorsButton: "Become a sponsor"
 
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+#subscribeImage: "subscribe.jpg"
+#subscribeTitle: "Subscribe for updates"
+#subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+#subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Ticket prices"
+#ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
 -
-  name: "Early Bird"
-  price: "400"
-  priceCurrency: "RM"
-  buyButtonLink: "https://forms.gle/8Nqd75EHrqUMTLQp9"
+  name: "Monash/Local student"
+  price: "100"
+  priceCurrency: "MYR"
+  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
   buyButtonText: "Register Now"
-  validFrom: "2020-04-31T10:00 AM"
-  validThrough: "2020-08-31T10:00 PM"
-  additionalInfo: "Only for students and academics"
-  featured: true
-  soldOut: false
-  SoldOutText: "SoldOut"
+  validFrom: "2022-04-11T12:00 PM"
+  validThrough: "2022-05-20T12:00 PM"
+  additionalInfo: "Early Bird Rate: Only for Monash students and students from Malaysian universities/colleges."
+  #featured: false
+  #soldOut: false
+  #SoldOutText: "SoldOut"
 -
-  name: "Normal"
-  price: "450"
-  priceCurrency: "RM"
-  buyButtonLink: "https://forms.gle/8Nqd75EHrqUMTLQp9"
+  name: "Local participants"
+  price: "125"
+  priceCurrency: "MYR"
+  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
   buyButtonText: "Register Now"
-  validFrom: "2020-08-31T10:00 PM"
-  validThrough: "2021-01-31T10:00 PM"
-  additionalInfo: "Only for students and academics"
+  validFrom: "2022-04-11T12:00 PM"
+  validThrough: "2022-05-20T12:00 PM"
+  additionalInfo: "Early Bird Rate: For Malaysian non-students, delegates and participants from the industry."
+-
+  name: "International participants"
+  price: "60"
+  priceCurrency: "USD"
+  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
+  buyButtonText: "Register Now"
+  validFrom: "2022-04-11T12:00 PM"
+  validThrough: "2022-05-20T12:00 PM"
+  additionalInfo: "Early Bird Rate: For international students, delegates and participants from the industry."
+-
+  name: "Monash students"
+  price: "100"
+  priceCurrency: "MYR"
+  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
+  buyButtonText: "Register Now"
+  validFrom: "2022-05-20T12:00 PM"
+  validThrough: "2022-06-15T12:00 PM"
+  additionalInfo: "Standard Rate: Only for Monash students"
   disabled: true
 -
-  name: "Industry"
-  price: "600"
-  priceCurrency: "RM"
-  buyButtonLink: "https://forms.gle/8Nqd75EHrqUMTLQp9"
+  name: "Local students"
+  price: "150"
+  priceCurrency: "MYR"
+  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
   buyButtonText: "Register Now"
-  validFrom: "2020-04-31T10:00 AM"
-  validThrough: "2021-01-31T10:00 PM"
+  validFrom: "2022-05-20T12:00 PM"
+  validThrough: "2022-06-15T12:00 PM"
+  additionalInfo: "Standard Rate: Only students from Malaysian universities/colleges."
+  disabled: true
+-
+  name: "Local non-students/delegates"
+  price: "150"
+  priceCurrency: "MYR"
+  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
+  buyButtonText: "Register Now"
+  validFrom: "2022-05-20T12:00 PM"
+  validThrough: "2022-06-15T12:00 PM"
+  additionalInfo: "Standard Rate: For Malaysian non-students, delegates and participants from the industry."
+  disabled: true
+-
+  name: "International participants"
+  price: "75"
+  priceCurrency: "USD"
+  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
+  buyButtonText: "Register Now"
+  validFrom: "2022-05-20T12:00 PM"
+  validThrough: "2022-06-15T12:00 PM"
+  additionalInfo: "Standard Rate: For international students, delegates and participants from the industry."
+  disabled: true
 
 # Footer
 socialLinks:
