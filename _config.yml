@@ -296,7 +296,7 @@ ticketsOffers:
   additionalInfo: "For Malaysian non-students, delegates and participants from the industry."
 -
   name: "International participants"
-  price: "60"
+  price: "50"
   priceCurrency: "USD"
   buyButtonLink: "https://monash-sciencesymposium.com/registration/"
   buyButtonText: "Register Now"
@@ -326,7 +326,7 @@ ticketsOffers:
   disabled: true
 -
   name: "Local non-students/delegates"
-  price: "150"
+  price: "175"
   priceCurrency: "MYR"
   buyButtonLink: "https://monash-sciencesymposium.com/registration/"
   buyButtonText: "Register Now"
