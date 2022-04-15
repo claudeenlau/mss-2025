@@ -40,7 +40,7 @@
  thumbnailUrl: "TanHockSiewPatrick.jpg"
 -
  id: 45
- name: "Prof."
+ name: "Assoc. Prof."
  surname: "Qasim Ayub"
  company: "Monash University Malaysia"
  title: "Professor and Deputy Head of School (Research) in the School of Science"
@@ -54,3 +54,20 @@
  title: "Senior Lecturer in the School of Science"
  bio: "Dr. Wee Sim Choo completed a Bachelor Science in Food Studies (2001) majoring in Food Quality Management with a First Class Honours and Master of Science (2004) in the field of Food Chemistry and Biochemistry from the Universiti Putra Malaysia. She then joined the Malaysian Palm Oil Board as a research officer before moving to the University of Otago, New Zealand to complete a Ph.D. in Food Science in 2008. She joined Monash University soon after and is currently a Senior Lecturer for the School of Science. Dr. Choo's current research interests focus on functional foods, extraction and application of bioactive compounds from food sources, phytochemicals, probiotics and prebiotics."
  thumbnailUrl: "WeeSimChoo.jpg"
+-
+ id: 47
+ name: "Assoc. Prof."
+ surname: "Adeline Ting"
+ company: "Monash University Malaysia"
+ title: "Associate Professor and Head of Discipline, Biological Sciences
+School of Science"
+ bio: "Associate Professor Adeline Ting is a highly dedicated academic and passionate researcher. She has more than 17 years of experience in both education and research. She is dynamic, progressive, creative and innovative in both teaching and research. Her research focus is on applied microbiology, investing in biological, agricultural, and environmental applications. Adeline has been awarded 14 external grants as PI and Co-researcher, and has published more than 90 journal articles. Adeline was the recipient of the National Outstanding Researcher Award (Biological Science) in 2018."
+ thumbnailUrl: "AdelineTing.jpeg"
+-
+ id: 48
+ name: "Dr."
+ surname: "Michelle Yap"
+ company: "Monash University Malaysia"
+ title: "Senior Lecturer in the School of Science"
+ bio: "Dr. Michelle Yap is currently a senior lecturer and coordinator of Peer-Assisted Study Session at the School of Science, Monash University Malaysia. Her research expertise focuses on toxin pharmacology and toxicology. She has strong interests in pharmaco-proteomics, immunological and molecular modeling of bioactive toxins. Her current research interests also focus on molecular mechanisms of cytotoxicity of venom cytotoxin and toxin-receptor interactions. Her ultimate goal is to develop an enriched tool for next generation biotherapeutics."
+ thumbnailUrl: "MichelleYap.jpg"
