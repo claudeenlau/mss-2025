@@ -1,4 +1,4 @@
-<!-- Guidelines Section -->
+<!-- Submission Guidelines Section -->
 <section id="guidelines" class="guidelines">
 	<div class="content-wrapper">
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
@@ -22,11 +22,11 @@
         </div>
 				<br>
 				<!-- Other Submission Guidelines -->
-        <div class="col-lg-10 col-lg-offset-1 col-md-12 col-sm-10 col-sm-offset-1">
+        <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
           <div class="row categories-details">
             {% assign animationDelay = 0 %}
             {% for guideline in site.data.presentationGuidelines %}
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+            <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
               <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                 <h5> {{ guideline.name }} </h5>
                 <ul class="text-left animated hiding" data-animation="fadeInUp" data-delay="0"> {% for points in guideline.points %}

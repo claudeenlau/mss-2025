@@ -1,0 +1,17 @@
+<!-- Guidelines Section -->
+<section id="guidelines" class="guidelines">
+	<div class="content-wrapper">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
+        	<h3>{{ site.payGuidelinesTitle }}</h3>
+        	<p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.payGuidelines1 }}</p>
+          <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.payGuidelines2 }}</p>
+					<p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.payGuidelines3 }}</p>
+					<br>
+          <ul class="text-left animated hiding" data-animation="fadeInUp" data-delay="0"> {% for points in site.payGuidelinesPoints %}
+            <li> {{ points.point }} </li>
+            {% endfor %}
+          </ul>
+					<p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.payGuidelines4 }}</p>
+        </div>
+</section>
+<!-- End Guidelines Section -->
