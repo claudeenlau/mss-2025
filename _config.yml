@@ -218,7 +218,7 @@ payGuidelinesPoints:
  - {point: "Beneficiary Bank Swift Code: HBMBMYKL"}
  - {point: "Beneficiary Company Registration Number: 199801002475 (458601-U)"}
  - {point: "Beneficiary Company Tax Number: C185386104"}
-payGuidelines4: "Please quote <strong>\"MSS2022\"</strong> in the bank transfer. Once payment is completed, please attach a picture showing proof of payment and send it to <strong>mum-sciencesymposium@monash.edu</strong> by <strong>15th June 2022</strong>."
+payGuidelines4: "Please quote <strong>\"MSS2022\"</strong> in the bank transfer. Once payment is completed, please attach it to the registration form."
 
 # Key Dates Block
 keyDatesBlockImage: "key-dates.jpg"
@@ -276,8 +276,8 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 
 # Partners Block
 partnersTitle: "Sponsors"
-partnersDescription: "We would like to thank our sponsors for..."
-partnersSponsorsButton: "Become a sponsor"
+partnersDescription: "We would like to thank our sponsor for their generous support:"
+# partnersSponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 #subscribeImage: "subscribe.jpg"
