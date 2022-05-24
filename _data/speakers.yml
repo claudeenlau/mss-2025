@@ -1,9 +1,49 @@
 -
- id: 50
- name: "Prof."
- surname: "Chow Sek Chuen"
- company: "Monash University Malaysia"
- title: "Professor and Head of Discipline, Biomedical Sciences"
- bio: "(Chair of webinar) Prof Chow completed his Doctor of Medical Science degree in Immunology from the Karolinska Institute (Sweden) in 1990 and returned there after completing postdoctoral research work in Mayo Clinic and Foundation (US). Following that he joined the Medical Research Council (MRC) Toxicology Unit at Leicester University (UK) as a MRC fellow before taking up a lectureship at Nottingham University (UK). He also launched the Malaysia Medicinal and Aromatic Plants (MyMAP) Accelerator in Monash University Malaysia with Agensi Inovasi Malaysia in 2011. In 2014 he was appointed as a member of the Scientific Advisory Board of the Institute for Research, Development and Innovation (IRDI) at International Medical University, Malaysia."
- thumbnailUrl: "ChowSekChuen.jpg"
+ id: 60
+ name: "Assoc. Prof."
+ surname: "Adeline Chia"
+ company: "Taylor's University"
+ title: "Associate Professor at the School of Biosciences"
+ bio: "<p>Associate Professor Dr Adeline Chia obtained her PhD at Monash University. She is currently the Programme Director for the Biomedical Science programme and Associate Professor in the School of BIosciences at Taylor's University. She is a lifetime member of the Malaysian Society for Biochemistry & Molecular Biology (MSBMB), Young Scientist Network-Academy of Science Malaysia (YSN-ASM), Malaysian Diabetes Association, Malaysian Endocrine & Metabolic Society (MEM), For Women in Science and Organization for Women in Science for the Developing World. Dr Adeline is also the international ambassador of the Biochemical Society (UK) and a member of the Royal Society of Biology, whereby she is responsible for linking the national society with international affiliates.<br><br>Dr Adeline has publilshed over 25 full journal papers in ISI and Scopus indexed journals and was involved in several research projects securing more than RM 1,000,000.00 in grant funding as the team leader or a team member. She has won 9 national and international awards from both research and teaching, including the Vice Chancellor's Award for Taylor's Most Cited Academic, Taylor's President's Award for Teaching & Learning, Anugerah Fasilitator e-Pembelajaran Terbaik (NUCEL) as well as the International Union of Biochemistry and Molecular Biology Women in Science Travel Grant.<br><br>Her research interest is on characterization of the mechanisms of action of natural compounds in the regulation of lipid and carbohydrate metabolism as well as molecular modeling of the analogues to target Alzheimer's Disease and metabolic disorders, with specific interest in disorders of the reproductive system and aging. She has successfully supervised 4 PhD students and 5 Master's students at Taylor's and other universities.</p>"
+ thumbnailUrl: "AdelineChia.jpeg"
 -
+ id: 61
+ name: "Prof."
+ surname: "Lim Kuan Hon"
+ company: "University of Nottingham Malaysia"
+ title: "BSc Pharmaceutical and Health Sciences Programme Director"
+ bio: "Professor Dr Lim Kuan Hon graduated from the Department of Chemistry, University of Malaya with a BSc (Hons) in Chemistry in 2003 and subsequently a PhD (Organic Chemistry) in 2009. Dr Lim
+was appointed to a lectureship at the School of Pharmacy, University of Nottingham Malaysia (UNM) in 2009. He was promoted to Associate Professor in 2013 and Full Professor in 2020. Dr Lim is currently the Director of the BSc Pharmaceutical and Health Sciences (Hons) programme at UNM. His research is centred on identifying plant natural products with novel molecular structures and/or potential applications in the treatment of cancer and resistant hypertension. His research group also focuses on the synthesis/semisynthesis of biologically active natural products, as well as structural modification of natural products for structure-activity relationship investigations."
+ thumbnailUrl: "LimKuanHon.jpg"
+-
+ id: 62
+ name: "Dr."
+ surname: "Chong Chun Wie"
+ company: "Monash University Malaysia"
+ title: "Senior Lecturer and Deputy Head of School (Research) at the School of Pharmacy"
+ bio: "Dr Chong Chun Wie's current main research focus is on the microbial ecology of the human gut. Dr Chong has collaborated widely with both local and international researchers on topics such as the gut-brain axis (e.g. Parkinson’s disease and Alzheimer’s disease), gut microbiome and metabolic health (e.g. diabetes and obesity) and the influence of diets and functional foods to gut health. In addition, he is a strong advocate for microbiome research in Malaysia and had been actively involved in public talks, and bioinformatics workshops organisation. Dr Chong is also a consultant for a microbiome start-up in the region and serves as an academic editor for PLOS ONE and guest editor for Frontiers in Microbiology."
+ thumbnailUrl: "ChongChunWie.jpg"
+-
+ id: 63
+ name: "Dr."
+ surname: "Khayriyyah Mohd Hanafiah"
+ company: "Universiti Sains Malaysia"
+ title: "Senior Lecturer at the School of Biological Sciences"
+ bio: "Kye conducts research in infectious disease at the School of Biological Sciences, Universiti Sains Malaysia and adjunctly at Burnet Institute, Australia. She was awarded the prestigious Australian Endeavour Research Fellowship in 2017, became the first female Asian Champion of FameLab International in 2018, and received the Ministry of Youth and Sports Malaysia “Youth Award” in 2019. She conducts regular science communication training for students and researchers at various stages of their career, and adjudicated science communication competitions nationally and internationally. She has given numerous public talks and interviews and produced a documentary on sustainable palm oil and short videos to raise awareness on various SDG-related issues. She regularly writes for The Star in her column “Science, She Wrote”."
+ thumbnailUrl: "KhayriyyahMohdHanafiah.jpg"
+-
+ id: 64
+ name: "Dr."
+ surname: "Chen Jit Ern"
+ company: "Jeffrey Cheah Institute on Southeast Asia"
+ title: "Research Fellow at the Jeffrey Sachs Center on Sustainable Development"
+ bio: "Dr. Chen Jit Ern is a Research Fellow at the Jeffrey Sachs Center on Sustainable Development and a Senior Lecturer in the Department of Biological Sciences at Sunway University. His primary research interest is in the development and utilization of genetic engineering techniques and molecular tools on various microalgae, to study the underlying mechanisms for physiological traits such as lipid accumulation and heat tolerance. Dr Chen’s current project in Sunway University is focused on studying the potential for increased heat-tolerance in Zooxanthellae (Symbiodinium microadriaticum), the photosynthetic coral endosymbiont, with an emphasis on heat-activated Zooxanthellae retrotransposons retrotransposons and on experimental evolution of heat-tolerance in microalgae. Other areas of interests include genetic engineering of the model green algae Chlamydomonas reinhardtii for protein production, the effects of algae auxins on the growth profile of the model plant Arabidopsis thaliana, and monitoring the biodiversity of plants and algae in Bandar Sunway."
+ thumbnailUrl: "ChenJitErn.jpg"
+-
+ id: 65
+ name: "Prof. Ir. Ts."
+ surname: "Pau-Loke Show"
+ company: "University of Nottingham"
+ title: "Professor of Biochemical Engineering"
+ bio: "<p>Professor Ir. Ts. Dr. Pau-Loke Show is a Professor of Biochemical Engineering from University of Nottingham, Malaysia. His research interests cover from upstream to downstream bioprocessing, microalgae technology and circular economy. Professor Show published over 650 research papers and contributed more than 200 talks to international congresses as well as a few patents that currently applied in industry. All these papers have been cited 16000 times and current h-index is 62. Also, he published three books entitled \"Bioprocess Engineering: Downstream Processing\" (2019), \"Liquid Biphasic System: Fundamentals and Applications in Bioseparation Technology\" (2020), and \"The Prospect of Industry 5.0 in Biomanufacturing\" (2021). With his excellence contributions, his has received numerous prestigious academic awards from national and international organisations. He is now serving as an Editor-in-chief in Current Nutrition & Food Science, Editor in Scientific Report, Biocatalysis and Agricultural Biotechnology, Associate Editor at Bioengineered; Current Biochemical Engineering, and Editorial board member in Journal of Hazardous Materials, Bioresource Technology and, Biochemical Engineering Journal. He also managing guest editor for many well reputation journals, examples, Journal of Hazardous Materials; Bioresource Technology, Chemosphere, Clean Technologies and Environmental Policy, Bioengineered, and more. For more information about Prof Show, please view his website: <a href=\"https://showpauloke.com\">https://showpauloke.com</a></p>"
+ thumbnailUrl: "PauLokeShow.jpg"

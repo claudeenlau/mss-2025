@@ -3,7 +3,7 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1 appear-animation-trigger">
             {% for speaker in site.data.speakers %}
-            <div class="effect-wrapper people-profile-cols appear-animation">
+            <div class="effect-wrapper people-profile-cols col-md-4 col-sm-12 col-xs-12 appear-animation">
                 <div class="zoe-effect ribbon-activator" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})">
                         <div class="overlay solid-overlay"></div>
@@ -37,9 +37,6 @@
             </div>
             {% endfor %}
         </div>
-    </div>
-    <div class="col-lg-10 col-lg-offset-1">
-    <a href="{{ site.speakerButtonRegister }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Register here</a>
     </div>
 </section>
 <!-- End Speakers List 2 -->
