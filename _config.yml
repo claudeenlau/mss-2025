@@ -202,7 +202,8 @@ abstractSubmissionPoints:
  - {point: "File format: PDF"}
 guidelinesButton:
  - {link: "https://drive.google.com/file/d/1PNHtdyUTJc8vYyGB-rHQbbCoVVX63ozq/view?usp=sharing", text: "All guidelines and abstract template"}
- - {link: "https://docs.google.com/forms/d/1RGY7hAj0dqqInod1gwS8eHVzm6r32KVNumyQuWEY-0Y/viewform?edit_requested=true", text: "Online registration form"}
+ - {link: "https://docs.google.com/forms/d/1RGY7hAj0dqqInod1gwS8eHVzm6r32KVNumyQuWEY-0Y/viewform?edit_requested=true", text: "Online registration form (Presenter)"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSft4wuqm--ojabGXNILVyldJjfEs_Ro9l5cSV4VnuJKnpGrog/viewform", text: "Online registration form (Audience)"}
 
 # Payment Guidelines Block
 payGuidelinesTitle: "Payment guidelines"
@@ -365,7 +366,7 @@ ticketsOffers:
   validThrough: "2022-07-03T12:00 PM"
   additionalInfo: "Audience participation for local students, non-students, and delegates from the industry."
 -
-  name: "Audience - international students/non-students/delegates"
+  name: "Audience - International students/non-students/delegates"
   price: "30"
   priceCurrency: "USD"
   buyButtonLink: "https://monash-sciencesymposium.com/registration/"
