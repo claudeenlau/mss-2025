@@ -328,7 +328,6 @@ ticketsOffers:
   validFrom: "2022-06-03T12:00 PM"
   validThrough: "2022-06-15T12:00 PM"
   additionalInfo: "Only for Monash students"
-  disabled: true
 -
   name: "Local students"
   price: "150"
@@ -338,7 +337,6 @@ ticketsOffers:
   validFrom: "2022-06-03T12:00 PM"
   validThrough: "2022-06-15T12:00 PM"
   additionalInfo: "Only students from Malaysian universities/colleges."
-  disabled: true
 -
   name: "Local non-students/delegates"
   price: "175"
@@ -348,7 +346,6 @@ ticketsOffers:
   validFrom: "2022-06-03T12:00 PM"
   validThrough: "2022-06-15T12:00 PM"
   additionalInfo: "For Malaysian non-students, delegates and participants from the industry."
-  disabled: true
 -
   name: "International participants"
   price: "75"
@@ -358,7 +355,6 @@ ticketsOffers:
   validFrom: "2022-06-03T12:00 PM"
   validThrough: "2022-06-15T12:00 PM"
   additionalInfo: "For international students, delegates and participants from the industry."
-  disabled: true
 
 # Footer
 socialLinks:
