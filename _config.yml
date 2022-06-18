@@ -297,7 +297,7 @@ ticketsOffers:
   buyButtonText: "Register Now"
   validFrom: "2022-04-11T12:00 PM"
   validThrough: "2022-06-03T12:00 PM"
-  earlyBirdRate: true
+  earlyBirdRate: false
   additionalInfo: "Only for Monash students and students from Malaysian universities/colleges."
 -
   name: "Local participants"
