@@ -325,8 +325,8 @@ ticketsOffers:
   priceCurrency: "MYR"
   buyButtonLink: "https://monash-sciencesymposium.com/registration/"
   buyButtonText: "Register Now"
-#  validFrom: "2022-06-03T12:00 PM"
-#  validThrough: "2022-06-15T12:00 PM"
+  validFrom: "2022-06-03T12:00 PM"
+  validThrough: "2022-07-03T12:00 PM"
   additionalInfo: "Only for Monash students"
 -
   name: "Local students"
@@ -335,7 +335,7 @@ ticketsOffers:
   buyButtonLink: "https://monash-sciencesymposium.com/registration/"
   buyButtonText: "Register Now"
   validFrom: "2022-06-03T12:00 PM"
-  validThrough: "2022-06-15T12:00 PM"
+  validThrough: "2022-07-03T12:00 PM"
   additionalInfo: "Only students from Malaysian universities/colleges."
 -
   name: "Local non-students/delegates"
@@ -344,7 +344,7 @@ ticketsOffers:
   buyButtonLink: "https://monash-sciencesymposium.com/registration/"
   buyButtonText: "Register Now"
   validFrom: "2022-06-03T12:00 PM"
-  validThrough: "2022-06-15T12:00 PM"
+  validThrough: "2022-07-03T12:00 PM"
   additionalInfo: "For Malaysian non-students, delegates and participants from the industry."
 -
   name: "International participants"
@@ -353,8 +353,26 @@ ticketsOffers:
   buyButtonLink: "https://monash-sciencesymposium.com/registration/"
   buyButtonText: "Register Now"
   validFrom: "2022-06-03T12:00 PM"
-  validThrough: "2022-06-15T12:00 PM"
+  validThrough: "2022-07-03T12:00 PM"
   additionalInfo: "For international students, delegates and participants from the industry."
+-
+  name: "Audience - Local students/non-students/delegates"
+  price: "70"
+  priceCurrency: "MYR"
+  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
+  buyButtonText: "Register Now"
+  validFrom: "2022-06-03T12:00 PM"
+  validThrough: "2022-07-03T12:00 PM"
+  additionalInfo: "Audience participation for local students, non-students, and delegates from the industry."
+-
+  name: "Audience - international students/non-students/delegates"
+  price: "30"
+  priceCurrency: "USD"
+  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
+  buyButtonText: "Register Now"
+  validFrom: "2022-06-03T12:00 PM"
+  validThrough: "2022-07-03T12:00 PM"
+  additionalInfo: "Audience participation for international students, non-students, and delegates from the industry."
 
 # Footer
 socialLinks:
