@@ -202,7 +202,8 @@ abstractSubmissionPoints:
  - {point: "File format: PDF"}
 guidelinesButton:
  - {link: "https://drive.google.com/file/d/1PNHtdyUTJc8vYyGB-rHQbbCoVVX63ozq/view?usp=sharing", text: "All guidelines and abstract template"}
- - {link: "https://docs.google.com/forms/d/1RGY7hAj0dqqInod1gwS8eHVzm6r32KVNumyQuWEY-0Y/viewform?edit_requested=true", text: "Online registration form"}
+ - {link: "https://docs.google.com/forms/d/1RGY7hAj0dqqInod1gwS8eHVzm6r32KVNumyQuWEY-0Y/viewform?edit_requested=true", text: "Online registration form (Presenter)"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSft4wuqm--ojabGXNILVyldJjfEs_Ro9l5cSV4VnuJKnpGrog/viewform", text: "Online registration form (Audience)"}
 
 # Payment Guidelines Block
 payGuidelinesTitle: "Payment guidelines"
@@ -289,36 +290,36 @@ partnersDescription: "We would like to thank our sponsor for their generous supp
 ticketsTitle: "Ticket prices"
 #ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
--
-  name: "Monash/Local student"
-  price: "100"
-  priceCurrency: "MYR"
-  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
-  buyButtonText: "Register Now"
-  validFrom: "2022-04-11T12:00 PM"
-  validThrough: "2022-06-03T12:00 PM"
-  earlyBirdRate: true
-  additionalInfo: "Only for Monash students and students from Malaysian universities/colleges."
--
-  name: "Local participants"
-  price: "125"
-  priceCurrency: "MYR"
-  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
-  buyButtonText: "Register Now"
-  validFrom: "2022-04-11T12:00 PM"
-  validThrough: "2022-06-03T12:00 PM"
-  earlyBirdRate: true
-  additionalInfo: "For Malaysian non-students, delegates and participants from the industry."
--
-  name: "International participants"
-  price: "50"
-  priceCurrency: "USD"
-  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
-  buyButtonText: "Register Now"
-  validFrom: "2022-04-11T12:00 PM"
-  validThrough: "2022-06-03T12:00 PM"
-  earlyBirdRate: true
-  additionalInfo: "For international students, delegates and participants from the industry."
+#-
+#  name: "Monash/Local student"
+#  price: "100"
+#  priceCurrency: "MYR"
+#  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
+#  buyButtonText: "Register Now"
+#  validFrom: "2022-04-11T12:00 PM"
+#  validThrough: "2022-06-03T12:00 PM"
+#  earlyBirdRate: true
+#  additionalInfo: "Only for Monash students and students from Malaysian universities/colleges."
+#-
+#  name: "Local participants"
+#  price: "125"
+#  priceCurrency: "MYR"
+#  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
+#  buyButtonText: "Register Now"
+#  validFrom: "2022-04-11T12:00 PM"
+#  validThrough: "2022-06-03T12:00 PM"
+#  earlyBirdRate: true
+#  additionalInfo: "For Malaysian non-students, delegates and participants from the industry."
+#-
+#  name: "International participants"
+#  price: "50"
+#  priceCurrency: "USD"
+#  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
+#  buyButtonText: "Register Now"
+#  validFrom: "2022-04-11T12:00 PM"
+#  validThrough: "2022-06-03T12:00 PM"
+#  earlyBirdRate: true
+#  additionalInfo: "For international students, delegates and participants from the industry."
 -
   name: "Monash students"
   price: "100"
@@ -326,9 +327,8 @@ ticketsOffers:
   buyButtonLink: "https://monash-sciencesymposium.com/registration/"
   buyButtonText: "Register Now"
   validFrom: "2022-06-03T12:00 PM"
-  validThrough: "2022-06-15T12:00 PM"
+  validThrough: "2022-07-03T12:00 PM"
   additionalInfo: "Only for Monash students"
-  disabled: true
 -
   name: "Local students"
   price: "150"
@@ -336,9 +336,8 @@ ticketsOffers:
   buyButtonLink: "https://monash-sciencesymposium.com/registration/"
   buyButtonText: "Register Now"
   validFrom: "2022-06-03T12:00 PM"
-  validThrough: "2022-06-15T12:00 PM"
+  validThrough: "2022-07-03T12:00 PM"
   additionalInfo: "Only students from Malaysian universities/colleges."
-  disabled: true
 -
   name: "Local non-students/delegates"
   price: "175"
@@ -346,9 +345,8 @@ ticketsOffers:
   buyButtonLink: "https://monash-sciencesymposium.com/registration/"
   buyButtonText: "Register Now"
   validFrom: "2022-06-03T12:00 PM"
-  validThrough: "2022-06-15T12:00 PM"
+  validThrough: "2022-07-03T12:00 PM"
   additionalInfo: "For Malaysian non-students, delegates and participants from the industry."
-  disabled: true
 -
   name: "International participants"
   price: "75"
@@ -356,9 +354,26 @@ ticketsOffers:
   buyButtonLink: "https://monash-sciencesymposium.com/registration/"
   buyButtonText: "Register Now"
   validFrom: "2022-06-03T12:00 PM"
-  validThrough: "2022-06-15T12:00 PM"
+  validThrough: "2022-07-03T12:00 PM"
   additionalInfo: "For international students, delegates and participants from the industry."
-  disabled: true
+-
+  name: "Audience - Local students/non-students/delegates"
+  price: "70"
+  priceCurrency: "MYR"
+  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
+  buyButtonText: "Register Now"
+  validFrom: "2022-06-03T12:00 PM"
+  validThrough: "2022-07-03T12:00 PM"
+  additionalInfo: "Audience participation for local students, non-students, and delegates from the industry."
+-
+  name: "Audience - International students/non-students/delegates"
+  price: "30"
+  priceCurrency: "USD"
+  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
+  buyButtonText: "Register Now"
+  validFrom: "2022-06-03T12:00 PM"
+  validThrough: "2022-07-03T12:00 PM"
+  additionalInfo: "Audience participation for international students, non-students, and delegates from the industry."
 
 # Footer
 socialLinks:
