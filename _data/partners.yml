@@ -1,4 +1,5 @@
 -
   group: "Sponsors"
   elements:
+    - {name: "Monash University Malaysia", description: "Monash logo", link: "https://www.monash.edu.my/", imageUrl: "MUM-logo.png", width: "600px"}
     - {name: "Remo", description: "Remo logo", link: "https://remo.co/", imageUrl: "Remo-logo.png", width: "600px"}
