@@ -43,7 +43,7 @@ was appointed to a lectureship at the School of Pharmacy, University of Nottingh
  id: 65
  name: "Prof. Ir. Ts."
  surname: "Pau-Loke Show"
- company: "University of Nottingham"
+ company: "University of Nottingham Malaysia"
  title: "Professor of Biochemical Engineering"
  bio: "<p>Professor Ir. Ts. Dr. Pau-Loke Show is a Professor of Biochemical Engineering from University of Nottingham, Malaysia. His research interests cover from upstream to downstream bioprocessing, microalgae technology and circular economy. Professor Show published over 650 research papers and contributed more than 200 talks to international congresses as well as a few patents that currently applied in industry. All these papers have been cited 16000 times and current h-index is 62. Also, he published three books entitled \"Bioprocess Engineering: Downstream Processing\" (2019), \"Liquid Biphasic System: Fundamentals and Applications in Bioseparation Technology\" (2020), and \"The Prospect of Industry 5.0 in Biomanufacturing\" (2021). With his excellence contributions, his has received numerous prestigious academic awards from national and international organisations. He is now serving as an Editor-in-chief in Current Nutrition & Food Science, Editor in Scientific Report, Biocatalysis and Agricultural Biotechnology, Associate Editor at Bioengineered; Current Biochemical Engineering, and Editorial board member in Journal of Hazardous Materials, Bioresource Technology and, Biochemical Engineering Journal. He also managing guest editor for many well reputation journals, examples, Journal of Hazardous Materials; Bioresource Technology, Chemosphere, Clean Technologies and Environmental Policy, Bioengineered, and more. For more information about Prof Show, please view his website: <a href=\"https://showpauloke.com\">https://showpauloke.com</a></p>"
  thumbnailUrl: "PauLokeShow.jpg"
@@ -60,6 +60,22 @@ was appointed to a lectureship at the School of Pharmacy, University of Nottingh
  name: "Assoc. Prof. Dr."
  surname: "Jen Martin"
  company: "University of Melbourne"
- title: "Associate Professor at University of Melbourne"
+ title: "Associate Professor"
  bio: "Associate Professor Dr. Jen Martin spent many years working as a field ecologist until she decided the most useful thing she could do was teach other scientists how to be effective and engaging communicators. Jen founded and leads the University of Melbourne's acclaimed Science Communication Teaching Program and hosts the Let’s Talk SciComm podcast. She also practises what she preaches: for 16 years she’s been talking about science each week on 3RRR radio, writes for a variety of publications and MCs events. Jen was named the 2019 Unsung Hero of Australian Science Communication and is a member of the Homeward Bound Teaching Faculty. Jen’s first popular science book, ‘Why am I like this? The science behind your weirdest thoughts and habits’ will be published in 2022."
  thumbnailUrl: "JenMartin.jpg"
+-
+ id: 68
+ name: "Prof."
+ surname: "Chow Sek Chuen"
+ company: "Monash University Malaysia"
+ title: "Professor of Biomedical Sciences and Head of Discipline, Medical Bioscience"
+ bio: "He completed his Doctor of Medical Science degree in Immunology from the Karolinska Institute (Sweden) in 1990. After postdoctoral research at the Mayo Clinic (US) and the Karolinska Institute, he joined the Medical Research Council (MRC) Toxicology Unit at Leicester University (UK) as MRC fellow. Following that he joined Nottingham University (UK) as a lecturer and in 2002, he returned to the MRC Toxicology Unit as Senior Group Leader in Immunotoxicology. In 2007 he joined the School of Science at Monash University Malaysia as Associate Professor and served as Deputy Head of School for research in 2008. He was appointed Professor of Biomedical Sciences in 2011 and currently Head of Discipline of Medical Bioscience. As founding member of the Malaysia Society of Toxicology, he was appointed Vice President (2010) and President (2012-2014). From 2014-2018, he served on the Scientific Advisory Board of the Institute for Research, Development and Innovation at International Medical University, Malaysia. His research interest includes Immunotoxicology, T cell signalling and regulation of apoptosis/program cell death in mammalian cells and Toxoplasma gondii."
+ thumbnailUrl: "ChowSekChuen.jpg"
+-
+ id: 69
+ name: "Dr."
+ surname: "Holly Barclay"
+ company: "Monash University Malaysia"
+ title: "Lecturer"
+ bio: "Dr Holly Barclay was awarded a Bachelor of Arts (Hons) in Natural Sciences by the University of Cambridge, UK and then undertook her PhD in Zoology at the same university studying the ecology of freshwater mussels in China as part of a World Bank/GEF lake restoration project.  After a short postdoctoral period, she took up the position as a lecturer in the School of Science at Monash in 2014.  Dr Barclay's main research interest is the ecology and conservation of freshwater biodiversity in SE Asia, although she is increasingly also interested in studying the effectiveness of sustainability certification schemes on agricultural management practices. Her current research focuses on the effects of land use change on the ecology and biodiversity of aquatic invertebrate communities in Malaysian waterways and potential management strategies for mitigating these impacts."
+ thumbnailUrl: "HollyBarclay.jpg"
