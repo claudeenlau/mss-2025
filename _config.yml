@@ -220,6 +220,8 @@ payGuidelinesPoints:
  - {point: "Beneficiary Company Registration Number: 199801002475 (458601-U)"}
  - {point: "Beneficiary Company Tax Number: C185386104"}
 payGuidelines4: "Please quote <strong>\"MSS2022\"</strong> in the bank transfer. Once payment is completed, please attach it to the registration form."
+payGuidelines5: "You can also <strong>pay via credit card</strong> through the link here: <a href=\"https://fin-ebpg.monash.edu.my/online_payment.php\">https://fin-ebpg.monash.edu.my/online_payment.php</a>."
+payGuidelines6: "Once you are directed to the payment page, please choose <strong>\"Monash Science Symposium (MSS) 2022\"</strong> from the drop down menu. This payment option is only accepted in <strong>MYR</strong>. If you are paying in <strong>USD</strong>, please convert it to <strong>MYR</strong> according to your bank rates before proceeding with the payment."
 
 # Key Dates Block
 keyDatesBlockImage: "key-dates.jpg"
