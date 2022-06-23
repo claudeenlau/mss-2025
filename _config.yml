@@ -208,7 +208,7 @@ guidelinesButton:
 # Payment Guidelines Block
 payGuidelinesTitle: "Payment guidelines"
 payGuidelines1: "Upon online registration, participants are required to submit their abstracts via email latest by <strong>15th June 2022</strong>."
-payGuidelines2: "Payment in foreign currencies must be based on exchange rates at the time of payment. Upon payment, please email the banked-in receipt to us at <strong>mum-sciencesymposium@monash.edu</strong>"
+payGuidelines2: "Payment in foreign currencies must be based on exchange rates at the time of payment. Upon payment, please email the banked-in receipt to us at <strong><a href=\"mailto:mum-sciencesymposium@monash.edu\">mum-sciencesymposium@monash.edu</a></strong>"
 payGuidelines3: "Payment can be made via bank transfer using the details below:"
 payGuidelinesPoints:
  - {point: "Beneficiary Account Name: MONASH UNIVERSITY MALAYSIA SDN BHD"}
@@ -221,7 +221,7 @@ payGuidelinesPoints:
  - {point: "Beneficiary Company Tax Number: C185386104"}
 payGuidelines4: "Please quote <strong>\"MSS2022\"</strong> in the bank transfer. Once payment is completed, please attach it to the registration form."
 payGuidelines5: "You can also <strong>pay via credit card</strong> through the link here: <a href=\"https://fin-ebpg.monash.edu.my/online_payment.php\">https://fin-ebpg.monash.edu.my/online_payment.php</a>."
-payGuidelines6: "Once you are directed to the payment page, please choose <strong>\"Monash Science Symposium (MSS) 2022\"</strong> from the drop down menu. This payment option is only accepted in <strong>MYR</strong>. If you are paying in <strong>USD</strong>, please convert it to <strong>MYR</strong> according to your bank rates before proceeding with the payment."
+payGuidelines6: "Once you are directed to the payment page, please choose <strong>\"Monash Science Symposium (MSS) 2022\"</strong> from the drop down menu. This payment option is only accepted in <strong>MYR</strong>. If you are paying in <strong>USD</strong>, please convert it to <strong>MYR</strong> according to your bank rates before proceeding with the payment. Once payment is completed, please attach a picture showing proof of payment and send it to <strong><a href=\"mailto:mum-sciencesymposium@monash.edu\">mum-sciencesymposium@monash.edu</a></strong>"
 
 # Key Dates Block
 keyDatesBlockImage: "key-dates.jpg"
