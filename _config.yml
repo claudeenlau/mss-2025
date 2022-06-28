@@ -190,8 +190,8 @@ webinar4Video: "https://www.youtube.com/embed/HgdM7keFOoo"
 # Guidelines Block
 guidelinesTitle: "Submission Guidelines"
 guidelines1: "Welcome to Monash Science Symposium (MSS) 2022! Our theme this year is “Symbiosis: Exploring extraordinary possibilities”.
-We will be calling for abstract submission soon! MSS 2022 will feature the following categories:"
-guidelines2: "In the meantime, please check out the abstract submission guidelines and the presentation guidelines below."
+MSS 2022 will feature the following categories:"
+guidelines2: "Please check out the abstract submission guidelines and the presentation guidelines below."
 abstractSubmissionTitle: "Abstract Submission Guidelines"
 abstractSubmissionPoints:
  - {point: "Title of the abstract should be 15 words or less and should clearly identify the focus of the abstract."}
