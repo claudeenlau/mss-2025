@@ -391,7 +391,7 @@ footerBlocks:
  -
   title: "Past events"
   links:
-    - {link: "https://2021.monash-sciencesymposium.com", text: "MSS 2021"}
+    - {link: "https://monash-sciencesymposium.github.io/website-2021/", text: "MSS 2021"}
     - {link: "https://monashscience2018.jimdofree.com/", text: "MSS 2018"}
     - {link: "https://monashscience.jimdofree.com/", text: "MSS 2016"}
 
