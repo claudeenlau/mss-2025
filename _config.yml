@@ -9,11 +9,11 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "Monash Science Symposium 2022"
-email: "monash.sciencesymposium@gmail.com"
-description: "Monash Science Symposium (MSS) 2022. It is a student-led event by the School of Science postgraduate students of Monash University Malaysia (MUM)."
-baseurl: "/zeppelin"
-url: "https://monash-sciencesymposium.github.io"
+title: "Monash Science Symposium 2025"
+email: "mum-sciencesymposium@monash.edu"
+description: "Monash Science Symposium (MSS) 2025. It is a student-led event by the School of Science postgraduate students of Monash University Malaysia (MUM)."
+baseurl:
+url: "https://claudeenlau.github.io/mss-2025/"
 #googleAnalyticsTrackingId: "UA-181963946-1"
 #googleAnalyticsSiteUrl: "monash-sciencesymposium.com"
 #siteVerification: "htLClk4VKGu4DxmQigKnQQfLpjcDlpQ0whEJXEdchGE"
@@ -21,13 +21,13 @@ url: "https://monash-sciencesymposium.github.io"
 # Organizer Info
 organizerName: "MSS"
 organizerAlternateName: "Monash Science Symposium"
-organizerDescription: "<em>Symbiosis: Exploring Extraordinary Possibilities</em>"
-organizerEmail: "monash.sciencesymposium@gmail.com"
+organizerDescription: "<em>Innovating for Tomorrow: Scientific Solutions for a Sustainable Future</em>"
+organizerEmail: "mum-sciencesymposium@monash.edu"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "monash-sciencesymposium.com"
+organizerLink: "https://claudeenlau.github.io/mss-2025/"
 
 # Head
-metaKeywords: "mss, monash, science, symposium, malaysia, 2022"
+metaKeywords: "mss, monash, science, symposium, malaysia, 2025"
 twitterAccount: "@mss_mum"
 socialImageSrcGooglePlus: "/img/seo/organizer-logo.png"
 socialImageSrcTwitter: "/img/seo/organizer-logo.png"
@@ -39,7 +39,6 @@ navigationLinks:
  - {permalink: "/about-us/", text: "About Us"}
  - {permalink: "/speakers", text: "Speakers"}
  - {permalink: "/registration", text: "Registration"}
- - {permalink: "/miniscienceseries/", text: "Mini Science Series"}
 bottomNavigationLinks:
  - {permalink: "/registration", text: "Register now"}
 rightNavigationButtons:
@@ -51,9 +50,9 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Monash Science Symposium (MSS) <typeout>"
-eventDate: "13-15 July 2022"
-heroMotto: "<em>Symbiosis: Exploring extraordinary possibilities</em>"
-typeoutTextValues: '"", "2022" '
+eventDate: "15-17 July 2025"
+heroMotto: "<em>Innovating for Tomorrow: Scientific Solutions for a Sustainable Future</em>"
+typeoutTextValues: '"", "2025" '
 typeoutFallback: ""
 heroButtons:
 - {permalink: "/registration", text: "Register now"}
@@ -63,24 +62,21 @@ heroButtons:
 categoriesTitle: "Submit abstracts now"
 categoriesDescription: "We will be calling for abstract submission for the following categories:"
 categoriesBlock:
- - {text: "Cellular Biology & Biochemistry", image: "category_logo_cellular_biology.png"}
- - {text: "Chemistry & Drug Discovery", image: "category_logo_chemistry.png"}
- - {text: "Applied Microbiology", image: "category_logo_microbiology.png"}
- - {text: "Science Communication & Safety", image: "category_logo_combo.png"}
- - {text: "Genomics & Molecular Biology", image: "category_logo_genomics_and_bioinformatics.png"}
- - {text: "Food Science & Technology", image: "category_logo_foodscience.png"}
- - {text: "Environmental Science", image: "category_logo_environmental.png"}
+ - {text: "Drug Discovery & Development", image: "category_logo_chemistry.png"}
+ - {text: "Green & Sustainable Chemistry", image: "category_logo_chemistry.png"}
+ - {text: "Tropical Biodiversity & Conservation Biology", image: "category_logo_environmental.png"}
+ - {text: "Functional & Future Food", image: "category_logo_foodscience.png"}
+ - {text: "Big Data Analytics & Genomics for One Health", image: "category_logo_genomics_and_bioinformatics.png"}
 categoriesButton:
  - {permalink: "/registration", text: "Register now"}
 
 # About MSS Block
 aboutMSSBlockTitle: "About MSS"
-aboutMSS: "The Monash Science Symposium (MSS) is a student-led event by the School of Science postgraduate students of Monash University Malaysia (MUM). We hope to initiate the conference as an annual event that acts as a platform for students to gain experience and valuable insight towards their research. It also serves as a promotional event to highlight the capabilities of postgraduates in research outputs and the dissemination of their scientific findings to a broader, and ideally, international audience. It is also can be the future direction of this event will aim to showcase research here in Monash to engage with other universities and industries to increase the networking opportunities."
+aboutMSS: "The Monash Science Symposium (MSS) 2025 is an international academic event organized by postgraduate students at the School of Science of Monash University Malaysia (MUM). This symposium highlights a broad range of research topics and projects that reflect the university's strategic goal - Impact 2030."
 objectives:
-  - {objective: "Provide a platform for researchers from around the world to exchange ideas, establish collaborations and have meaningful discussions on current scientific issues​."}
-  - {objective: "Allow the establishment of professional relations with other sectors (industries, research institutes and non-academia)."}
-  - {objective: "Increase the number of local and international participants​."}
-  - {objective: "Establish a more significant relation with government institutes and industries."}
+  - {objective: "Allow young scientists and postgraduate students to showcase and discuss their research."}
+  - {objective: "Foster networking between local and international experts in their respective field of research."}
+  - {objective: "Highlight ongoing research in Monash University Malaysia aligning with Monash Impact 2030."}
 
 # Team Block
 teamBlockTitle: "Meet the Team"
@@ -101,92 +97,6 @@ scheduleIntroButtons:
   - {permalink: "/schedule/#day-1-afternoon", text: "Day 1 (Afternoon)"}
 scheduleIntro2: "Oral presentations are categorised into 7 categories:<br>1. Genomics & Bioinformatics<br>2. Cell & Molecular Biology<br>3. Chemistry & Drug Discovery"
 
-# Mini Science Series Block
-miniSeriesTitle: "Mini Science Series"
-miniSeries1: "We held online webinars about several medical science-related topics such as digital health, mental health and vaccines. Click on the buttons below to check out the video recordings."
-miniSeriesButtons:
- - {permalink: "/miniscienceseries/#webinar1", text: "#1"}
- - {permalink: "/miniscienceseries/#webinar2", text: "#2"}
- - {permalink: "/miniscienceseries/#webinar3", text: "#3"}
- - {permalink: "/miniscienceseries/#webinar4", text: "#4"}
-
-webinar1Title: "#1 Pandemic Preparedness: Challenges Faced and Lessons Learnt"
-webinar1Description: "The first webinar from the Mini Science Series was about how we can better prepare for the pandemic and the lessons we have learnt from it thus far."
-webinar1Video: "https://www.youtube.com/embed/oiZH1XhyYuY"
-webinar1Points:
- - {point: "Many methodologies and technology that were developed for cancer research can actually be applied for control of the Covid-19 pandemic. For example, the novel method to discover cancer-inducing DNA can be used for rapid and convenient screening of the Covid-19 virus."}
- - {point: "Although right now the research of Covid-19 required a lot of attention, research focus should not be taken away from other fields that still need problem-solving, for example in the environmental and cancer field."}
- - {point: "There is generally a lack of accurate interface between scientists and the public. So when the public receives misinformation, this is a challenge for the medical field when the public over-purchases medical supplies unnecessarily."}
- - {point: "Mobile devices and technologies have become important now to replace face-to-face learning and become accessible to many people at one time. Collaborate technologies have recently been embraced for work connections across the globe."}
- - {point: "Cyber security would be a rising issue for e-learning in the future. Academic integrity and assessments are coming up to be areas of concern when it comes to online learning."}
-webinar1Questions:
- - {point: "How will e-learning cater to the underprivileged?"}
- - {point: "What do you think Monash can do to bridge the gap between researchers and the public?"}
- - {point: "What are the panellists' opinions on COVID-19 towards postgraduate research progress?"}
- - {point: "At present, which country's healthcare system is a great example of a robust healthcare system?"}
-
-webinar2Title: "#2 Am I OK? Adapting to the New Norm During a Pandemic"
-webinar2Description: "In these tough times, while everyone is adapting to a new norm, we sometimes forget to stop for a minute, breathe and ask ourselves 'Am I OK?'. In the second webinar, we were joined by a panel of experts specializing in Nutrition, Psychiatry & Psychology."
-webinar2Video: "https://www.youtube.com/embed/hgfhAucc1JM"
-webinar2Points:
- - {point: "Covid-19 has increased depression, anxiety, stress, trauma, eating disorders and self-harm among people globally. These effects are seen more in younger people, women, those with lower formal education, those single, those living with children, and those living in affected countries."}
- - {point: "These effects are normal responses to a prolonged traumatic event such as the Covid-19 pandemic. However, there are ways to cope while going through this pandemic. These include taking back control in your daily activities despite being stuck at home, practicing healthy eating and a healthy lifestyle, and using social media positively."}
- - {point: "Stigma around Covid-19 also affects our physical and psychological well-being. It also stops people from getting tested and treated and prevents contact tracing of Covid-19."}
- - {point: "Traumatic events can trigger the onset of mental illness like anxiety and depression, especially for people who have an anxious personality."}
- - {point: "Food and diet affect our brain by the production of certain neurotransmitters. So when we are stressed, we turn to food to try and make us feel better. But poor diet choices can actually make us feel worse."}
- - {point: "Incorporating the Mediterranean diet can help improve mental and physical well-being. Taking in moderate amounts of every food group, and not eliminating any groups because each group plays an important role in our body."}
- - {point: "Some good eating habits to remember during the pandemic is to track your eating habits, snack on healthy foods, practice mindful eating, keep your mind engaged, drink a lot of water, and cook at home more often."}
-webinar2Questions:
- - {point: "How do I help friends who have been affected mentally by quarantine?"}
- - {point: "How do we get out of a period of burnout while adjusting to the new normal?"}
- - {point: "What if, when you are stressed, you don't feel like eating at all? Is this normal? How do you handle this?"}
- - {point: "What are the steps we can take to push for a better food environment so that we can all sustain a healthy dietary regime?"}
- - {point: "When do we know when to seek help? What are the clinical signs and symptoms we should look out for to tell us that we need to see a psychologist or psychiatrist?"}
- - {point: "Is there any evidence for the cultivation of certain habits that can help create a positive mental state or environment?"}
- - {point: "What if this MCO (Malaysia's Movement Control Order) had made me feel like not doing anything, I am losing my passion and I am becoming unproductive. Do I have anxiety issues?"}
- - {point: "How do we curb the negative stigma on mental health?"}
-
-webinar3Title: "#3 Digital Health: A Step Towards Modernized Healthcare"
-webinar3Description: "This was the third webinar in the Mini Science Series! In this webinar, we discussed digital health. The main goal of this webinar was to create awareness and educate the public on digital health and innovative healthcare technologies in Malaysia."
-webinar3Video: "https://www.youtube.com/embed/I1G5Ifb7fj0"
-webinar3Points:
- - {point: "Digital health combines digital technologies and artificial intelligence to enhance the efficiency of healthcare delivery and improve general wellbeing. Digital health is useful for monitoring health, reducing costs on healthcare, providing easy access to healthcare, and reducing inefficiencies and wastage in healthcare."}
- - {point: "Mental health in Malaysia still face many challenges including the stigma about getting mental health support or even talking about it. There is also a lack of accessible and affordable mental health support."}
- - {point: "Digital platforms and programs can provide accessible support by having health care experts available to many clients at a time. This reduces the cost and improves the time efficiency of these experts."}
- - {point: "Investment and research in using artificial intelligence in healthcare are currently growing fast. Using AI to collect biodata in health care is helpful to predict underlying diseases and conditions. AI can also predict mental health traits and conditions."}
- - {point: "Recently during the Covid-19 pandemic, AI has been used for the forecast of outbreaks, contact tracing, patient monitoring, and early Covid diagnosis."}
- - {point: " New regulations and policies are needed to integrate digital platforms and services in healthcare, to cater to new generations of demand."}
-webinar3Questions:
- - {point: "How can we integrate AI and machine learning algorithms for digital healthcare systems using blockchain?"}
- - {point: "How do you quantify accuracy when using AI?"}
- - {point: "How can AI be effective in treating and diagnosing diseases, especially diseases with many factors contributing to it?"}
- - {point: "How different are the approaches used in digitally managing communicable/contagious diseases and non-communicable diseases?"}
- - {point: "How will the government cover the gaps of the three As of healthcare (availability, accessibility, affordability)?"}
- - {point: "What can be done to mitigate cyber threats in the healthcare industry?"}
- - {point: "To what extent can we expect accurate AI involvement in prescribing treatments?"}
-
-webinar4Title: "#4 COVID-19 Vaccines: Which is better? Does it really matter?"
-webinar4Description: "We had our latest webinar on the 17th November 2021 which was titled <em>COVID-19 vaccines: Which is better? Does it really matter?</em> Hear what our experts have to say on vaccines."
-webinar4Points:
- - {point: "Vaccines stimulate antibodies to fight against bacteria or viruses so that when there is an actual infection, the person will be immune to it. The types of vaccines available against SARs-CoV-2 include attenuated virus vaccines, inactivated virus vaccines, adenovirus vector vaccines, and mRNA vaccines."}
- - {point: "Common side effects of the COVID-19 vaccines include pain at the injection site, fever, fatigue, headache and muscle aches."}
- - {point: "Studies confirm booster shots reduce the rate of severe diseases for those above the 40-year-old age group. Studies also show the decline in COVID-19 cases after booster shots in other countries."}
- - {point: "The number of COVID-19 cases in children below 18 have increased from 2020 to 2021."}
- - {point: "The data shows that vaccines are effective for adolescents. There were no significant signs of severe side effects in vaccinated adolescents."}
- - {point: "In terms of the acceptance rate of COVID-19 vaccines in Malaysia, up to 17% are unsure and 16% will not take it. Hesitancy is higher in certain areas of Malaysia. Hesitancy is mainly due to being unsure or suspicious of the contents of the vaccines."}
-webinar4Questions:
- - {point: "Can excessive use of vaccines lead to the emergence of variants as the virus tries to overcome the vaccine?"}
- - {point: "Which vaccines (e.g. Pfizer, Moderna) going to be included in the booster shots?"}
- - {point: "How do you think the government should go about educating the people?"}
- - {point: "How long will the booster shots last?"}
- - {point: "If the majority are vaccinated or if herd immunity is achieved, will there still be any public health intervention?"}
- - {point: "Will vaccine passports be used to filter people who received two or three shots when they enter or exit another country?"}
- - {point: "Could parents get infected from kids who have been exposed to COVID-19 in their schools?"}
- - {point: "How do you deal with someone that you know that does not want to be vaccinated?"}
- - {point: "What are heterologous vaccines?"}
- - {point: "Is a fourth booster shot advisable in Malaysia?"}
-webinar4Video: "https://www.youtube.com/embed/HgdM7keFOoo"
-
 # Guidelines Block
 guidelinesTitle: "Submission Guidelines"
 guidelines1: "Welcome to Monash Science Symposium (MSS) 2022! Our theme this year is “Symbiosis: Exploring extraordinary possibilities”.
@@ -195,7 +105,7 @@ guidelines2: "Please check out the abstract submission guidelines and the presen
 abstractSubmissionTitle: "Abstract Submission Guidelines"
 abstractSubmissionPoints:
  - {point: "Title of the abstract should be 15 words or less and should clearly identify the focus of the abstract."}
- - {point: "Authors’ names should be arranged as last name first, followed by given names."}
+ - {point: "Authors' names should be arranged as last name first, followed by given names."}
  - {point: "Word count: 200 words or less"}
  - {point: "All submissions must be made through the online form."}
  - {point: "The online submission process will provide further instructions regarding contact information, how to submit, etc."}
@@ -228,7 +138,7 @@ keyDatesBlockImage: "key-dates.jpg"
 keyDates:
  - {date: "3 June 2022", text: "Early bird deadline"}
  - {date: "15 June 2022", text: "Standard deadline"}
- - {date: "13-15 July 2022", text: "Symposium"}
+ - {date: "15-17 July 2025", text: "Symposium"}
 
 # Statistic Block
 #statisticBlockImage: "statistic.jpg"
@@ -391,6 +301,7 @@ footerBlocks:
  -
   title: "Past events"
   links:
+    - {link: "https://monash-sciencesymposium.github.io/zeppelin/", text: "MSS 2022"}
     - {link: "https://monash-sciencesymposium.github.io/website-2021/", text: "MSS 2021"}
     - {link: "https://monashscience2018.jimdofree.com/", text: "MSS 2018"}
     - {link: "https://monashscience.jimdofree.com/", text: "MSS 2016"}
