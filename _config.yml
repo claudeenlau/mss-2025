@@ -209,8 +209,8 @@ ticketsOffers:
   priceCurrency: "MYR"
   buyButtonLink: "https://claudeenlau.github.io/mss-2025/registration/"
   buyButtonText: "Register Now"
-  validFrom: "2022-06-03T12:00 PM"
-  validThrough: "2022-07-03T12:00 PM"
+  validFrom: "2025-XX-XXT12:00 PM"
+  validThrough: "2025-XX-XXT12:00 PM"
   additionalInfo: "Only for Monash students"
 -
   name: "Local students"
