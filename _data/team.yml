@@ -136,33 +136,33 @@
   name: "Carisa Su-Ann"
   surname: "Wong"
   title: "Publicity & Creative Design Team"
-  thumbnailURL: placeholder.png
+  thumbnailUrl: placeholder.png
   subTeam: true
 -
   id: 20
   name: "Akshaya"
   surname: "Parasuraman"
   title: "Publicity & Creative Design Team"
-  thumbnailURL: placeholder.png
+  thumbnailUrl: placeholder.png
   subTeam: true
 -
   id: 21
   name: "Le Wei"
   surname: "Wong"
   title: "Logistics Team"
-  thumbnailURL: placeholder.png
+  thumbnailUrl: placeholder.png
   subTeam: true
 -
   id: 22
   name: "Sher Min"
   surname: "Ding"
   title: "Logistics Team"
-  thumbnailURL: placeholder.png
+  thumbnailUrl: placeholder.png
   subTeam: true
 -
   id: 23
   name: "Chi Yie"
   surname: "Choong"
   title: "Logistics Team"
-  thumbnailURL: placeholder.png
+  thumbnailUrl: placeholder.png
   subTeam: true
