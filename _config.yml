@@ -86,12 +86,12 @@ scientificCommitteeBlockTitle: "Meet the Scientific Committee"
 
 # History Block
 history1: "MSS was first held in 2013 as a gathering of local science graduate research students to share and discuss their research findings. Since then, it has grown in size and scope to include the student community of other local and international universities and research institutes. True to the Monash motto “<em>Ancora Imparo</em>”, the Symposium aims to enhance the science learning experience by encouraging knowledge exchange between researchers, promoting local research work, exploring potential collaborations, and fostering closer ties with other research universities."
-history2: "In 2014, the Symposium has registered more than 150 student participants, half of which represent participants from 9 other different local universities/research institutes. In 2016, the symposium was held with more registered participants, including external participants who were from 13 universities and a government agency. A new scope was introduced in MSS 2016, covering a total of 6 major life sciences branches and were presented over 3-day periods. The Symposium had received overwhelming positive feedback from the participants. In 2018, an intervarsity symposium which served as a promotional event to highlight the capabilities of HDR students of Monash University Malaysia in producing quality research outputs and the dissemination of their scientific findings to a broader audience."
-history3: "For MSS 2022, we intend to continue the legacy by making the event bigger as well as introduce a new science category, “Science Communication and Safety”. We also intend to encourage supervisors/lecturers to partake in MSS 2022 as the scientific committee which would assist in the abstract screening process.  We therefore propose for an intervarsity symposium to be held for the graduate research students, staff and company agencies."
+history2: "In 2014, the Symposium has registered more than 150 student participants, half of which represent participants from 9 other different local universities/research institutes. In 2016, the symposium was held with more registered participants, including external participants who were from 13 universities and a government agency. A new scope was introduced in MSS 2016, covering a total of 6 major life sciences branches and were presented over 3-day periods. The Symposium had received overwhelming positive feedback from the participants. In 2018, an intervarsity symposium which served as a promotional event to highlight the capabilities of HDR students of Monash University Malaysia in producing quality research outputs and the dissemination of their scientific findings to a broader audience. In 2021, the Symposium continued its legacy by expanding the event and introducing a new science category, “Science Communication and Safety.” This addition aimed to broaden the scope of the symposium and address emerging trends in the scientific community. This approach was also carried forward in 2022, with the same focus on expanding the event and strengthening this category to further engage participants and enhance the overall impact of the symposium."
+history3: "For MSS 2025, we aim to host the Symposium as an international platform that brings together postgraduate students, researchers, and experts from around the world. The event will feature a diverse array of research topics, showcasing the innovative work being carried out at Monash University Malaysia. Aligned with the university's Impact 2030 initiative, the Symposium will provide an opportunity for young scientists and postgraduate students to present their findings, engage in meaningful discussions, and connect with leading professionals in their respective fields. Through this event, we will highlight Monash University's ongoing contributions to global scientific advancement and foster collaboration between local and international research communities."
 
 # Schedule Introduction Block
 scheduleIntroTitle: "Schedule TEST"
-scheduleIntro1: "MSS 2022 will be held over two virtual platforms, Zoom and Remo. The symposium will last for three days and be split into the morning and afternoon sessions."
+scheduleIntro1: "MSS 2025 will be held for three days and be split into the morning and afternoon sessions."
 scheduleIntroButtons:
   - {permalink: "/schedule/#day-1-morning", text: "Day 1 (Morning)"}
   - {permalink: "/schedule/#day-1-afternoon", text: "Day 1 (Afternoon)"}
@@ -99,7 +99,7 @@ scheduleIntro2: "Oral presentations are categorised into 7 categories:<br>1. Gen
 
 # Guidelines Block
 guidelinesTitle: "Submission Guidelines"
-guidelines1: "Welcome to Monash Science Symposium (MSS) 2022! Our theme this year is “Symbiosis: Exploring extraordinary possibilities”.
+guidelines1: "Welcome to Monash Science Symposium (MSS) 2025! Our theme this year is “Innovating for Tomorrow: Scientific Solutions for a Sustainable Future”.
 MSS 2022 will feature the following categories:"
 guidelines2: "Please check out the abstract submission guidelines and the presentation guidelines below."
 abstractSubmissionTitle: "Abstract Submission Guidelines"
@@ -136,8 +136,8 @@ payGuidelines6: "Once you are directed to the payment page, please choose <stron
 # Key Dates Block
 keyDatesBlockImage: "key-dates.jpg"
 keyDates:
- - {date: "3 June 2022", text: "Early bird deadline"}
- - {date: "15 June 2022", text: "Standard deadline"}
+ - {date: "XX Month 2025", text: "Early bird deadline"}
+ - {date: "XX Month 2025", text: "Standard deadline"}
  - {date: "15-17 July 2025", text: "Symposium"}
 
 # Statistic Block
