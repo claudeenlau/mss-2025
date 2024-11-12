@@ -200,38 +200,8 @@ partnersDescription: "We would like to thank our sponsor for their generous supp
 
 # Tickets Block
 ticketsTitle: "Ticket prices"
-#ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+#ticketsInfo: "Tickets grant access to all conference sections and food. Accommodation is NOT included in the ticket price."
 ticketsOffers:
-#-
-#  name: "Monash/Local student"
-#  price: "100"
-#  priceCurrency: "MYR"
-#  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
-#  buyButtonText: "Register Now"
-#  validFrom: "2022-04-11T12:00 PM"
-#  validThrough: "2022-06-03T12:00 PM"
-#  earlyBirdRate: true
-#  additionalInfo: "Only for Monash students and students from Malaysian universities/colleges."
-#-
-#  name: "Local participants"
-#  price: "125"
-#  priceCurrency: "MYR"
-#  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
-#  buyButtonText: "Register Now"
-#  validFrom: "2022-04-11T12:00 PM"
-#  validThrough: "2022-06-03T12:00 PM"
-#  earlyBirdRate: true
-#  additionalInfo: "For Malaysian non-students, delegates and participants from the industry."
-#-
-#  name: "International participants"
-#  price: "50"
-#  priceCurrency: "USD"
-#  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
-#  buyButtonText: "Register Now"
-#  validFrom: "2022-04-11T12:00 PM"
-#  validThrough: "2022-06-03T12:00 PM"
-#  earlyBirdRate: true
-#  additionalInfo: "For international students, delegates and participants from the industry."
 -
   name: "Monash students"
   price: "100"
@@ -332,11 +302,6 @@ sponsorshipTiers:
   benefitList: ["Full-page advertisement in program booklet", "Advertisement on TV screens throughout the Monash campus (every 20 minutes)", "Logos on photo booths and banners", "Shoutouts on social media platforms twice a week (Facebook, Instagram, Twitter)", "Acknowledgement of company on website", "Largest exhibition booth for 3 days", "Logo printed on pendrives which will be given to all participants", "Industrial speaker of company’s choice"]
   headerBackgroundColor: "rgb(211,21,91,1.0)"
   headerTextColor: "#ffffff"
-
-# Blog
-#blogTitle: "Latest news"
-#blogCommentsEnabled: true
-#discusShortName: "devfestua"
 
 # Speakers List Block
 showSessions: false
