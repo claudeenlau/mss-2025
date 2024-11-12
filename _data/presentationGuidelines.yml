@@ -20,13 +20,3 @@
     - {point: "The online submission process will provide further instructions regarding contact information, how to submit, etc."}
   #button:
   #  - {link: "https://docs.google.com/document/d/1nBFUifnDQ3BI9FcjKId-2ad0PrsTbBr4/edit?usp=sharing&ouid=103663031335875406255&rtpof=true&sd=true", text: "Full guidelines"}
--
-  name: "Pecha Kucha Guidelines"
-  points:
-    - {point: "Presentations must be in Microsoft PowerPoint (ppt. or pptx.)"}
-    - {point: "As each slide is shown for 20 seconds, the presentation must strictly be 6 minutes and 40 seconds in total"}
-    - {point: "The 20 slide limit excludes the title slide"}
-    - {point: "All submissions must be made through the online form."}
-    - {point: "The online submission process will provide further instructions regarding contact information, how to submit, etc."}
-  #button:
-  #  - {link: "https://docs.google.com/document/d/1BfO_27Z_LFxKiLupbi0vFmvYtrCcrEE0/edit?usp=sharing&ouid=103663031335875406255&rtpof=true&sd=true", text: "Full guidelines and suggestions"}
