@@ -7,7 +7,7 @@
             <div class="row categories-details">
                 {% assign animationDelay = 0 %}
                 {% for category in site.categoriesBlock %}
-                    <!-- Apply col-lg-4 for large screens (3 per row), col-md-6 for medium screens (2 per row), and col-sm-6 for small screens (2 per row) -->
+                    <!-- For the first 3 items (on large screens), use col-lg-4 (3 per row) -->
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                             <img class="img-circle" src="{{ site.baseurl }}/img/categories/{{ category.image }}" height="128" width="128" alt="{{ category.title }}">
@@ -17,6 +17,16 @@
 
                     {% if forloop.index == 3 %}
                         </div><div class="row categories-details"> <!-- Start a new row for the second set of categories -->
+                    {% endif %}
+
+                    {% if forloop.index == 4 %}
+                        <!-- Offset the second item in the second row to move it towards the center -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 col-lg-offset-2">
+                            <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                                <img class="img-circle" src="{{ site.baseurl }}/img/categories/{{ category.image }}" height="128" width="128" alt="{{ category.title }}">
+                                <p>{{ category.text }}</p>
+                            </div>
+                        </div>
                     {% endif %}
 
                 {% endfor %}
