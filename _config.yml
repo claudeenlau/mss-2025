@@ -62,11 +62,11 @@ heroButtons:
 categoriesTitle: "Submit abstracts now"
 categoriesDescription: "We will be calling for abstract submission for the following categories:"
 categoriesBlock:
- - {text: "Drug Discovery & Development", image: "category_logo_chemistry.png"}
- - {text: "Green & Sustainable Chemistry", image: "category_logo_chemistry.png"}
- - {text: "Tropical Biodiversity & Conservation Biology", image: "category_logo_environmental.png"}
- - {text: "Functional & Future Food", image: "category_logo_foodscience.png"}
- - {text: "Big Data Analytics & Genomics for One Health", image: "category_logo_genomics_and_bioinformatics.png"}
+ - {text: "Drug Discovery & Development", image: "category_logo_drugdiscovery.png"}
+ - {text: "Green & Sustainable Chemistry", image: "category_logo_greenchem.png"}
+ - {text: "Tropical Biodiversity & Conservation Biology", image: "category_logo_env.png"}
+ - {text: "Functional & Future Food", image: "category_logo_fst.png"}
+ - {text: "Big Data Analytics & Genomics for One Health", image: "category_logo_gen.png"}
 categoriesButton:
  - {permalink: "/registration", text: "Register now"}
 
