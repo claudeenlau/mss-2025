@@ -66,7 +66,7 @@
   name: "Claudeen Sze Siang"
   surname: "Lau"
   title: "Head of Publicity & Creative Design 2"
-  thumbnailUrl: placeholder.png
+  thumbnailUrl: Claudeen.jpg
   head: true
 -
   id: 10
@@ -80,7 +80,7 @@
   name: "Jessie Ying Hui"
   surname: "Choi"
   title: "Assistant Secretary"
-  thumbnailUrl: Jessie.jpg
+  thumbnailUrl: Jessie.heic
   subTeam: true
 -
   id: 12
