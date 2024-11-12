@@ -79,7 +79,7 @@ objectives:
   - {objective: "Highlight ongoing research in Monash University Malaysia aligning with Monash Impact 2030."}
 
 # Team Block
-teamBlockTitle: "Meet the Team"
+teamBlockTitle: "<strong>Meet the Team</strong>"
 
 # Scientific Committee Block
 scientificCommitteeBlockTitle: "Meet the Scientific Committee"
