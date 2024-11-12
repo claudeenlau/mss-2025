@@ -2,39 +2,19 @@
 <section id="categories" class="categories">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <h3>{{ site.categoriesTitle }}</h3>
-            <p>{{ site.categoriesDescription }}</p>
-            
-            <!-- First row with 3 items (each col-lg-4) -->
+          <h3>{{ site.categoriesTitle }}</h3>
+          <p>{{ site.categoriesDescription }}</p>
             <div class="row categories-details">
                 {% assign animationDelay = 0 %}
                 {% for category in site.categoriesBlock %}
-                    {% if forloop.index <= 3 %}
-                    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                        <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-                            <img class="img-circle" src="{{ site.baseurl }}/img/categories/{{ category.image }}" height="128" width="128" alt="{{ category.title }}">
-                            <p>{{ category.text }}</p>
-                        </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                        <img class="img-circle" src="{{ site.baseurl }}/img/categories/{{ category.image }}" height="128" width="128" alt="{{ category.title }}">
+                        <p>{{ category.text }}</p>
                     </div>
-                    {% endif %}
+                </div>
                 {% endfor %}
-            </div>
-            
-            <!-- Second row with 2 items centered -->
-            <div class="row categories-details justify-content-center">
-                {% assign animationDelay = 0 %}
-                {% for category in site.categoriesBlock %}
-                    {% if forloop.index > 3 %}
-                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                            <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-                                <img class="img-circle" src="{{ site.baseurl }}/img/categories/{{ category.image }}" height="128" width="128" alt="{{ category.title }}">
-                                <p>{{ category.text }}</p>
-                            </div>
-                        </div>
-                    {% endif %}
-                {% endfor %}
-            </div>
-
+          </div>
         </div>
     </div>
 </section>
