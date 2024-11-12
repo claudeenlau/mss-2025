@@ -26,7 +26,7 @@
           <div class="row categories-details">
             {% assign animationDelay = 0 %}
             {% for guideline in site.data.presentationGuidelines %}
-            <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
               <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                 <h5> {{ guideline.name }} </h5>
                 <ul class="text-left animated hiding" data-animation="fadeInUp" data-delay="0"> {% for points in guideline.points %}
