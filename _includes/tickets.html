@@ -10,7 +10,7 @@ cd <!-- Begin Tickets Section -->
 	            	{% if ticketsOffer.ribbon != null %}<div class="pricing-ribbon">{{ ticketsOffer.ribbon }}</div>{% endif %}
 					<div class="pricing-header">
 						<p class="title">{{ ticketsOffer.name }}</p>
-						<p class="price">{{ ticketsOffer.price }} <span class="currency">{{ ticketsOffer.priceCurrency }}</span></p>
+						<p class="price"><strong>{{ ticketsOffer.price }}/strong> <span class="currency">{{ ticketsOffer.priceCurrency }}</span></p>
 					</div>
 					<div class="pricing-content">
 						<ul>
@@ -21,7 +21,7 @@ cd <!-- Begin Tickets Section -->
 						{% if ticketsOffer.soldOut == true %}
 						<span class="button disabled">{{ ticketsOffer.soldOutText }}</span>
 						{% elsif ticketsOffer.disabled != true %}
-						<a class="button" href="{{ ticketsOffer.buyButtonLink }}" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
+						<a class="button" href="{{ ticketsOffer.buyButtonLink }}" target="_blank"><strong>{{ ticketsOffer.buyButtonText }}/strong></a>
 						{% else %}
 		           		{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
 						<span class="button disabled fallback">Ticket sales will begin on {{ ticketValidFrom[0] | date: "%-d %B %Y"}} {{ ticketValidFrom[1] }}</span>
