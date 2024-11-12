@@ -129,8 +129,9 @@ payGuidelinesPoints:
  - {point: "Beneficiary Bank Swift Code: HBMBMYKL"}
  - {point: "Beneficiary Company Registration Number: 199801002475 (458601-U)"}
  - {point: "Beneficiary Company Tax Number: C185386104"}
-payGuidelines4: "Please quote <strong>\"MSS2022\"</strong> in the bank transfer. Once payment is completed, please attach it to the registration form."
-payGuidelines5: "You can also <strong>pay via credit card</strong> through the link here: <a href=\"https://fin-ebpg.monash.edu.my/online_payment.php\">https://fin-ebpg.monash.edu.my/online_payment.php</a>."
+payGuidelines4: "Please quote <strong>\"MSS 2025\"</strong> in the bank transfer. Once payment is completed, please attach it to the registration form."
+payGuidelines5: "You can also <strong>pay via credit card</strong> through the link here: <a href=\"https://fin-ebpg.monash.edu.my/online_payment.php</a>."
+#need to change the link for payment
 payGuidelines6: "Once you are directed to the payment page, please choose <strong>\"Monash Science Symposium (MSS) 2022\"</strong> from the drop down menu. This payment option is only accepted in <strong>MYR</strong>. If you are paying in <strong>USD</strong>, please convert it to <strong>MYR</strong> according to your bank rates before proceeding with the payment. Once payment is completed, please attach a picture showing proof of payment and send it to <strong><a href=\"mailto:mum-sciencesymposium@monash.edu\">mum-sciencesymposium@monash.edu</a></strong>"
 
 # Key Dates Block
@@ -206,7 +207,7 @@ ticketsOffers:
   name: "Monash students"
   price: "100"
   priceCurrency: "MYR"
-  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
+  buyButtonLink: "https://claudeenlau.github.io/mss-2025/registration/"
   buyButtonText: "Register Now"
   validFrom: "2022-06-03T12:00 PM"
   validThrough: "2022-07-03T12:00 PM"
@@ -215,47 +216,29 @@ ticketsOffers:
   name: "Local students"
   price: "150"
   priceCurrency: "MYR"
-  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
+  buyButtonLink: "https://claudeenlau.github.io/mss-2025/registration/"
   buyButtonText: "Register Now"
-  validFrom: "2022-06-03T12:00 PM"
-  validThrough: "2022-07-03T12:00 PM"
+  validFrom: "2025-XX-XXT12:00 PM"
+  validThrough: "2025-XX-XXT12:00 PM"
   additionalInfo: "Only students from Malaysian universities/colleges."
 -
   name: "Local non-students/delegates"
   price: "175"
   priceCurrency: "MYR"
-  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
+  buyButtonLink: "https://claudeenlau.github.io/mss-2025/registration/"
   buyButtonText: "Register Now"
-  validFrom: "2022-06-03T12:00 PM"
-  validThrough: "2022-07-03T12:00 PM"
+  validFrom: "2025-XX-XXT12:00 PM"
+  validThrough: "2025-XX-XXT12:00 PM"
   additionalInfo: "For Malaysian non-students, delegates and participants from the industry."
 -
   name: "International participants"
   price: "75"
   priceCurrency: "USD"
-  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
+  buyButtonLink: "https://claudeenlau.github.io/mss-2025/registration/"
   buyButtonText: "Register Now"
-  validFrom: "2022-06-03T12:00 PM"
-  validThrough: "2022-07-03T12:00 PM"
+  validFrom: "2025-XX-XXT12:00 PM"
+  validThrough: "2025-XX-XXT12:00 PM"
   additionalInfo: "For international students, delegates and participants from the industry."
--
-  name: "Audience - Local students/non-students/delegates"
-  price: "70"
-  priceCurrency: "MYR"
-  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
-  buyButtonText: "Register Now"
-  validFrom: "2022-06-03T12:00 PM"
-  validThrough: "2022-07-03T12:00 PM"
-  additionalInfo: "Audience participation for local students, non-students, and delegates from the industry."
--
-  name: "Audience - International students/non-students/delegates"
-  price: "30"
-  priceCurrency: "USD"
-  buyButtonLink: "https://monash-sciencesymposium.com/registration/"
-  buyButtonText: "Register Now"
-  validFrom: "2022-06-03T12:00 PM"
-  validThrough: "2022-07-03T12:00 PM"
-  additionalInfo: "Audience participation for international students, non-students, and delegates from the industry."
 
 # Footer
 socialLinks:
