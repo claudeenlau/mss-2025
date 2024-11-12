@@ -7,7 +7,7 @@
             <div class="row categories-details">
                 {% assign animationDelay = 0 %}
                 {% for category in site.categoriesBlock %}
-                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                         <img class="img-circle" src="{{ site.baseurl }}/img/categories/{{ category.image }}" height="128" width="128" alt="{{ category.title }}">
                         <p>{{ category.text }}</p>
