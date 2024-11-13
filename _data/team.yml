@@ -88,7 +88,7 @@
   surname: "Tan"
   title: "Treasury Team"
   thumbnailUrl: placeholder.png
-  head: true
+  subTeam: true
 -
   id: 13
   name: "Scasia"
