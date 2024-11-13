@@ -13,13 +13,6 @@
   thumbnailUrl: placeholder.png
   head: true
 -
-  id: 3
-  name: "Vindya"
-  surname: "Wijesinghe"
-  title: "Secretary"
-  thumbnailUrl: placeholder.png
-  head: true
--
   id: 2
   name: "Pan"
   surname: "Nu Thwe"
@@ -27,17 +20,17 @@
   thumbnailUrl: placeholder.png
   head: true
 -
-  id: 4
-  name: "Ashley Jia Wen"
-  surname: "Yip"
-  title: "Head of Treasury 1"
+  id: 3
+  name: "Vindya"
+  surname: "Wijesinghe"
+  title: "Secretary"
   thumbnailUrl: placeholder.png
   head: true
 -
-  id: 5
-  name: "Monica Bernard"
-  surname: "Tan"
-  title: "Head of Treasury 2"
+  id: 4
+  name: "Ashley Jia Wen"
+  surname: "Yip"
+  title: "Head of Treasury"
   thumbnailUrl: placeholder.png
   head: true
 -
@@ -89,6 +82,13 @@
   title: "Assistant Secretary"
   thumbnailUrl: placeholder.png
   subTeam: true
+-
+  id: 5
+  name: "Monica Bernard"
+  surname: "Tan"
+  title: "Treasury Team"
+  thumbnailUrl: placeholder.png
+  head: true
 -
   id: 13
   name: "Scasia"
