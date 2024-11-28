@@ -220,8 +220,7 @@ ticketsOffers:
   buyButtonText: "<strong>Register Now</strong>"
   validFrom: "2025-XX-XXT12:00 PM"
   validThrough: "2025-XX-XXT12:00 PM"
-  additionalInfo: "<i>Only students from Malaysian universities/colleges</i>"
--
+  additionalInfo: "<i>Students from other universities/colleges</i>"
 
 # Footer
 socialLinks:
