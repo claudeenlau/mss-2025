@@ -220,7 +220,7 @@ ticketsOffers:
   buyButtonText: "<strong>Register Now</strong>"
   validFrom: "2025-XX-XXT12:00 PM"
   validThrough: "2025-XX-XXT12:00 PM"
-  additionalInfo: "<i>Students from other universities/colleges</i>"
+  additionalInfo: "<i>For students from other universities</i>"
 
 # Footer
 socialLinks:
