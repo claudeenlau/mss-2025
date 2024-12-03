@@ -145,24 +145,31 @@
   title: "Publicity & Creative Design Team"
   thumbnailUrl: placeholder.png
   subTeam: true
--
+-   
   id: 21
+  name: "Pei Ya"
+  surname: "Foo"
+  title: "Publicity & Creative Design Team"
+  thumbnailUrl: placeholder.png
+  subTeam: true
+-
+  id: 22
   name: "Le Wei"
   surname: "Wong"
   title: "Logistics Team"
   thumbnailUrl: LeWei.jpg
   subTeam: true
 -
-  id: 22
+  id: 23
   name: "Sher Min"
   surname: "Ding"
   title: "Logistics Team"
   thumbnailUrl: SherMin.jpg
   subTeam: true
 -
-  id: 23
+  id: 24
   name: "Chi Yie"
   surname: "Choong"
   title: "Logistics Team"
-  thumbnailUrl: placeholder.png
+  thumbnailUrl: Daniel.jpg
   subTeam: true
