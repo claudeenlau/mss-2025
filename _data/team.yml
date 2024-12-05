@@ -30,42 +30,42 @@
   id: 4
   name: "Ashley Jia Wen"
   surname: "Yip"
-  title: "Head of Treasury 1"
+  title: "Treasurer"
   thumbnailUrl: Ashley.jpg
   head: true
 -
   id: 5
   name: "Monica Bernard"
   surname: "Tan"
-  title: "Head of Treasury 2"
+  title: "Treasurer"
   thumbnailUrl: Monica.jpg
   head: true
 -
   id: 6
   name: "Harinash Rao"
   surname: "Precasa Roe"
-  title: "Head of Editorial 1"
+  title: "Head of Editorial"
   thumbnailUrl: Hari.jpg
   head: true
 -
   id: 7
   name: "Mark Gabriel"
   surname: "Galinato"
-  title: "Head of Editorial 2"
+  title: "Head of Editorial"
   thumbnailUrl: Gab.jpg
   head: true
 -
   id: 8
   name: "Sairebieli"
   surname: "Kulihong"
-  title: "Head of Publicity & Creative Design 1"
+  title: "Head of Publicity & Creative Design"
   thumbnailUrl: Kulihong.jpg
   head: true
 -
   id: 9
   name: "Claudeen Sze Siang"
   surname: "Lau"
-  title: "Head of Publicity & Creative Design 2"
+  title: "Head of Publicity & Creative Design"
   thumbnailUrl: Claudeen.jpg
   head: true
 -
