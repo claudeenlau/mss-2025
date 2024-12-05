@@ -30,7 +30,7 @@
   id: 4
   name: "Ashley Jia Wen"
   surname: "Yip"
-  title: "Head of Treasury"
+  title: "Head of Treasury 1"
   thumbnailUrl: Ashley.jpg
   head: true
 -
@@ -86,9 +86,9 @@
   id: 5
   name: "Monica Bernard"
   surname: "Tan"
-  title: "Treasury Team"
+  title: "Head of Treasury 2"
   thumbnailUrl: Monica.jpg
-  subTeam: true
+  head: true
 -
   id: 13
   name: "Scasia"
