@@ -34,6 +34,13 @@
   thumbnailUrl: Ashley.jpg
   head: true
 -
+  id: 5
+  name: "Monica Bernard"
+  surname: "Tan"
+  title: "Head of Treasury 2"
+  thumbnailUrl: Monica.jpg
+  head: true
+-
   id: 6
   name: "Harinash Rao"
   surname: "Precasa Roe"
@@ -82,13 +89,6 @@
   title: "Assistant Secretary"
   thumbnailUrl: SiauWui.jpg
   subTeam: true
--
-  id: 5
-  name: "Monica Bernard"
-  surname: "Tan"
-  title: "Head of Treasury 2"
-  thumbnailUrl: Monica.jpg
-  head: true
 -
   id: 13
   name: "Scasia"
