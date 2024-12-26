@@ -101,6 +101,7 @@ scheduleIntro2: "Oral presentations are categorised into 7 categories:<br>1. Gen
 guidelinesTitle: "Submission Guidelines"
 guidelines1: "Welcome to Monash Science Symposium (MSS) 2025! Our theme this year is “Innovating for Tomorrow: Scientific Solutions for a Sustainable Future”.
 MSS 2025 will feature the following categories:"
+
 guidelines2: "<strong>The abstract submission guidelines file and registration form will be updated soon!.<\strong>"
 abstractSubmissionTitle: "Abstract Submission Guidelines"
 abstractSubmissionPoints:
@@ -108,7 +109,7 @@ abstractSubmissionPoints:
  - {point: "Each abstract can only be submitted <strong>once</strong>. Please proofread for spelling, grammar and scientific accuracy before submission; no changes are allowed after the deadline."}
  - {point: "Choose the appropriate topic/field and indicate your preference for presentation type: oral, poster, or either. Acceptance notifications will specify the format."}
  - {point: "Oral sessions will include live moderation and a Q&A session. Posters must be displayed on A1-sized (59.4 cm x 84.1 cm) vertical boards provided by the university."}
- - {point: "The online submission process will provide further instructions regarding contact information, how to submit, etc."}
+
 guidelinesButton:
   #need to insert new links here
  - {link: "insert link here", text: "Guidelines and abstract template"}
