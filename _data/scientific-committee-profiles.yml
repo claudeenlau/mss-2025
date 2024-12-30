@@ -9,27 +9,27 @@
 -
  id: 41
  name: "Dr."
+ surname: "Keng Yoon Yeong"
+ company: "Monash University Malaysia"
+ title: "Senior Lecturer, School of Science"
+ bio: "<p> Dr. Keng Yoon Yeong (Ken) is currently a Senior Lecturer in the School of Science where he teaches Medicinal Chemistry and Advanced Organic Chemistry. Ken’s research focuses on medicinal chemistry with intersections to organic synthesis, biology and medicine. Broadly, the theme of Ken’s research group is targeted towards small molecule and short peptide drug discovery.<br><br>Before joining Monash University, Ken has spent 11 years as a research scientist in industry where he worked on small molecule organic synthesis and immunoassays. He has co-authored over 60 research publications in the field of medicinal chemistry and drug discovery. His group’s research activities are supported by supported by international as well as national funders such as the Royal Society of Chemistry UK, Malaysian Ministry of Science, Technology and Innovation (MOSTI) and Malaysian Ministry of Higher Education (MOHE). He is a co-inventor for several patent applications and is the recipient of numerous academic awards.</p>"
+ thumbnailUrl: "YKY.jpg"
+-
+ id: 42
+ name: "Dr."
  surname: "Krystle Angelique Santiago"
  company: "Monash University Malaysia"
  title: "Lecturer, School of Science"
  bio: "<p>Dr. Krystle Angelique Santiago joined Monash University Malaysia as a Research Fellow in January 2021. She earned her degree from the same university in June 2020. Her PhD focused on the diversity and biological properties of the lichen <em>Usnea</em> from Malaysia and the Philippines, and their associated endolichenic fungi. She also worked on metabolomics technology to identify the metabolic profiles of these organisms. Krystle has a strong interest in identifying biomarkers from fungi against infectious diseases and  agricultural diseases using metabolomics. Currently, she is working on the metabolomics analyses of Ganoderma-oil palm interactions, which is one of the current challenges on oil palm plantations in Malaysia."
  thumbnailUrl: "KAS.jpg"
 -
- id: 42
+ id: 43
  name: "Dr."
  surname: "Max Lai Hien Tet"
  company: "Monash University Malaysia"
  title: "Teaching Fellow, School of Science"
- bio: "Dr. Lai's goal is to foster the next generation of young scientist. So that one day, they will be ready to carry on passing the torch of knowledge to the next generation. In 2010, he graduated from Monash University Malaysia, School of Science with Bachelor of Science (Medical Bioscience) (Hons). The next year, he was given the opportunity to pursue a doctoral degree in Monash University, Jeffrey Cheah School of Medicine and Health Sciences. He successfully obtained his doctoral degree in 2016."
+ bio: "Dr. Max's goal is to foster the next generation of young scientist. So that one day, they will be ready to carry on passing the torch of knowledge to the next generation. In 2010, he graduated from Monash University Malaysia, School of Science with Bachelor of Science (Medical Bioscience) (Hons). The next year, he was given the opportunity to pursue a doctoral degree in Monash University, Jeffrey Cheah School of Medicine and Health Sciences. He successfully obtained his doctoral degree in 2016."
  thumbnailUrl: "Max.jpg"
--
- id: 43
- name: "Dr."
- surname: "ECR Committee"
- company: "Monash University Malaysia"
- title: "Lecturer, School of Science"
- bio: "Bio of ECR Com"
- thumbnailUrl: "placeholder.png"
 -
  id: 44
  name: "Dr."
