@@ -59,7 +59,7 @@ heroButtons:
 #- {permalink: "/#footer", text: "Footer"}
 
 # Categories Block
-categoriesTitle: "Submit abstracts now"
+categoriesTitle: "Abstract submission will be open soon!"
 categoriesDescription: "We will be calling for abstract submission for the following categories:"
 categoriesBlock:
  - {text: "Drug Discovery & Development", image: "category_logo_drugdiscovery.png"}
@@ -102,7 +102,7 @@ guidelinesTitle: "Submission Guidelines"
 guidelines1: "Welcome to Monash Science Symposium (MSS) 2025! Our theme this year is “Innovating for Tomorrow: Scientific Solutions for a Sustainable Future”.
 MSS 2025 will feature the following categories:"
 
-guidelines2: "<strong>The abstract submission guidelines file and registration form will be updated soon!</strong>"
+guidelines2: "<strong>Stay informed about MSS 2025! While we finalize the details for MSS 2025, don't miss out on important updates and announcements by signing up for our mailing list!</strong>"
 abstractSubmissionTitle: "Abstract Submission Guidelines"
 abstractSubmissionPoints:
  - {point: "Submit abstracts in English via the registration form using the presenting author's email address."}
@@ -111,9 +111,8 @@ abstractSubmissionPoints:
  - {point: "Oral sessions will include live moderation and a Q&A session. Posters must be displayed on A1-sized (59.4 cm x 84.1 cm) vertical boards provided by the university."}
 
 guidelinesButton:
-  #need to insert new links here
- - {link: "insert link here", text: "Guidelines and abstract template"}
- - {link: "insert link here", text: "Online registration form"}
+  #need to insert new guideline pdf and online regustration form links here
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5MeP9RFuBrG3bQ13-8G_HB810IbFPFHAz-ojSsvQ8uY3ePw/viewform?usp=sharing", text: "Join our Mailing List"}
 
 # Payment Guidelines Block
 payGuidelinesTitle: "Payment guidelines"
