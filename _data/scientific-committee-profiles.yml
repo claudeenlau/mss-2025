@@ -33,34 +33,33 @@
 -
  id: 44
  name: "Dr."
- surname: "ECR Committee"
+ surname: "ECR"
  company: "Monash University Malaysia"
- title: "Lecturer, School of Science"
- bio: "Bio of ECR Com"
+ title: "School of Science"
+ bio: "Bio"
  thumbnailUrl: "placeholder.png"
 -
  id: 45
  name: "Prof."
- surname: "ECR Committee"
+ surname: "ECR"
  company: "Monash University Malaysia"
- title: "Lecturer, School of Science"
- bio: "Bio of ECR Com"
+ title: "School of Science"
+ bio: "Bio"
  thumbnailUrl: "placeholder.png"
 -
  id: 46
  name: "Dr."
- surname: "ECR Committee"
+ surname: "ECR"
  company: "Monash University Malaysia"
- title: "Lecturer , School of Science"
- bio: "Bio of ECR Com"
+ title: "School of Science"
+ bio: "Bio"
  thumbnailUrl: "placeholder.png"
 -
  id: 47
  name: "Assoc. Prof."
- surname: "ECR Committee"
+ surname: "ECR"
  company: "Monash University Malaysia"
- title: "Lecturer, School of Science"
- bio: "Bio of ECR Com"
+ title: "School of Science"
+ bio: "Bio"
  thumbnailUrl: "placeholder.png"
-
  
