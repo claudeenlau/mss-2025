@@ -40,9 +40,9 @@ navigationLinks:
  - {permalink: "/speakers", text: "Speakers"}
  - {permalink: "/registration", text: "Registration"}
 bottomNavigationLinks:
- - {permalink: "/registration", text: "Register now"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5MeP9RFuBrG3bQ13-8G_HB810IbFPFHAz-ojSsvQ8uY3ePw/viewform?usp=sharing", text: "Join our mailing list"}
 rightNavigationButtons:
- - {permalink: "/registration", text: "Register now"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5MeP9RFuBrG3bQ13-8G_HB810IbFPFHAz-ojSsvQ8uY3ePw/viewform?usp=sharing", text: "Join our mailing list"}
 
 # Miscellaneous links
 #speakerButtonRegister: "https://forms.gle/t2ztnxtMbNzzXC2o8"
@@ -55,7 +55,7 @@ heroMotto: "<em>Innovating for Tomorrow: Scientific Solutions for a Sustainable 
 typeoutTextValues: '"", "2025" '
 typeoutFallback: ""
 heroButtons:
-- {permalink: "/registration", text: "Register now"}
+- {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5MeP9RFuBrG3bQ13-8G_HB810IbFPFHAz-ojSsvQ8uY3ePw/viewform?usp=sharing", text: "Join our mailing list"}
 #- {permalink: "/#footer", text: "Footer"}
 
 # Categories Block
@@ -68,7 +68,7 @@ categoriesBlock:
  - {text: "Functional & Future Food", image: "category_logo_fst.png"}
  - {text: "Big Data Analytics & Genomics for One Health", image: "category_logo_gen.png"}
 categoriesButton:
- - {permalink: "/registration", text: "Register now"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5MeP9RFuBrG3bQ13-8G_HB810IbFPFHAz-ojSsvQ8uY3ePw/viewform?usp=sharing", text: "Join our mailing list"}
 
 # About MSS Block
 aboutMSSBlockTitle: "About MSS"
@@ -136,7 +136,8 @@ payGuidelines6: "Once you are directed to the payment page, please choose <stron
 # Key Dates Block
 keyDatesBlockImage: "key-dates.jpg"
 keyDates:
- - {date: "31 May 2025", text: "Registration deadline"}
+ - {date: "January 2025", text: "Registration opens"} 
+ - {date: "31 May 2025", text: "Registration closes"}
  - {date: "15-17 July 2025", text: "Symposium dates"}
 
 # Statistic Block
@@ -206,14 +207,14 @@ ticketsOffers:
   price: "150"
   priceCurrency: "MYR"
   buyButtonLink: "https://claudeenlau.github.io/mss-2025/registration/"
-  buyButtonText: "<strong>Register Now</strong>"
+  buyButtonText: "<strong>Register</strong>"
   additionalInfo: "<i>Only for Monash students</i>"
 -
   name: "Non-Monash Student"
   price: "250"
   priceCurrency: "MYR"
   buyButtonLink: "https://claudeenlau.github.io/mss-2025/registration/"
-  buyButtonText: "<strong>Register Now</strong>"
+  buyButtonText: "<strong>Register</strong>"
   additionalInfo: "<i>For students from other universities</i>"
 
 # Footer
