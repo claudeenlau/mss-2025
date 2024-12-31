@@ -204,14 +204,14 @@ ticketsTitle: "Ticket prices"
 ticketsOffers:
 -
   name: "Monash Student"
-  price: "150"
+  price: "170"
   priceCurrency: "MYR"
   buyButtonLink: "https://claudeenlau.github.io/mss-2025/registration/"
   buyButtonText: "<strong>Register</strong>"
   additionalInfo: "<i>Only for Monash students</i>"
 -
   name: "Non-Monash Student"
-  price: "250"
+  price: "270"
   priceCurrency: "MYR"
   buyButtonLink: "https://claudeenlau.github.io/mss-2025/registration/"
   buyButtonText: "<strong>Register</strong>"
