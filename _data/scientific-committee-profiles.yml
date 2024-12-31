@@ -9,13 +9,53 @@
 -
  id: 41
  name: "Dr."
- surname: "Keng Yoon Yeong"
+ surname: "Ang Chee Wei"
+ company: "Monash University Malaysia"
+ title: "Lecturer, School of Science"
+ bio: "Dr. Ang Chee Wei joined Monash University Malaysia as a research fellow in August 2020. She graduated with a PhD from the Institute for Molecular Bioscience, The University of Queensland. Her PhD studies focused on development of new anti-infective agents against tuberculosis and parasitic infections. She has more than five years of experience as a research officer at the Institute for Research in Molecular Medicine, University Sains Malaysia, working on drug modification, bioconjugation, and development of immunoassays. Chee Wei has a strong interest in finding new therapeutics to address the unmet medical needs in infectious diseases. She is currently focusing on small molecule synthesis but is also venturing into natural products and metal-based bioactive compounds."
+ thumbnailUrl: "ACW.jpg"
+-
+  id: 42
+  name: "Dr."
+  surname: "Ashish Dutt"
+  company: "Monash University Malaysia"
+  title: "Lecturer, School of Science"
+  bio: "Dr. Ashish Dutt is is currently a lecturer with the School of Science, Monash University Malaysia (MUM). He obtained his Bachelors in Science from Panjab University, Chandigarh, India. Post completing the bachelor's degree, he worked for a decade with top information technology companies in India like Dell and IBM. Basis of the rich industrial domain experience, he completed a Master's in Computer Science (CS) from Staffordshire University (Malaysia campus) and PhD in CS from University of Malaya. During his PhD, he focussed his research on mixed data clustering in the field of Educational Data Mining (EDM). He has published research papers in high impact journals in CS. He also serves as reviewer to several ISI and Scopus indexed journals in CS. Before joining Monash, he worked as a senior data scientist at Micron Technology, Penang, Malaysia where he developed video analytics based solutions for smart solid state drive manufacturing. "
+  thumbnailUrl: Ashish.jpg
+-
+  id: 43
+  name: "Dr."
+  surname: "Aswini Leela"
+  company: "Monash University Malaysia"
+  title: "Research Fellow, School of Science"
+  bio: "<p>Dr. Aswini did her Masters and PhD in Biotechnology at Biotechnology Research Institute, Universiti Malaysia Sabah. Her PhD project was on "Genetic diversity of the Green (Chelonia mydas) and Hawksbill (Erethmochelys imbricata) Turtles and the Prevalence of Chelonid Fibropapilloma-associated Herpesvirus (ChHV5) in Mabul Island Sabah, Malaysia" She brings with her experience and technical knowledge in solving problems related to Genetic, Microbiology, Histopathology and Bioinformatics among others. She has experience using next-gen sequencers such as Pacbio Sequencer and the Standard Sanger sequencer. Aswini joined Monash University Malaysia as a Research fellow in September 2020 and is working under the guidance of Prof. Qasim Ayub.<br><br>Currently, her research focus is generating high-quality reference-genome assemblies using high-throughput sequencing technology. Her aim is to draw attention to the conservation of endangered animals in Malaysia through genomics and contribute towards global efforts at bio-conservation. She is also responsible for generating a generalized bioinformatic pipeline that can be used for genome analysis such as mapping, assembly and variant calling pipeline for WGS. Her current projects at Monash are aligned to contribute towards the Vertebrate Genome Project (VGP) and the Earth BioGenome Project.</p>"
+  thumbnailUrl: Aswini.jpg
+-
+  id: 44
+  name: "Dr."
+  surname: "Cheah Hong Leong"
+  company: "Monash University Malaysia"
+  title: "Research Fellow, School of Science"
+  bio: "<p>Dr. Cheah Hong Leong has ten years of experience in microbiology, molecular biology, and bioinformatics, as well as seven years of experience as a translator of research writings. He also has a short history of working as a quality control microbiologist in the pharmaceutical industry. He earned his bachelor's degree from Universiti Tunku Abdul Rahman in 2011 and continued his postgraduate studies in molecular biology and bacteriology at Universiti Sains Malaysia, where he received his master's degree in 2014 and his PhD degree in 2022.<br><br>His doctoral research focused on RNA-seq analysis to establish the transcription start site landscape and small RNA profile of <ecm>Mycobacterium tuberculosis</ecm>. He also conducted a similar study on <ecm>Leptospira biflexa</ecm> as a side project. His studies have revealed the complexities of regulatory networks and sRNAome that contribute to the survival of these bacteria in hostile environments.<br><br>In January 2023, he joined Monash University Malaysia as a research fellow under the Malaysian BioGenome Project and has since shifted his research focus to conservation genomics. He is currently working on the establishment of reference genomes and population genomics of native marine animals in Malaysia, specifically sea cucumbers, under the guidance of Prof. Qasim Ayub. Additionally, Cheah's other research interests include eDNA-based monitoring of marine biodiversity and the study of mangrove ecosystems. He is also interested in population genomics of other marine species, such as elasmobranchs, mantis shrimps, and mud crabs.</p>"
+  thumbnailUrl: Cheah.jpg
+-
+ id: 45
+ name: "Dr."
+ surname: "Faddrine Jang"
+ company: "Monash University Malaysia"
+ title: "Lecturer, School of Science"
+ bio: "Dr. Faddrine Jang is currently a Lecturer at Monash University Malaysia’s School of Science, where she teaches undergraduates on Tropical Environmental Management, Environmental Science, and Ecological Applications. Her research interests include aquatic bio-geochemistry (hydrology and oceanography), environmental monitoring and assessments, environmental pollution (trace metals, microplastics, emerging pollutants), and ecotoxicology. Apart from teaching and research, she is also highly passionate about outreach projects that could help educate the public on environmental awareness and sustainability."
+ thumbnailUrl: FJ.jpg
+-
+ id: 46
+ name: "Dr."
+ surname: "Foo Su Chern"
  company: "Monash University Malaysia"
  title: "Senior Lecturer, School of Science"
- bio: "<p> Dr. Keng Yoon Yeong (Ken) is currently a Senior Lecturer in the School of Science where he teaches Medicinal Chemistry and Advanced Organic Chemistry. Ken’s research focuses on medicinal chemistry with intersections to organic synthesis, biology and medicine. Broadly, the theme of Ken’s research group is targeted towards small molecule and short peptide drug discovery.<br><br>Before joining Monash University, Ken has spent 11 years as a research scientist in industry where he worked on small molecule organic synthesis and immunoassays. He has co-authored over 60 research publications in the field of medicinal chemistry and drug discovery. His group’s research activities are supported by supported by international as well as national funders such as the Royal Society of Chemistry UK, Malaysian Ministry of Science, Technology and Innovation (MOSTI) and Malaysian Ministry of Higher Education (MOHE). He is a co-inventor for several patent applications and is the recipient of numerous academic awards.</p>"
- thumbnailUrl: "YKY.jpg"
+ bio: "<p>Dr.Foo Su Chern is on a mission to change the way people perceive and use microalgae. Prior to this, microalgae biomass was insufficiently characterised to enable full exploitation of the benefits as sustainable feedstock and ingredients for humans.<br><br>Her past research provided the tools and strategies to advance the understanding of microalgae uses. She unveiled microalgae's potential as antioxidant sources through food industry-driven research questions, while considering mounting concerns on the impacts of climate change via climate mitigation and adaptation strategies. This research vision aligns to UN SDG2.2, by introducing an alternative food biomass from aquatic sources with low carbon emission, highly nutritious and proven antioxidant properties.<br><br>Her on-going research will continue to provide innovative and sustainable bioactive ingredient to benefit food companies and end-users for health and well-being maintenance. </p>"
+ thumbnailUrl: FSC.jpg
 -
- id: 42
+ id: 47
  name: "Dr."
  surname: "Krystle Angelique Santiago"
  company: "Monash University Malaysia"
@@ -23,7 +63,23 @@
  bio: "<p>Dr. Krystle Angelique Santiago joined Monash University Malaysia as a Research Fellow in January 2021. She earned her degree from the same university in June 2020. Her PhD focused on the diversity and biological properties of the lichen <em>Usnea</em> from Malaysia and the Philippines, and their associated endolichenic fungi. She also worked on metabolomics technology to identify the metabolic profiles of these organisms. Krystle has a strong interest in identifying biomarkers from fungi against infectious diseases and  agricultural diseases using metabolomics. Currently, she is working on the metabolomics analyses of Ganoderma-oil palm interactions, which is one of the current challenges on oil palm plantations in Malaysia."
  thumbnailUrl: "KAS.jpg"
 -
- id: 43
+ id: 48
+ name: "Dr."
+ surname: "Lee Sin Yee"
+ company: "Monash University Malaysia"
+ title: "Senior Teaching Fellow, School of Science"
+ bio: "<p>In 2014, Dr. Sin Yee graduated from Universiti Putra Malaysia (UPM) with a major in Food Science and Technology. She was awarded by the faculty for her exemplary academic achievement and adoption of green technology in her final year project upon her graduation. Following that, she pursued her Doctor of Philosophy (PhD) degree in her alma mater in field of food technology.<br><br>She is a foodie. Food is her world. She loves walking down the aisles of grocery stores to see the new food products that are hitting the shelves while finding the ones that worth putting in her cart. She enjoys reading cookbook, cooking and baking in her free time because these habits could just spark her creativity on crazy food ideas, out of the blue.<br><br>She is deeply grateful and blessed for the rich learning environment that her teachers and lecturers had created for her in her learning path. The knowledge that they imparted to her has made her to believe in the value of knowledge sharing. To her, knowledge builds up on prior knowledge and it is never get isolated. Knowledge sharing helps her to get invaluable feedback from those more skilled or with different set of competences.</p>"
+ thumbnailUrl: "SinYee.jpg"
+-
+ id: 49
+ name: "Dr."
+ surname: "Lee Yee Ying"
+ company: "Monash University Malaysia"
+ title: "Senior Lecturer, School of Science"
+ bio: "Dr. Lee Yee Ying completed her Bachelors degree in 2010 and PhD in 2016 from Universiti Putra Malaysia in the area of Food Science and Technology. Through her PhD study, she managed to develop a type of functional oil through the enzymatic interesterification of the palm and palm kernel oil with potential to be used to manage obesity. Dr. Lee was appointed to a lecturer (level B) position in the School of Science in March 2017. Her research interests have broadened to focus on the chemical and enzymatic structural modification (esterification, transesterification, hydrolysis and glycerolysis) of edible fats and oils for the synthesis of functional lipid that can serve to manage and treat various health complications by understanding of the physicochemical properties of the fats and oils. Additionally, she is also fascinated to carry out in vivo studies to elucidate the health effect of structured lipids. Dr. Lee is also keen to utilize fats and oil in the development of food products, for instance beverage emulsion, mayonnaise, margarine, shortening, powdered oil and etc. She is also keen to venture on research related to palm oil processing and mitigation. Dr. Lee has published several peer review articles as well as one book chapter. She also presented several papers at local and international conferences."
+ thumbnailUrl: "LYY.jpg"
+-
+ id: 50
  name: "Dr."
  surname: "Max Lai Hien Tet"
  company: "Monash University Malaysia"
@@ -31,35 +87,66 @@
  bio: "Dr. Max's goal is to foster the next generation of young scientist. So that one day, they will be ready to carry on passing the torch of knowledge to the next generation. In 2010, he graduated from Monash University Malaysia, School of Science with Bachelor of Science (Medical Bioscience) (Hons). The next year, he was given the opportunity to pursue a doctoral degree in Monash University, Jeffrey Cheah School of Medicine and Health Sciences. He successfully obtained his doctoral degree in 2016."
  thumbnailUrl: "Max.jpg"
 -
- id: 44
+ id: 51
  name: "Dr."
- surname: "ECR"
+ surname: "Michelle Yap Khai Khun"
  company: "Monash University Malaysia"
- title: "School of Science"
- bio: "Bio"
- thumbnailUrl: "placeholder.png"
+ title: "Senior Lecturer, School of Science"
+ bio: "Dr. Michelle Yap is currently a senior lecturer and course coordinator for the Bachelor of Medical Bioscience and PASS Program coordinator, at the School of Science, Monash University Malaysia. She is dedicated to toxin pharmacology and toxicology research. She has strong background in biomolecular modelling, proteomics, immunological and molecular pharmacology of bioactive toxins. She leads the Toxin Pharmacology Research Group. Her research group now focuses on molecular mechanisms of cytotoxin with the ultimate goal of developing next-generation biotherapeutics. Her research works have been featured in prominent media outlets, including the International Snakebite Awareness Day campaign. Besides active in research, she is also an education innovator who adopts various active learning strategies with technology. She teaches undergraduate units with an emphasis on student-cantered learning using the andragogy approach. Dr. Michelle enjoys promoting STEM education to the public. She has organized and hosted several workshops and forums to advance the disciplines in medical sciences through research and education."
+ thumbnailUrl: "MYKK.jpg"
 -
- id: 45
- name: "Prof."
- surname: "ECR"
- company: "Monash University Malaysia"
- title: "School of Science"
- bio: "Bio"
- thumbnailUrl: "placeholder.png"
--
- id: 46
+ id: 52
  name: "Dr."
- surname: "ECR"
+ surname: "Ng Chen Seng"
  company: "Monash University Malaysia"
- title: "School of Science"
- bio: "Bio"
- thumbnailUrl: "placeholder.png"
+ title: "Lecturer, School of Science"
+ bio: "Dr. Ng Chen Seng is a Lecturer in the Division of Medical Biosciences, School of Science, at Monash University. He received his Bachelor of Science in Biotechnology from the University Malaysia Sabah in 2008 and went on to complete his Master and Doctorate of Science in Life Science from Kyoto University (Japan). Prior to joining Monash University, Dr. Ng conducted postdoctoral research at the University of California, Los Angeles, and the University of British Columbia. Dr. Ng has published numerous international peer-reviewed papers, many of which appear in leading journals, including the Cell Press iScience, Nature Press Cell Death and Differentiation, Autophagy, Journal of Virology, PLoS Pathogens, and etc. Notably, he identified interferon as the molecular signature in amyotrophic lateral sclerosis, a devastating motor neuron disease. This discovery could potentially serve as a therapeutic target or a diagnostic marker. His current research focuses on understanding the differences between mouse and human models."
+ thumbnailUrl: "NCS.jpg"
 -
- id: 47
- name: "Assoc. Prof."
- surname: "ECR"
+ id: 53
+ name: "Dr."
+ surname: "Tan Hock Siew"
  company: "Monash University Malaysia"
- title: "School of Science"
- bio: "Bio"
- thumbnailUrl: "placeholder.png"
- 
+ title: "Senior Lecturer, School of Science"
+ bio: "<p>Dr. Patrick Tan obtained his Honours degree from University Sains Malaysia in 2008 and went on to complete his Masters in Biotechnology in 2011. A year later, he secured a research fellowship to complete his doctoral work at the University of Wuerzburg in Germany. Dr. Tan was trained in the field of microbial genetics and biotechnology. His doctoral studies focused on understanding the role of small RNAs (sRNAs) in <ecm>Helicobacter pylori</ecm>, a human pathogen that causes gastric ulcer.<br><br>His goal is to contribute to betterment of our society through life science research and education. Besides work, Dr. Tan enjoys promoting STEM (science, technology, engineering, and mathematics) education to children and the public. He is also an avid photographer and a chess fan.</p>"
+ thumbnailUrl: "Patrick.jpg"
+-
+ id: 54
+ name: "Dr."
+ surname: "Tan Ji Wei"
+ company: "Monash University Malaysia"
+ title: "Senior Lecturer, School of Science"
+ bio: "Dr. Tan Ji Wei completed his BSc in 2011 (Biomedical Science), MSc in 2013 (Cell Biology) and PhD (Immunopharmacology) in 2016 from Universiti Putra Malaysia. Shortly after his PhD graduation, Dr. Tan was appointed to a lecturer position in the School of Science in January 2018. During his PhD study, he managed to develop a mast cell stabilizer from a synthetic compound originated from a natural plant. His current research interest is still focusing on the capabilities of natural products as an alternative treatment against various human ailments including allergic diseases, cancer, and neurodegenerative diseases. Specifically, he is exploring how a natural compound play its beneficial role within a cell by looking at the cellular and molecular signalling pathways."
+ thumbnailUrl: "TJW.jpg"
+-
+ id: 55
+ name: "Dr."
+ surname: "Teng Suk Kuan"
+ company: "Monash University Malaysia"
+ title: "Teaching Fellow, School of Science"
+ bio: "<p>Dr. Teng Suk Kuan obtained her BSc (Hons.) in Biology from Universiti Putra Malaysia (UPM) in 2008. She then continued her Master and Doctoral studies in environmental biology at the same institution. Her research was on earthworms and their application in plant disease remediation.  In 2016, she was awarded the Outstanding Postgraduate Award by the Science Faculty at UPM.<br><br>Prior to joining Monash, Suk Kuan was a lecturer at the School of Foundation Studies of Xiamen University Malaysia. She likes to interact with people and learn from them. She also enjoys seeing how biological knowledge can be applied in daily life. Suk Kuan supports sustainable living, she believes it is the key to address some major issues such as waste generation, depletion of natural resources and pollution.</p>"
+ thumbnailUrl: "Teng.jpg"
+-
+ id: 56
+ name: "Dr."
+ surname: "Wee Wei Yee"
+ company: "Monash University Malaysia"
+ title: "Lecturer, School of Science"
+ bio: "<p>Dr. Wei Yee Wee received his BSc in Bioinformatics from Multimedia University (MMU) in 2012. After graduation, he continue with his PhD in Bioinformatics in University of Malaya and continue to work as Post Doctoral Research Fellow under Centre for Research in Biotechnology for Agriculture (CEBAR), University of Malaya after he gained his PhD. He has gained many years of experience in the field of bioinformatics research. Currently, he is an assistant lecturer in the School of Sciences and engages in education and research through contribution to multidisciplinary research projects, research funding and research publication in ISI Journals. He has a proven record in publication and published around 24 high impact papers since 2012. He has also take part in setup, design, establishment and maintenance of new bioinformatics laboratory.<br><br>Dr. Wei Yee Wee has been involved in variety of Next Generation Sequencing (NGS) projects such as whole genome and transcriptome analysis on eukaryotic genomes, bacteria genome and metagenomics. He is familiar with Bioinformatics analysis such as genome assembly, genome annotation, genes comparative study, identification of SNP variants and prediction on the effect of the SNP variants, differential gene expression analysis, pan-genome analysis, phylogenetic tree analysis, prophage identification. He also develop useful Bioinformatics tools and pipelines such as the Pairwise Genome Comparison (PGC) and the Pathogenomics Profilling Tool (PathoProT). PGC is a bioinformatics tool which allow user to perform pairwise genome alignment and visualize the alignment in a circular layout and PathoProT allow user to screen for virulence genes in the genome. These 2 tools have been implemented and integrated into few published database such as VibrioBase and HelicoBase.<br><br>Dr. Wei Yee Wee current research projects are the whole genome analysis of <ecm>Mycobacterium cosmeticum</ecm> and transcriptomic analysis of <ecm>Bosenbergia rotunda</ecm>.</p>"
+ thumbnailUrl: "Gavin.jpg"
+-
+ id: 57
+ name: "Dr."
+ surname: "Wong Siew Fang"
+ company: "Monash University Malaysia"
+ title: "Research Fellow, School of Science"
+ bio: "<p>Dr. Wong Siew Fang assumed the role of a research fellow at Monash University Malaysia in August 2023. With a solid academic background, Dr. Wong holds a BSc degree (First Class Honors) in Resource Chemistry from Universiti Malaysia Sarawak (UNIMAS). He pursued his MSc and PhD studies at Universiti Sains Malaysia (USM) and Universiti Malaya (UM), respectively.<br><br>During his MSc studies, Dr. Wong concentrated on the synthesis mechanisms and catalytic applications of nanoporous zeolite materials, mentored by Assoc. Prof. Dr. Ng Eng Poh. He also gained valuable international research experience through a three-month research attachment at Suranaree University of Technology in Thailand, collaborating closely with Assoc. Prof. Dr. Jatuporn Wittayakun.<br><br>For his PhD, Dr. Wong conducted groundbreaking research in the field of differential-based optical biosensor arrays, guided by Assoc. Prof. Dr. Khor Sook Mei. His work aimed to detect, differentiate, and quantify various carcinogenic food contaminants in real food samples. Dr. Wong's research interests span across Analytical Chemistry, Bioanalytical Chemistry, Food Chemistry, Materials Chemistry, and Synthetic Chemistry, with a strong expertise in (bio)sensor array development and its application across various research domains.</p>"
+ thumbnailUrl: "Wong.jpg"
+-
+ id: 58
+ name: "Dr."
+ surname: "Yeong Keng Yoon"
+ company: "Monash University Malaysia"
+ title: "Senior Lecturer, School of Science"
+ bio: "<p> Dr. Keng Yoon Yeong (Ken) is currently a Senior Lecturer in the School of Science where he teaches Medicinal Chemistry and Advanced Organic Chemistry. Ken’s research focuses on medicinal chemistry with intersections to organic synthesis, biology and medicine. Broadly, the theme of Ken’s research group is targeted towards small molecule and short peptide drug discovery.<br><br>Before joining Monash University, Ken has spent 11 years as a research scientist in industry where he worked on small molecule organic synthesis and immunoassays. He has co-authored over 60 research publications in the field of medicinal chemistry and drug discovery. His group’s research activities are supported by supported by international as well as national funders such as the Royal Society of Chemistry UK, Malaysian Ministry of Science, Technology and Innovation (MOSTI) and Malaysian Ministry of Higher Education (MOHE). He is a co-inventor for several patent applications and is the recipient of numerous academic awards.</p>"
+ thumbnailUrl: "YKY.jpg"
