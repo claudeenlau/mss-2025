@@ -21,7 +21,7 @@
  company: "TBA"
  title: "Title"
  bio: "Bio"
- thumbnailUrl: "placeholder.png"
+ thumbnailUrl: "TBA.png"
 -
  id: 63
  name: "Speaker"
@@ -29,7 +29,7 @@
  company: "TBA"
  title: "Title"
  bio: "Bio"
- thumbnailUrl: "placeholder.png"
+ thumbnailUrl: "TBA.png"
 -
  id: 64
  name: "Speaker"
@@ -37,7 +37,7 @@
  company: "TBA"
  title: "Title"
  bio: "Bio"
- thumbnailUrl: "placeholder.png"
+ thumbnailUrl: "TBA.png"
 -
  id: 65
  name: "Speaker"
@@ -45,4 +45,4 @@
  company: "TBA"
  title: "Title"
  bio: "Bio"
- thumbnailUrl: "placeholder.png"
+ thumbnailUrl: "TBA.png"
