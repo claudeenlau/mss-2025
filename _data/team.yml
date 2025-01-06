@@ -21,10 +21,10 @@
   head: true
 -
   id: 3
-  name: "Vindya"
-  surname: "Wijesinghe"
+  name: "Siau Wui"
+  surname: "Chin"
   title: "Secretary"
-  thumbnailUrl: Vindya.jpg
+  thumbnailUrl: SiauWui.jpg
   head: true
 -
   id: 4
@@ -84,97 +84,90 @@
   subTeam: true
 -
   id: 12
-  name: "Siau Wui"
-  surname: "Chin"
-  title: "Assistant Secretary"
-  thumbnailUrl: SiauWui.jpg
-  subTeam: true
--
-  id: 13
   name: "Scasia"
   surname: "Halim"
   title: "Treasury Team"
   thumbnailUrl: Scasia.jpg
   subTeam: true
 -
-  id: 14
+  id: 13
   name: "Eldwin Ze Hao"
   surname: "Ooi"
   title: "Treasury Team"
   thumbnailUrl: Eldwin.jpg
   subTeam: true
 -
-  id: 15
+  id: 14
   name: "Chui Yang"
   surname: "Mok"
   title: "Editorial Team"
   thumbnailUrl: Mok.jpg
   subTeam: true
 -
-  id: 16
+  id: 15
   name: "Aalina Sakiinah"
   surname: "Mohd Fuad"
   title: "Editorial Team"
   thumbnailUrl: Aalina.jpg
   subTeam: true
 -
-  id: 17
+  id: 16
   name: "Ian Chun Hoong"
   surname: "Lim"
   title: "Editorial Team"
   thumbnailUrl: Ian.jpg
   subTeam: true
 -
-  id: 18
+  id: 17
   name: "Lakshmi Naga Kavya"
   surname: "Menta"
   title: "Editorial Team"
   thumbnailUrl: Kavya.jpg
   subTeam: true
 -
-  id: 19
+  id: 18
   name: "Carisa Su-Ann"
   surname: "Wong"
   title: "Publicity & Creative Design Team"
   thumbnailUrl: Carisa.jpg
   subTeam: true
 -
-  id: 20
+  id: 19
   name: "Yong Shi"
   surname: "Chiang"
   title: "Publicity & Creative Design Team"
   thumbnailUrl: YongShi.jpg
   subTeam: true
 -
-  id: 21
+  id: 20
   name: "Yan Eve"
   surname: "Tan"
   title: "Publicity & Creative Design Team"
   thumbnailUrl: YanEve.jpg
   subTeam: true
 -   
-  id: 22
+  id: 21
   name: "Pei Ya"
   surname: "Foo"
   title: "Publicity & Creative Design Team"
   thumbnailUrl: PeiYa.jpg
   subTeam: true
 -
-  id: 23
+  id: 22
   name: "Le Wei"
   surname: "Wong"
   title: "Logistics Team"
   thumbnailUrl: LeWei.jpg
   subTeam: true
 -
-  id: 24
+  id: 23
   name: "Sher Min"
   surname: "Ding"
   title: "Logistics Team"
   thumbnailUrl: SherMin.jpg
   subTeam: true
 -
-  id: 25
+  id: 24
   name: "Chi Yie"
   surname: "Choong"
   title: "Logistics Team"
