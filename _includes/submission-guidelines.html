@@ -5,7 +5,7 @@
         	<h3>{{ site.guidelinesTitle }}</h3>
         	<p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.guidelines1 }}</p>
         	<ul class="text-left animated hiding" data-animation="fadeInUp" data-delay="0"> {% for category in site.categoriesBlock %}
-                <li> {{ category.text }} </li>
+                    <li> <strong>{{ category.title }}:</strong> {{ category.text }} </li>
                 {% endfor %}
             </ul>
           <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.guidelines2 }}</p>
