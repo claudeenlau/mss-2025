@@ -7,16 +7,9 @@
             <div class="row categories-details">
                 {% assign animationDelay = 0 %}
                 {% for category in site.categoriesBlock %}
-                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                         <img class="img-circle" src="{{ site.baseurl }}/img/categories/{{ category.image }}" height="128" width="128" alt="{{ category.title }}">
-                         <img class="img-circle category-icon" 
-                             src="{{ site.baseurl }}/img/categories/{{ category.image }}" 
-                             height="128" 
-                             width="128" 
-                             alt="{{ category.text }}"
-                             data-category="{{ category.text }}"
-                             data-subcategories="{{ category.subcategories | join: ',' }}">
                         <p>{{ category.text }}</p>
                     </div>
                 </div>
@@ -26,54 +19,3 @@
     </div>
 </section>
 <!-- End Categories Section -->
-
-<!-- Modal for Subcategories -->
-<div id="subcategoryModal" class="modal">
-    <div class="modal-content">
-        <span class="close">&times;</span>
-        <h4>Subcategories</h4>
-        <ul id="subcategoryList"></ul>
-    </div>
-</div>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-    // Get all category icons
-    const categoryIcons = document.querySelectorAll('.category-icon');
-    const modal = document.getElementById('subcategoryModal');
-    const closeButton = document.querySelector('.close');
-    const subcategoryList = document.getElementById('subcategoryList');
-
-    categoryIcons.forEach(icon => {
-        icon.addEventListener('click', function () {
-            // Get the subcategories from the data-subcategories attribute
-            const subcategories = this.getAttribute('data-subcategories').split(',');
-
-            // Clear any previous subcategories
-            subcategoryList.innerHTML = '';
-
-            // Populate the subcategory list
-            subcategories.forEach(subcategory => {
-                const li = document.createElement('li');
-                li.textContent = subcategory;
-                subcategoryList.appendChild(li);
-            });
-
-            // Show the modal
-            modal.style.display = "block";
-        });
-    });
-
-    // Close the modal when clicking the "close" button
-    closeButton.addEventListener('click', function () {
-        modal.style.display = "none";
-    });
-
-    // Close the modal if the user clicks outside the modal content
-    window.addEventListener('click', function (event) {
-        if (event.target === modal) {
-            modal.style.display = "none";
-        }
-    });
-});
-</script>
