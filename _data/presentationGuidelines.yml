@@ -7,3 +7,12 @@
    - {point: "The presenting author's name should be underlined."}  
    - {point: "The abstract should not exceed one page."}
 -
+  name: "Poster Presentation Guidelines"
+  points:
+    - {point: "Posters must be displayed on A1-sized (59.4 cm width x 84.1 cm height) vertical boards provided by the university."}
+    - {point: "Vertical orientation."}
+-
+  name: "Oral Presentation Guidelines"
+  points:
+    - {point: "Oral sessions will include live moderation and a Q&A session."}
+    - {point: "Presenters are given 10 minutes to present followed by 5 minutes of Q&A."}
