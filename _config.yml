@@ -122,7 +122,7 @@ payGuidelines1: "Payment methods will be updated when the registration form is m
 # Key Dates Block
 keyDatesBlockImage: "key-dates.jpg"
 keyDates:
- - {date: "January 2025", text: "Registration opens"} 
+ - {date: "January 2025", text: "Registration opening soon"} 
  - {date: "31 May 2025", text: "Registration closes"}
  - {date: "15-17 July 2025", text: "Symposium dates"}
 
