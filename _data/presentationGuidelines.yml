@@ -1,9 +1,8 @@
 -
   name: "Abstract Format Guidelines"
   points: 
-   - {point: "Abstract should include title, author names, affiliations, and main text (max. 300 words). No figures, tables or references."}
-   - {point: "Title should be CAPITALISED, concise, and informative."}
-   - {point: "The authors' names should be written in the order of first name (with or without additional first name initials) then family name. All co-author names should be in the same row. Affilliation(s) should be listed last, as short as possible. The universities or main organizations listed should include their countries. DO NOT include your department or P.O. Box."}  
+   - {point: "Abstract should include title, author names, affiliations, and main text (max. 300 words)."}
+   - {point: "Title should be <strong>capitalized</strong>, concise, and informative."}
    - {point: "The presenting author's name should be underlined."}  
    - {point: "The abstract should not exceed one page."}
 -
