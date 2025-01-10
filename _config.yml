@@ -63,11 +63,11 @@ original sites categories block:
 categoriesTitle: "Abstract submission will be open soon!"
 categoriesDescription: "We will be calling for abstract submission for the following categories:"
 categoriesBlock:
- - {title: "Drug Discovery & Development", image: "category_logo_drugdiscovery.png", text: “Subcategories include Applied Microbiology and Cell & Molecular Biology”}
- - {title: "Green & Sustainable Chemistry", image: "category_logo_greenchem.png", text: “Subcategory includes Chemistry”}
- - {title: "Tropical Biodiversity & Conservation Biology", image: "category_logo_env.png", text: “Subcategory includes Environmental & Agricultural Sciences”}
- - {title: "Functional & Future Food", image: "category_logo_fst.png", text: “Subcategory includes Food Science & Technology”}
- - {title: "Big Data Analytics & Genomics for One Health", image: "category_logo_gen.png", text: “Subcategory includes Genomics & Bioinformatics”}
+ - {title: "Drug Discovery & Development", image: "category_logo_drugdiscovery.png", text: "Subcategories include Applied Microbiology and Cell & Molecular Biology"}
+ - {title: "Green & Sustainable Chemistry", image: "category_logo_greenchem.png", text: "Subcategory includes Chemistry"}
+ - {title: "Tropical Biodiversity & Conservation Biology", image: "category_logo_env.png", text: "Subcategory includes Environmental & Agricultural Sciences"}
+ - {title: "Functional & Future Food", image: "category_logo_fst.png", text: "Subcategory includes Food Science & Technology"}
+ - {title: "Big Data Analytics & Genomics for One Health", image: "category_logo_gen.png", text: "Subcategory includes Genomics & Bioinformatics"}
 categoriesButton:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5MeP9RFuBrG3bQ13-8G_HB810IbFPFHAz-ojSsvQ8uY3ePw/viewform?usp=sharing", text: "Join our mailing list"}
 
