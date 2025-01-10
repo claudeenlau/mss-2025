@@ -2,19 +2,26 @@
 <section id="categories" class="categories">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-          <h3>{{ site.categoriesTitle }}</h3>
-          <p>{{ site.categoriesDescription }}</p>
+            <h3>{{ site.categoriesTitle }}</h3>
+            <p>{{ site.categoriesDescription }}</p>
             <div class="row categories-details">
                 {% assign animationDelay = 0 %}
                 {% for category in site.categoriesBlock %}
                 <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                        <!-- Title above the image -->
+                        <h5>{{ category.title }}</h5>
+                        
+                        <!-- Image (circle) -->
                         <img class="img-circle" src="{{ site.baseurl }}/img/categories/{{ category.image }}" height="128" width="128" alt="{{ category.title }}">
+                        
+                        <!-- Text below the image -->
                         <p>{{ category.text }}</p>
                     </div>
                 </div>
+                {% assign animationDelay = animationDelay | plus:500 %}
                 {% endfor %}
-          </div>
+            </div>
         </div>
     </div>
 </section>
