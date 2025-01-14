@@ -40,9 +40,9 @@ navigationLinks:
  - {permalink: "/speakers", text: "Speakers"}
  - {permalink: "/registration", text: "Registration"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5MeP9RFuBrG3bQ13-8G_HB810IbFPFHAz-ojSsvQ8uY3ePw/viewform?usp=sharing", text: "Join our mailing list"}
+ - {link: "https://shop.monash.edu.my/monash-science-symposium-2025.html", text: "Register now"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5MeP9RFuBrG3bQ13-8G_HB810IbFPFHAz-ojSsvQ8uY3ePw/viewform?usp=sharing", text: "Join our mailing list"}
+ - {link: "https://shop.monash.edu.my/monash-science-symposium-2025.html", text: "Register now"}
 
 # Miscellaneous links
 #speakerButtonRegister: "https://forms.gle/t2ztnxtMbNzzXC2o8"
@@ -55,7 +55,7 @@ heroMotto: "<em>Innovating for Tomorrow: Scientific Solutions for a Sustainable 
 typeoutTextValues: '"", "2025" '
 typeoutFallback: ""
 heroButtons:
-- {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5MeP9RFuBrG3bQ13-8G_HB810IbFPFHAz-ojSsvQ8uY3ePw/viewform?usp=sharing", text: "Join our mailing list"}
+- {link: "https://shop.monash.edu.my/monash-science-symposium-2025.html", text: "Register now"}
 #- {permalink: "/#footer", text: "Footer"}
 
 original sites categories block:
@@ -69,7 +69,7 @@ categoriesBlock:
  - {title: "Functional & Future Food", image: "category_logo_fst.png", text: "<em>Food Science & Technology</em>"}
  - {title: "Big Data Analytics & Genomics for One Health", image: "category_logo_gen.png", text: "<em>Genomics & Bioinformatics</em>"}
 categoriesButton:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5MeP9RFuBrG3bQ13-8G_HB810IbFPFHAz-ojSsvQ8uY3ePw/viewform?usp=sharing", text: "Join our mailing list"}
+ - {link: "https://shop.monash.edu.my/monash-science-symposium-2025.html", text: "Register now"}
 
 # About MSS Block
 aboutMSSBlockTitle: "About MSS"
@@ -112,17 +112,17 @@ abstractSubmissionPoints:
 
 guidelinesButton:
   #need to insert new guideline pdf and online regustration form links here
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5MeP9RFuBrG3bQ13-8G_HB810IbFPFHAz-ojSsvQ8uY3ePw/viewform?usp=sharing", text: "Join our Mailing List"} 
+ - {link: "https://shop.monash.edu.my/monash-science-symposium-2025.html", text: "Register now"} 
  - {link: "https://drive.google.com/file/d/1jRcxgNM2WGpr7gpIZFzP6rNrOuhg-kpm/view?usp=sharing", text: "Submission & Format Guidelines"}
 
 # Payment Guidelines Block
-payGuidelinesTitle: "Payment guidelines"
-payGuidelines1: "Payment methods will be updated when the registration form is made available. Thank you for your patience!"
+# payGuidelinesTitle: "Payment guidelines"
+# payGuidelines1: "Payment methods will be updated when the registration form is made available. Thank you for your patience!"
 
 # Key Dates Block
 keyDatesBlockImage: "key-dates.jpg"
 keyDates:
- - {date: "January 2025", text: "Registration opening soon"} 
+ - {date: "14 January 2025", text: "Registration opens"} 
  - {date: "31 May 2025", text: "Registration closes"}
  - {date: "15-17 July 2025", text: "Symposium dates"}
 
@@ -192,14 +192,14 @@ ticketsOffers:
   name: "Monash Student"
   price: "170"
   priceCurrency: "MYR"
-  buyButtonLink: "https://claudeenlau.github.io/mss-2025/registration/"
+  buyButtonLink: "https://shop.monash.edu.my/monash-science-symposium-2025.html"
   buyButtonText: "<strong>Register</strong>"
   additionalInfo: "<i>Only for Monash students</i>"
 -
   name: "Non-Monash Student"
   price: "270"
   priceCurrency: "MYR"
-  buyButtonLink: "https://claudeenlau.github.io/mss-2025/registration/"
+  buyButtonLink: "https://shop.monash.edu.my/monash-science-symposium-2025.html"
   buyButtonText: "<strong>Register</strong>"
   additionalInfo: "<i>For students from other universities</i>"
 
