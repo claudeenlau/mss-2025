@@ -60,8 +60,8 @@ heroButtons:
 
 original sites categories block:
 # Categories Block
-categoriesTitle: "Abstract submission will be open soon!"
-categoriesDescription: "We will be calling for abstract submission for the following categories:"
+categoriesTitle: "Abstract submissions are now open!"
+categoriesDescription: "We are calling for abstract submissions for the following categories:"
 categoriesBlock:
  - {title: "Drug Discovery & Development", image: "category_logo_drugdiscovery.png", text: "<em>Applied Microbiology, Cell & Molecular Biology</em>"}
  - {title: "Green & Sustainable Chemistry", image: "category_logo_greenchem.png", text: "<em>Chemistry</em>"}
