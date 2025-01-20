@@ -32,17 +32,17 @@
  thumbnailUrl: "StevenLee.jpg"
 -
  id: 64
+ name: "Assoc. Prof."
+ surname: "Chen Jit Ern"
+ company: "Sunway University"
+ title: "Head of Jeffrey Sachs Center on Sustainable Development"
+ bio: "Dr. Chen Jit Ern is the Director of the Jeffrey Sachs Center on Sustainable Development and an Associate Professor in the School of Biological Sciences at Sunway University. His primary research interest is in the development and utilization of genetic engineering techniques and molecular tools on various microalgae, to study the underlying mechanisms of physiological traits such as lipid accumulation and heat tolerance. Dr Chen’s current primary project is focused on studying the potential for increased heat-tolerance in Zooxanthellae, the photosynthetic coral endosymbiont, with an emphasis on heat-activated retrotransposons and on experimental evolution of heat-tolerance in microalgae. Other areas of interests include the effects of algae auxins on the growth of higher plants, monitoring biodiversity in Bandar Sunway and advising Sunway Group on their sustainability initiatives and Climate Value-at-Risk analyses."
+ thumbnailUrl: "JitErn.jpg"
+ -
+ id: 65
  name: "Prof."
  surname: "Leong Chee-Onn"
  company: "AGTC Genomics"
  title: "Founder and CEO of AGTC Genomics"
  bio: "Prof. Dr. Chee-Onn is an experienced cancer biologist. Prior to founding AGTC Genomics, Chee-Onn served as the Deputy Director of Research and Professor at the International Medical University. He was a Senior Research Fellow at the Harvard Medical School and Massachusetts General Hospital. Currently, he is a Fellow of the Institute of Biomedical Sciences (FIBMS, UK), Fellow of the Royal Society of Biology (FRBS, UK), and Fellow of the Royal Society of Chemistry (FRCS, UK)."
  thumbnailUrl: "placeholder.png"
- -
- id: 65
- name: "Speaker"
- surname: "6"
- company: ""
- title: ""
- bio: ""
- thumbnailUrl: "TBA.png"
