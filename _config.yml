@@ -123,7 +123,8 @@ guidelinesButton:
 # Key Dates Block
 keyDatesBlockImage: "key-dates.jpg"
 keyDates:
- - {date: "14 January 2025", text: "Registration opens"} 
+ - {date: "14 January 2025", text: "Registration and early bird discount open"} 
+ - {date: "1 April 2025", text: "Early bird discount ends"}
  - {date: "31 May 2025", text: "Registration closes"}
  - {date: "15-17 July 2025", text: "Symposium dates"}
 
@@ -190,6 +191,22 @@ ticketsTitle: "Ticket prices"
 #ticketsInfo: "Tickets grant access to all conference sections and food. Accommodation is NOT included in the ticket price."
 ticketsOffers:
 -
+  name: "Monash Student"
+  price: "136"
+  priceCurrency: "MYR"
+  buyButtonLink: "https://shop.monash.edu.my/monash-science-symposium-2025.html"
+  buyButtonText: "<strong>Register</strong>"
+  earlyBirdRate: true
+  additionalInfo: "<i>Only for Monash students. <strong>Valid till 01/04/2025</strong></i>"
+-  
+  name: "Non-Monash Student"
+  price: "216"
+  priceCurrency: "MYR"
+  buyButtonLink: "https://shop.monash.edu.my/monash-science-symposium-2025.html"
+  buyButtonText: "<strong>Register</strong>"
+  earlyBirdRate: true
+  additionalInfo: "<i>Only for Monash students. <strong>Valid till 01/04/2025</strong></i>"
+-  
   name: "Monash Student"
   price: "170"
   priceCurrency: "MYR"
