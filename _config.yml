@@ -114,7 +114,7 @@ abstractSubmissionPoints:
 guidelinesButton:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd5MeP9RFuBrG3bQ13-8G_HB810IbFPFHAz-ojSsvQ8uY3ePw/viewform?usp=sharing", text: "Join our mailing list"}
  - {link: "https://shop.monash.edu.my/monash-science-symposium-2025.html", text: "Register now"} 
- - {link: "https://drive.google.com/file/d/1jRcxgNM2WGpr7gpIZFzP6rNrOuhg-kpm/view?usp=sharing", text: "Submission & Format Guidelines"}
+ - {link: "https://drive.google.com/file/d/1LHJMME20Nko_g__c0IErcqAzqUqS7uoK/view?usp=sharing", text: "Submission & Format Guidelines"}
 
 # Payment Guidelines Block
 # payGuidelinesTitle: "Payment guidelines"
