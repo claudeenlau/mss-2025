@@ -197,7 +197,7 @@ ticketsOffers:
   buyButtonLink: "https://shop.monash.edu.my/monash-science-symposium-2025.html"
   buyButtonText: "<strong>Register</strong>"
   earlyBirdRate: true
-  additionalInfo: "<strong>Discount code: 20MSS2025; Valid till 01/04/2025</strong>"
+  additionalInfo: "<strong>Discount code: 20MSS2025; Valid till 01/05/2025</strong>"
 -  
   name: "Non-Monash Student"
   price: "216"
@@ -205,7 +205,7 @@ ticketsOffers:
   buyButtonLink: "https://shop.monash.edu.my/monash-science-symposium-2025.html"
   buyButtonText: "<strong>Register</strong>"
   earlyBirdRate: true
-  additionalInfo: "<strong>Discount code: 20MSS2025; Valid till 01/04/2025</strong>"
+  additionalInfo: "<strong>Discount code: 20MSS2025; Valid till 01/05/2025</strong>"
 -  
   name: "Monash Student"
   price: "170"
