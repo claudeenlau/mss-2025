@@ -219,7 +219,7 @@ ticketsOffers:
   priceCurrency: "MYR"
   buyButtonLink: "https://shop.monash.edu.my/monash-science-symposium-2025.html"
   buyButtonText: "<strong>Register</strong>"
-  additionalInfo: "<em>For students from other universities</em>"
+  additionalInfo: "<em>For students/researchers from other universities/institutions</em>"
 
 # Footer
 socialLinks:
