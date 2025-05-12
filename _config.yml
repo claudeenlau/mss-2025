@@ -221,6 +221,13 @@ ticketsOffers:
   buyButtonLink: "https://shop.monash.edu.my/monash-science-symposium-2025.html"
   buyButtonText: "<strong>Register</strong>"
   additionalInfo: "<em>For students/researchers from other universities/institutions</em>"
+-
+  name: "Non-Presenters"
+  price: "30"
+  priceCurrency: "MYR"
+  buyButtonLink: "https://shop.monash.edu.my/monash-science-symposium-2025.html"
+  buyButtonText: "<strong>Register</strong>"
+  additionalInfo: "<em>Not inclusive of food</em>"
 
 # Footer
 socialLinks:
