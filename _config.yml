@@ -191,7 +191,7 @@ partnersDescription: "We would like to thank our sponsor for their generous supp
 ticketsTitle: "Ticket prices"
 #ticketsInfo: "Tickets grant access to all conference sections and food. Accommodation is NOT included in the ticket price."
 ticketsOffers:
--
+#-
  # name: "Monash Student"
  # price: "136"
  # priceCurrency: "MYR"
@@ -199,7 +199,7 @@ ticketsOffers:
  # buyButtonText: "<strong>Register</strong>"
  # earlyBirdRate: true
  # additionalInfo: "<strong>Discount code: 20MSS2025; Valid till 01/05/2025</strong>"
--  
+#-  
  # name: "Non-Monash Student"
  # price: "216"
  # priceCurrency: "MYR"
