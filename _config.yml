@@ -123,9 +123,10 @@ guidelinesButton:
 # Key Dates Block
 keyDatesBlockImage: "key-dates.jpg"
 keyDates:
- - {date: "14 January 2025", text: "Registration open"} 
- - {date: "1 May 2025", text: "Early bird deadline"}
- - {date: "31 May 2025", text: "Registration closes"}
+ - {date: "14 January 2025", text: "Registration Open"} 
+ - {date: "1 May 2025", text: "Early Bird Deadline"}
+ - {date: "31 May 2025", text: "Registration for Presenters Closes"}
+ - {date: "Mid June 2025", text: "Registration for Non-Presenters Closes"}
  - {date: "15-17 July 2025", text: "Symposium dates"}
 
 # Statistic Block
