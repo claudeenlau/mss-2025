@@ -4,6 +4,6 @@
     - {name: "Monash University Malaysia", description: "Monash logo", link: "https://www.monash.edu.my/", imageUrl: "MUM-logo.png", width: "600px"}
     - {name: "Alpha Gas Solution Sdn Bhd", description: "AGS logo", link: "http://www.ags.my/", imageUrl: "AGS-logo.png", width: "600px"}
     - {name: "Canvio Sdn Bhd", description: "Canvio logo", link: "https://www.canvio.net/", imageUrl: "Canvio-logo.png", width: "600px"}
-    - {name: "Gene Xpress PLT", description: "GeneXpress logo", link: "https://www.gene-xpress.com.my/", imageURL: "GeneXpress-logo.png", width: "600px"}
+    - {name: "Gene Xpress PLT", description: "GeneXpress logo", link: "https://www.gene-xpress.com.my/", imageURL: "GeneXpress-logo.png"}
     - {name: "MC Lab", description: "MC Lab logo", link: "https://www.mclab.com.my/", imageUrl: "MCLab-logo.png", width: "600px"}
     - {name: "PaperBox Malaysia Sdn Bhd", description: "PaperBox Logo", link: "https://www.ourpaperbox.com/", imageUrl: "PaperBox-logo.png", width: "600px"}
