@@ -94,13 +94,13 @@ sponsorsTitle: "Event Sponsors"
 sponsorsDescription: "We are proud to be supported by our generous sponsors who help make MSS 2025 possible. Their contributions enable us to deliver an impactful and memorable event."
 
 sponsorGroups:
-  - group: "Event Organiser"
+  - group: "<strong>Event Organiser</strong>"
     elements:
       - name: "Monash University Malaysia"
         logo: "MUM-logo.png"
         link: "https://www.monash.edu.my/"
 
-  - group: "Platinum Sponsors"
+  - group: "<strong>Platinum Sponsors</strong>"
     elements:
       - name: "Eppendorf Asia Pacific"
         logo: "Eppendorf-logo.png"
@@ -109,13 +109,13 @@ sponsorGroups:
         logo: "Chemopharm-logo.jpg"
         link: "https://www.chemopharm.com/"
 
-  - group: "Gold Sponsor"
+  - group: "<strong>Gold Sponsor</strong>"
     elements:
       - name: "Canvio Sdn Bhd"
         logo: "Canvio-logo.png"
         link: "https://www.canvio.net/"
 
-  - group: "Copper Sponsors"
+  - group: "<strong>Copper Sponsors</strong>"
     elements:
       - name: "PaperBox Malaysia Sdn Bhd"
         logo: "PaperBox-logo.png"
@@ -127,7 +127,7 @@ sponsorGroups:
         logo: "MCLab-logo.png"
         link: "https://www.mclab.com.my/"
 
-  - group: "Value Sponsors"
+  - group: "<strong>Value Sponsors</strong>"
     elements:
       - name: "Gene Xpress PLT"
         logo: "GeneXpress-logo.jpg"
