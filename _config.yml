@@ -44,9 +44,6 @@ bottomNavigationLinks:
 rightNavigationButtons:
  - {link: "https://shop.monash.edu.my/monash-science-symposium-2025.html", text: "Register now"}
 
-# Miscellaneous links
-#speakerButtonRegister: "https://forms.gle/t2ztnxtMbNzzXC2o8"
-
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Monash Science Symposium (MSS) <typeout>"
@@ -60,8 +57,8 @@ heroButtons:
 
 original sites categories block:
 # Categories Block
-categoriesTitle: "Abstract submissions are now open!"
-categoriesDescription: "We are calling for abstract submissions for the following categories:"
+categoriesTitle: "Abstract submissions closed!"
+categoriesDescription: "Abstract submission categories:"
 categoriesBlock:
  - {title: "Applied Microbiology", image: "category_logo_microbio.png"}
  - {title: "Cell & Molecular Biology", image: "category_logo_bio.png"}
@@ -91,14 +88,6 @@ history1: "MSS was first held in 2013 as a gathering of local science graduate r
 history2: "In 2014, the Symposium has registered more than 150 student participants, half of which represent participants from 9 other different local universities/research institutes. In 2016, the symposium was held with more registered participants, including external participants who were from 13 universities and a government agency. A new scope was introduced in MSS 2016, covering a total of 6 major life sciences branches and were presented over 3-day periods. The Symposium had received overwhelming positive feedback from the participants. In 2018, an intervarsity symposium which served as a promotional event to highlight the capabilities of HDR students of Monash University Malaysia in producing quality research outputs and the dissemination of their scientific findings to a broader audience. In 2021, the Symposium continued its legacy by expanding the event and introducing a new science category, “Science Communication and Safety.” This addition aimed to broaden the scope of the symposium and address emerging trends in the scientific community. This approach was also carried forward in 2022, with the same focus on expanding the event and strengthening this category to further engage participants and enhance the overall impact of the symposium."
 history3: "For MSS 2025, we aim to host the Symposium as an international platform that brings together students, researchers, and experts from around the world. The event will feature a diverse array of research topics, showcasing the innovative work being carried out at Monash University Malaysia. Aligned with the university's Impact 2030 initiative, the Symposium will provide an opportunity for young scientists and postgraduate students to present their findings, engage in meaningful discussions, and connect with leading professionals in their respective fields. Through this event, we will highlight Monash University's ongoing contributions to global scientific advancement and foster collaboration between local and international research communities."
 
-# Schedule Introduction Block
-scheduleIntroTitle: "Schedule TEST"
-scheduleIntro1: "MSS 2025 will be held for three days and be split into the morning and afternoon sessions."
-scheduleIntroButtons:
-  - {permalink: "/schedule/#day-1-morning", text: "Day 1 (Morning)"}
-  - {permalink: "/schedule/#day-1-afternoon", text: "Day 1 (Afternoon)"}
-scheduleIntro2: "Oral presentations are categorised into 7 categories:<br>1. Genomics & Bioinformatics<br>2. Cell & Molecular Biology<br>3. Chemistry & Drug Discovery"
-
 # Guidelines Block
 guidelinesTitle: "Submission Guidelines"
 guidelines1: "Welcome to Monash Science Symposium (MSS) 2025! Our theme this year is “Innovating for Tomorrow: Scientific Solutions for a Sustainable Future”.
@@ -116,10 +105,6 @@ guidelinesButton:
  - {link: "https://shop.monash.edu.my/monash-science-symposium-2025.html", text: "Register now"} 
  - {link: "https://drive.google.com/file/d/1LHJMME20Nko_g__c0IErcqAzqUqS7uoK/view?usp=sharing", text: "Submission & Format Guidelines"}
 
-# Payment Guidelines Block
-# payGuidelinesTitle: "Payment guidelines"
-# payGuidelines1: "Payment methods will be updated when the registration form is made available. Thank you for your patience!"
-
 # Key Dates Block
 keyDatesBlockImage: "key-dates.jpg"
 keyDates:
@@ -128,67 +113,12 @@ keyDates:
  - {date: "31 May 2025", text: "Registration for Presenters Closes"}
  - {date: "15-17 July 2025", text: "Symposium dates"}
 
-# Statistic Block
-#statisticBlockImage: "statistic.jpg"
-#statisticBlock:
-# - {count: "15", specialCharacter: " Jan", info: "2020", detail: "Early Bird Deadline"}
-# - {count: "30", specialCharacter: " Jan", info: "2020", detail: "Abstract Deadline"}
-# - {count: "1", specialCharacter: " Feb", info: "2020", detail: "Registration Closes"}
-
-# Latest News Block
-latestNewsTitle: "Latest news"
-
-# Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
-
-# Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Monash University Malaysia"
-#eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "Jalan Lagoon Selatan, Bandar Sunway"
-eventAddressLocality: "47500 Subang Jaya, Selangor, Malaysia"
-#eventAddressLocalityRegion: "Lv{% include about.html %}ivska"
-eventPostalCode: "47500"
-eventAddressCountry: "Malaysia"
-eventStartTime: "8 Jan (09:00)"
-#eventDoorTime: "09:00"
-eventEndTime: "10 Jan (20:00)"
-eventPlaceCoordinates: "3.064917, 101.600973"
-mapCenterCoordinates: "3.064917, 101.600973"
-mapMobileCenterCoordinates: "3.064917, 101.600973"
-
-# Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
-
-# Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
-
 # Partners Block
 partnersTitle: "Sponsors"
 partnersDescription: "We would like to thank our sponsor for their generous support:"
-# partnersSponsorsButton: "Become a sponsor"
-
-# Subscribe Block
-#subscribeImage: "subscribe.jpg"
-#subscribeTitle: "Subscribe for updates"
-#subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-#subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Ticket prices"
-#ticketsInfo: "Tickets grant access to all conference sections and food. Accommodation is NOT included in the ticket price."
 ticketsOffers:
 #-
  # name: "Monash Student"
@@ -210,15 +140,15 @@ ticketsOffers:
   name: "Monash Student"
   price: "170"
   priceCurrency: "MYR"
-  buyButtonLink: "https://shop.monash.edu.my/monash-science-symposium-2025.html"
-  buyButtonText: "<strong>Register</strong>"
+  buyButtonLink: 
+  buyButtonText: "<strong>Registration closed</strong>"
   additionalInfo: "<em>Only for Monash students</em>"
 -
   name: "Non-Monash Student"
   price: "270"
   priceCurrency: "MYR"
-  buyButtonLink: "https://shop.monash.edu.my/monash-science-symposium-2025.html"
-  buyButtonText: "<strong>Register</strong>"
+  buyButtonLink: 
+  buyButtonText: "<strong>Registration closed</strong>"
   additionalInfo: "<em>For students/researchers from other universities/institutions</em>"
 -
   name: "Non-Presenters"
@@ -247,61 +177,5 @@ footerBlocks:
     - {link: "https://monashscience2018.jimdofree.com/", text: "MSS 2018"}
     - {link: "https://monashscience.jimdofree.com/", text: "MSS 2016"}
 
-
-# Sponsorship Tiers Block
-sponsorshipTiersTitle: "Sponsorship Tiers"
-sponorshipTiersNote1: "*If you are only interested in selling merchandise (minimum 200 pieces), which comes with an acknowledgement in the program booklet, please contact _________"
-sponorshipTiersNote2: "*Note that the program booklets will be hardcopies for distinguished guests and softcopies for participants"
-sponsorshipTiers:
- -
-  name: "Bronze"
-  benefitList: ["Acknowledgement in program booklet", "Advertisement on TV screens throughout the Monash campus (every 20 minutes)", "Logos on photo booths"]
-  headerBackgroundColor: "rgb(142,112,104,0.4)"
-  headerTextColor: "#333333"
- -
-  name: "Silver"
-  benefitList: ["Quarter-page advertisement in program booklet", "Advertisement on TV screens throughout the Monash campus (every 20 minutes)", "Logos on photo booths and banners", "Shoutouts on social media platforms once every fortnight (Facebook, Instagram, Twitter)", "Acknowledgement of company on website"]
-  headerBackgroundColor: "rgb(141,198,197,0.4)"
-  headerTextColor: "#333333"
- -
-  name: "Gold"
-  benefitList: ["Half-page advertisement in program booklet", "Advertisement on TV screens throughout the Monash campus (every 20 minutes)", "Logos on photo booths and banners", "Shoutouts on social media platforms once a week (Facebook, Instagram, Twitter)", "Acknowledgement of company on website", "Shared booth for 3 days"]
-  headerBackgroundColor: "rgb(255,206,0,1.0)"
-  headerTextColor: "#333333"
- -
-  name: "Platinum"
-  benefitList: ["Full-page advertisement in program booklet", "Advertisement on TV screens throughout the Monash campus (every 20 minutes)", "Logos on photo booths and banners", "Shoutouts on social media platforms twice a week (Facebook, Instagram, Twitter)", "Acknowledgement of company on website", "Largest exhibition booth for 3 days", "Logo printed on pendrives which will be given to all participants", "Industrial speaker of company’s choice"]
-  headerBackgroundColor: "rgb(211,21,91,1.0)"
-  headerTextColor: "#ffffff"
-
 # Speakers List Block
 showSessions: false
-
-# Logistics Find Way Block
-# findWayTitle: "Find your way here"
-# findWayDistance: "Distance"
-# findWayDriving: "DRIVING"
-# findWayWalking: "WALKING"
-# findWayBicycling: "BICYCLING"
-# findWayTransit: "TRANSIT"
-# findWayFindFlight: "Find Flight"
-# logisticsMapCenterCoordinates: "49.056728, 3.117289"
-# logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
-# logisticsMapAutoDirections: false
-
-# Logistics Direction Details Block
-directionDetailsTitle: "Sunway City"
-directionDetailsDescription: "Monash University Malaysia is located in Bandar Sunway (Sunway City), a township equipped with leisure, entertainment, educaiton and residential facilities. You can commute around Sunway City through a few options below:"
-directionDetailsCards:
-  -
-    title: "Canopy Walk"
-    information: "The canopy walk is an elevated and secure (monitored by close-circuit television cameras) walkway in Bandar Sunway that connects our campus to the Sunway Pyramid mall. The walk takes about 15-20 minutes. For more information, check out our <a href=\"https://drive.google.com/open?id=1DWHKEqD5RvDFFdRzlTYaCNNvKuY7ylkK&usp=sharing\">custom Google Map.</a>"
-  -
-    title: "BRT"
-    information: "The game-changing Bus Rapid Transit (BRT) is Malaysia's first elevated Bus Rapid Transit system. This BRT Sunway line connects Sunway City with other public rail transportion (Setia Jaya KTM Komuter station and the USJ7 LRT station). Check out this <a href=\"https://www.malaysia-traveller.com/BRT-Sunway.html\">travel blog</a> for more information."
-  -
-    title: "Shuttle Bus"
-    information: "The free Sunway Shuttble Bus service runs every 60 minutes (subject to traffic conditions). From Monday to Saturday, it operates from 7:00 AM - 10:15 PM. On Sundays, it's 9:00 AM - 10:15 PM. Please click <a href=\"https://drive.google.com/a/monash.edu/file/d/1qTRcUGG0i-Bhrq0HcJlEiFLqCrWQDa0Q/view?usp=sharing\">here for the list of bus stops.</a>"
-  -
-    title: "Grab"
-    information: "Grab is one of Malaysia's most well-known ride-hailing services. Fares may vary depending on traffic and weather conditions. The Grab app is available on <a href=\"https://www.grab.com/my/download/\">App Store and Google Play.</a>"
