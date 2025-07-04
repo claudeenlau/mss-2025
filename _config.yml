@@ -91,7 +91,7 @@ history3: "For MSS 2025, we aim to host the Symposium as an international platfo
 
 # Event Sponsors Block
 sponsorsTitle: "Event Sponsors"
-sponsorsDescription: "We are proud to be supported by our generous sponsors who help make MSS 2025 possible. Their contributions enable us to deliver an impactful and memorable event."
+sponsorsDescription: "We are proud to be supported by our generous sponsors who help make MSS 2025 possible."
 
 sponsorGroups:
   - group: "<strong>Event Organiser</strong>"
@@ -105,6 +105,7 @@ sponsorGroups:
       - name: "Eppendorf Asia Pacific"
         logo: "Eppendorf-logo.png"
         link: "https://www.eppendorf.com/my-en"
+        video: "https://drive.google.com/file/d/1hvbRs0RoeZ3zzI6Nx6ynuAskkDglp5gy/view?usp=sharing"
       - name: "Everlife-Chemopharm Group"
         logo: "Chemopharm-logo.jpg"
         link: "https://www.chemopharm.com/"
@@ -114,6 +115,7 @@ sponsorGroups:
       - name: "Canvio Sdn Bhd"
         logo: "Canvio-logo.png"
         link: "https://www.canvio.net/"
+        poster: "https://drive.google.com/file/d/1KO2tx1SR5BHr_b6fnqP46UvK-o6ezIwD/view?usp=sharing"
 
   - group: "<strong>Copper Sponsors</strong>"
     elements:
@@ -132,6 +134,7 @@ sponsorGroups:
       - name: "Gene Xpress PLT"
         logo: "GeneXpress-logo.jpg"
         link: "https://www.gene-xpress.com.my/"
+        poster: "https://drive.google.com/file/d/1AUbvMUr6shWn667QEm7Gq30nIB1BD5yW/view?usp=sharing"
       - name: "Nestle Malaysia"
         logo: "Nestle-logo.jpg"
         link: "https://www.nestle.com.my/"
