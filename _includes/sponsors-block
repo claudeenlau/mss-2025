@@ -1,0 +1,18 @@
+<section id="sponsors" class="sponsors">
+  <div class="content-wrapper">
+    <h3>{{ site.sponsorsTitle }}</h3>
+    <p>{{ site.sponsorsDescription }}</p>
+    {% for group in site.sponsorGroups %}
+      <h5>{{ group.group }}</h5>
+      <ul class="list-inline">
+        {% for sponsor in group.elements %}
+          <li>
+            <a href="{{ sponsor.link }}" target="_blank">
+              <img src="{{ site.baseurl }}/img/partners/{{ sponsor.logo }}" alt="{{ sponsor.name }}">
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
+  </div>
+</section>
