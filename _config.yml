@@ -40,10 +40,10 @@ navigationLinks:
  - {permalink: "/speakers", text: "Speakers"}
  - {permalink: "/registration", text: "Registration"}
  - {permalink: "/sponsors/", text: "Sponsors"}
-bottomNavigationLinks:
- - #{link: "https://shop.monash.edu.my/monash-science-symposium-2025.html", text: "Register now"}
-rightNavigationButtons:
- - #{link: "https://shop.monash.edu.my/monash-science-symposium-2025.html", text: "Register now"}
+#bottomNavigationLinks:
+#{link: "https://shop.monash.edu.my/monash-science-symposium-2025.html", text: "Register now"}
+#rightNavigationButtons:
+#{link: "https://shop.monash.edu.my/monash-science-symposium-2025.html", text: "Register now"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -53,7 +53,7 @@ heroMotto: "<em>Innovating for Tomorrow: Scientific Solutions for a Sustainable 
 typeoutTextValues: '"", "2025" '
 typeoutFallback: ""
 heroButtons:
-- #{link: "https://shop.monash.edu.my/monash-science-symposium-2025.html", text: "Register now"}
+#{link: "https://shop.monash.edu.my/monash-science-symposium-2025.html", text: "Register now"}
 #- {permalink: "/#footer", text: "Footer"}
 
 original sites categories block:
@@ -68,7 +68,7 @@ categoriesBlock:
  - {title: "Food Science & Technology", image: "category_logo_fst.png"}
  - {title: "Genomics & Bioinformatics", image: "category_logo_gen.png"}
 categoriesButton:
- - #{link: "https://shop.monash.edu.my/monash-science-symposium-2025.html", text: "Register now"}
+#{link: "https://shop.monash.edu.my/monash-science-symposium-2025.html", text: "Register now"}
 
 # About MSS Block
 aboutMSSBlockTitle: "About MSS"
@@ -142,17 +142,17 @@ guidelinesTitle: "Submission Guidelines"
 guidelines1: "Welcome to Monash Science Symposium (MSS) 2025! Our theme this year is “Innovating for Tomorrow: Scientific Solutions for a Sustainable Future”.
 MSS 2025 will feature the following categories:"
 
-guidelines2: "<strong>For full submission guidelines please click the Submission & Format Guidelines button below.</strong>"
+#guidelines2: "<strong>For full submission guidelines please click the Submission & Format Guidelines button below.</strong>"
 abstractSubmissionTitle: "Abstract Submission Guidelines"
 abstractSubmissionPoints:
  - {point: "Submit abstracts in English via the registration form using the presenting author's email address."}
  - {point: "Each abstract can only be submitted <strong>once</strong>. Please proofread for spelling, grammar and scientific accuracy before submission; no changes are allowed after the deadline."}
  - {point: "Choose the appropriate topic/field and indicate your preference for presentation type: oral, poster, or either. Acceptance notifications will specify the format."}
 
-guidelinesButton:
- - #{link: "https://docs.google.com/forms/d/e/1FAIpQLSd5MeP9RFuBrG3bQ13-8G_HB810IbFPFHAz-ojSsvQ8uY3ePw/viewform?usp=sharing", text: "Join our mailing list"}
- - #{link: "https://shop.monash.edu.my/monash-science-symposium-2025.html", text: "Register now"} 
- - #{link: "https://drive.google.com/file/d/1LHJMME20Nko_g__c0IErcqAzqUqS7uoK/view?usp=sharing", text: "Submission & Format Guidelines"}
+#guidelinesButton:
+#{link: "https://docs.google.com/forms/d/e/1FAIpQLSd5MeP9RFuBrG3bQ13-8G_HB810IbFPFHAz-ojSsvQ8uY3ePw/viewform?usp=sharing", text: "Join our mailing list"}
+#{link: "https://shop.monash.edu.my/monash-science-symposium-2025.html", text: "Register now"} 
+#{link: "https://drive.google.com/file/d/1LHJMME20Nko_g__c0IErcqAzqUqS7uoK/view?usp=sharing", text: "Submission & Format Guidelines"}
 
 # Key Dates Block
 keyDatesBlockImage: "key-dates.jpg"
